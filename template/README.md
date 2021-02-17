@@ -4,11 +4,11 @@
 
 ## 相关项目
 
-- [知乎热榜](https://github.com/lonnyzhang423/zhihu-hot-hub)
-- [微博热榜](https://github.com/lonnyzhang423/weibo-hot-hub)
-- [头条热榜](https://github.com/lonnyzhang423/toutiao-hot-hub)
-- [GitHub热榜](https://github.com/lonnyzhang423/github-hot-hub)
-- [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
+- [知乎热榜](https://github.com/snaildev/zhihu-hot-hub)
+- [微博热榜](https://github.com/snaildev/weibo-hot-hub)
+- [头条热榜](https://github.com/snaildev/toutiao-hot-hub)
+- [GitHub热榜](https://github.com/snaildev/github-hot-hub)
+- [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
 `更新时间：{updateTime}`
