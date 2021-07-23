@@ -11,61 +11,61 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-07-23 18:16:36 +0800`
+`更新时间：2021-07-23 19:12:38 +0800`
 
 ## 抖音热榜
 
 1. 抖音达人与河南同在
-1. 郑州特大暴雨已致51人遇难
-1. 东京奥运会今日开幕
-1. 上海女子赶赴郑州地铁5号线寻夫
-1. 这就是中国人的团结
-1. S10妈生脸神器
 1. 京广路隧道被淹前视频曝光
-1. 超燃夺冠场面回顾
-1. 用冠军精神为中国加油
-1. 一定平安归来
-1. 杜兰特无缘美国奥运代表团旗手
-1. 人类高质量像素画
-1. 造假捐款要负什么法律责任
-1. 车被淹了保险这样理赔
+1. 东京奥运会开幕式
+1. 被这些国货品牌圈粉了
+1. 上海女子赶赴郑州地铁5号线寻夫
+1. 啤酒礼花加油中国健儿
+1. 蔡国强揭秘开幕式背后故事
+1. 少年滞留郑州5天抱着消防员大哭
 1. 有了他们河南一定中
-1. 我是真的爱你太现实了
-1. 人类幼崽走秀的样子
-1. 听完这首歌就去表白
-1. 齐齐哈尔洪水
-1. 你印象最深刻的开幕式
-1. 周雨彤演技
-1. 王玉萌的脸像极了世界地理
-1. 我们的新生活好笑好哭
-1. 中国奥运首金许海峰入驻抖音
-1. 张哲瀚恋情疑曝光
-1. 东北老外援助河南
-1. 舍小家保大家
-1. 袋鼠摇手太魔性了
-1. 芭比娃娃妆容挑战
-1. 卡卡西到底怎么了
-1. 半藏的大招
-1. 台风烟花可能登陆浙江
-1. 马子佳洪成成cp感
-1. 张艺兴采访忘词反应
-1. 姜云升 知识是不需要凭证的
-1. 朴彩英送咖啡车给Lisa应援
-1. 白鹿说韩语好带感
-1. 我就是盛亦
-1. 山东航空和重庆出租车谁更硬核
-1. 南京稳住
-1. 京广路下穿排水基本完成
-1. 河南人民不会忘记
-1. Lambert凌说唱现场
+1. 河南鹤壁多辆工程车投河堵堤口
 1. 9家险企接到超2万件报案
-1. susie摆手摇摇舞
-1. 梅尼耶为郑州捐物资
-1. 田姥姥为河南加油
+1. 超燃夺冠场面回顾
 1. 郑州京广路隧道打捞出两具遗体
-1. 司机称暴雨拖车收费50元被骂
+1. 听完这首歌就去表白
+1. 我是真的爱你太现实了
+1. 人类高质量像素画
+1. 用冠军精神为中国加油
+1. 人类幼崽走秀的样子
+1. 哪里有困难哪里就有韩红
+1. 这就是中国人的团结
+1. 造假捐款要负什么法律责任
+1. TFBOYS被迫营业的样子
 1. 歌手孩子王 造假捐款
-1. 歌手孩子王第二次补捐也是假的
+1. 湖南夏季隐藏菜单
+1. 王玉萌的脸像极了世界地理
+1. 台风烟花可能登陆浙江
+1. 你印象最深刻的开幕式
+1. 袋鼠摇手太魔性了
+1. 周雨彤演技
+1. 我们的新生活好笑好哭
+1. 鸿星尔克直播间
+1. 浙江全力备战台风
+1. 上海人听到台风要来的反应
+1. 卡卡西到底怎么了
+1. 车被淹了保险这样理赔
+1. 田姥姥为河南加油
+1. Lambert凌说唱现场
+1. 市民40分钟买完河南瓜农3000斤瓜
+1. 半藏的大招
+1. 郑州一医生跪地6小时救助十几人
+1. susie摆手摇摇舞
+1. 阚清子复古风穿搭
+1. 山东航空和重庆出租车谁更硬核
+1. 高能运镜挑战
+1. 东北老外援助河南
+1. 朴彩英送咖啡车给Lisa应援
+1. 梅尼耶为郑州捐物资
+1. 张哲瀚恋情疑曝光
+1. 马子佳洪成成cp感
+1. 我的女主别太萌开播
+1. 白鹿说韩语好带感
 
 ## 明星榜
 
@@ -85,9 +85,9 @@
 1. [陈赫](https://www.iesdouyin.com/share/user/84990209480?sec_uid=MS4wLjABAAAAAEtO1dCIZvj4VWbLU4Xce7DgVgsKNMNu88eNR2c2LtY)
 1. [冯提莫](https://www.iesdouyin.com/share/user/58958068057?sec_uid=MS4wLjABAAAAbgCnupO_NGaTAmzWnXSivCeHWrOe0wC2ZcpNvVoQfEk)
 1. [陈浩民](https://www.iesdouyin.com/share/user/518583802932652?sec_uid=MS4wLjABAAAAQ0ygkFpBP10Jf6Z2R4auA98oxtEVs0Jfa1pWm4kMmQQ)
+1. [刘梦LapMoby](https://www.iesdouyin.com/share/user/73034611499?sec_uid=MS4wLjABAAAA4SzYAQ0SApCbJqgJVR_k7hnFzxj1nqimQKMw2GDivic)
 1. [井胧](https://www.iesdouyin.com/share/user/63549369776?sec_uid=MS4wLjABAAAAtHOKxQzNOxt41hqO4w6tAPHyzSbDbF6hpKS0kI425i0)
 1. [金星](https://www.iesdouyin.com/share/user/98293674934?sec_uid=MS4wLjABAAAArlxMK9u_8oLCNowgWSTiD3CcWF8aduyqLw7dC_BC5VU)
-1. [刘梦LapMoby](https://www.iesdouyin.com/share/user/73034611499?sec_uid=MS4wLjABAAAA4SzYAQ0SApCbJqgJVR_k7hnFzxj1nqimQKMw2GDivic)
 1. [UNIQ-王一博](https://www.iesdouyin.com/share/user/60373328124?sec_uid=MS4wLjABAAAA4gwJG2z-QzXuiwGOsoZO2Eg-yq4k8-wll1YjqdJiV1Y)
 1. [娄艺潇](https://www.iesdouyin.com/share/user/61002725169?sec_uid=MS4wLjABAAAAGxu-F8yjxt4E0lGFnaGnuL1m8gdvZYzmGeDmYZ12KJA)
 1. [张俪](https://www.iesdouyin.com/share/user/62741533697?sec_uid=MS4wLjABAAAAsXkb2OBQIasuTtHOavgoUpSUNRkjiVFC4jDbIMml81w)
@@ -108,35 +108,35 @@
 
 1. [Chop Veggies](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f4496b2259640fb878c5cc11bc8ad0a) - iLab兴趣实验室
 1. [You and I](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d41d079cdc24be0b6a3311869b3fa44) - Will Armex
-1. [银河与星斗（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
+1. [银河与星斗（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
 1. [Dễ Đến Dễ Đi #1](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4e58392c02f4464b95e03b05e0066366) - Quang Hùng MasterD
 1. [不如]() - 秦海清
-1. [好久不见（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82e4fd8e1c1148e7b6aaed1a5c081341) - Lil Jet
+1. [好久不见（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82e4fd8e1c1148e7b6aaed1a5c081341) - Lil Jet
 1. [放空（片段）]() - 大籽/Lil E
 1. [落日与晚风]() - INK+王忻辰+苏星婕
-1. [不喜欢下雨天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/852e661ca674439691c7d22da173b963) - Piggy
-1. [那年年少](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9350f7d1dd09442789665f48073a72c4) - 李袁杰
-1. [风吹一夏（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [不喜欢下雨天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/852e661ca674439691c7d22da173b963) - Piggy
+1. [那年年少](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9350f7d1dd09442789665f48073a72c4) - 李袁杰
+1. [风吹一夏（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [环游]() - 胖虎
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
-1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
+1. [满目星辰皆是你（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [小城小爱]() - Uu
 1. [Power (In Your Soul)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd7e24a379524831a3735ead41eb0f1f) - Interupt
-1. [Everyday Normal Guy 2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/03be5e5dc6b04f74967aa89834302567) - Jon Lajoie
+1. [Everyday Normal Guy 2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/03be5e5dc6b04f74967aa89834302567) - Jon Lajoie
 1. [时光背面的我（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
 1. [穷极一生到不了的天堂（钢琴版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/33bd8d4631d64ea9a535c4bdcf0bffa8) - 于潼
-1. [雷雨](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf4862cf73a54e8189085b9b72ed4f67) - Opt
+1. [雷雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf4862cf73a54e8189085b9b72ed4f67) - Opt
 1. [春秋冬夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/400440234aa24e98a41aead7a50ed639) - 赵芷彤
 1. [热爱105°C的你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5e9fc4cfddc4726a87d35b4f9a1dbcb) - 阿肆
-1. [等一场大雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
+1. [等一场大雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
 1. [星辰大海-黄霄雲 part1]() - 黄霄雲
 1. [别错过（DJ阿卓版）]() - 程jiajia
-1. [那年·年少 片段](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b8bd8b6ee1084284ac6cae4a17600b8e) - 宋宇宁
+1. [那年·年少 片段](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b8bd8b6ee1084284ac6cae4a17600b8e) - 宋宇宁
 1. [蜜雪冰城主題曲 - 官方版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/533bb7f4475c4138a7e68f7faf92caaf) - 蜜雪冰城
-1. [Stay With Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1cb866d7e1354e5295456b1a4b374b9a) - 찬열,펀치 (PUNCH)
-1. [怎叹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66b23b4108a942e986f0e770385c8781) - 郑鱼
+1. [Stay With Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1cb866d7e1354e5295456b1a4b374b9a) - 찬열,펀치 (PUNCH)
+1. [怎叹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66b23b4108a942e986f0e770385c8781) - 郑鱼
 1. [大海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
-1. [假装（吉他版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
+1. [假装（吉他版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
 1. [恋爱画板（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71d7a89db5e24579a05e1796ffd78f8a) - 锦零
 1. [一路向北]() - 周杰伦
 1. [我想要]() - 盖君炎
@@ -146,16 +146,16 @@
 1. [曾经你说(剪辑版1）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [Hero](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/09b6d69a66914476946945ca053d35ea) - Cash Cash,Christina Perri
 1. [疯人公园]() - 王源
-1. [《始终如一》--剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
-1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
-1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
+1. [《始终如一》--剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
+1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
+1. [爱情慢慢来](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
 1. [宝贝 (In a Day)]() - 张悬
 1. [今天]() - 刘德华
 1. [Slow Down](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/233f8cbb64e84582942fed899ec76a41) - Madnap
 1. [慢慢]() - Uu
-1. [你的小孩（心跳剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c164bb1242844fc28c3d9a2178bb0aae) - Ayi阿怡&王晋桢
-1. [甜甜圈（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8e8a4287825b4c6d8b76835ec9bbe52c) - 可可爱kkluv
-1. [Light It Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
+1. [你的小孩（心跳剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c164bb1242844fc28c3d9a2178bb0aae) - Ayi阿怡&王晋桢
+1. [甜甜圈（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8e8a4287825b4c6d8b76835ec9bbe52c) - 可可爱kkluv
+1. [Light It Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
 
 ## 品牌榜
 
