@@ -11,60 +11,61 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-07-29 03:12:23 +0800`
+`更新时间：2021-07-29 04:15:16 +0800`
 
 ## 抖音热榜
 
-1. 马龙 我有点儿不好意思
 1. 肖若腾被扣0.3分因没向裁判致意
-1. 好声音导师清唱
-1. 日媒称水谷隼是世界乒乓第一人
-1. 刘翔说我想永远停留在21岁
+1. 马龙 我有点儿不好意思
 1. 水谷隼评价张继科
-1. 海关在货物中发现多只活体黑寡妇
-1. 张怡宁 国家队三大名嘴
-1. 张家齐把床跳塌了被送去学跳水
 1. 伊藤美诚又摸球台
-1. 张继科发与水谷隼对战视频
+1. 广东女篮杨舒予又飒又甜
+1. 挑战全网最燃哪吒
 1. 张家界这场演出观众均为高风险
-1. 中国三人女篮夺得铜牌
+1. 伊藤美诚发球姿势
+1. 日媒称水谷隼是世界乒乓第一人
+1. 好声音导师清唱
+1. 冠军退役后都去哪了
+1. 杨倩妈妈菜市场买虾被围观
+1. 海关在货物中发现多只活体黑寡妇
+1. 张继科独自犯困
+1. 张怡宁 国家队三大名嘴
+1. 张继科发与水谷隼对战视频
+1. 张家齐把床跳塌了被送去学跳水
 1. 杨倩说黄色发卡是幸运物
 1. 相关部门辟谣网传杨倩奖励清单
-1. 给杨超越指路生日吃什么
-1. 张继科独自犯困
-1. 杨倩妈妈菜市场买虾被围观
-1. 没想到许昕唱歌这么好听
 1. 如何看待郑州奔驰堵车库事件
-1. 伊藤美诚发球姿势
-1. 石智勇猛虎咆哮霸气大喊还有谁
-1. 张家齐 又奶又拽
-1. 10米气步枪有多难
-1. 端水大师张家齐
-1. 冠军退役后都去哪了
-1. 我不需要恋爱好上头
-1. 张子枫吴磊互相伤害花絮
-1. 郑姝音无缘跆拳道半决赛
+1. 刘翔说我想永远停留在21岁
+1. 没想到许昕唱歌这么好听
 1. 石智勇家乡后援团集体观赛
-1. 日本选手压在中国选手身上往前游
-1. 郑州堵住车库的奔驰车主发声
-1. 郑州一奔驰车堵住整个地下车库
+1. 给杨超越指路生日吃什么
+1. 张家齐 又奶又拽
+1. 石智勇猛虎咆哮霸气大喊还有谁
+1. 张子枫吴磊互相伤害花絮
 1. 我在他乡挺好的好哭又好笑
-1. 福原爱就像羊村里的小灰灰
-1. 陈意礼暗黑大米分手
+1. 10米气步枪有多难
+1. 郑姝音无缘跆拳道半决赛
 1. 乒乓球运动员为什么吹球
-1. 陈芋汐11岁试训珍贵影像曝光
-1. 张继科刘诗雯
-1. 陈梦看了都得想想
-1. 杨洋看手机的距离
-1. 赵雅芝召唤国风最美白娘子
+1. 我不需要恋爱好上头
+1. 郑州堵住车库的奔驰车主发声
+1. 福原爱就像羊村里的小灰灰
+1. 郑州一奔驰车堵住整个地下车库
+1. 日本选手压在中国选手身上往前游
 1. 人类幼崽的敦煌飞天造型
-1. 张继科这个内涵我给101分
+1. 中国三人女篮夺得铜牌
+1. 赵雅芝召唤国风最美白娘子
+1. 陈意礼暗黑大米分手
+1. 端水大师张家齐
+1. 陈芋汐11岁试训珍贵影像曝光
+1. 陈梦看了都得想想
 1. 日本奥运村的床裂了
-1. 疫情下的南京人
-1. 趁清华暑假拿双金的杨倩来抖音了
+1. 张继科刘诗雯
+1. 杨洋看手机的距离
+1. 张继科这个内涵我给101分
 1. 金星的舞台谢幕好绝
+1. 趁清华暑假拿双金的杨倩来抖音了
 1. 石智勇男子举重73公斤级夺金
-1. 何可欣解说好可爱
+1. 疫情下的南京人
 
 ## 明星榜
 
@@ -109,9 +110,9 @@
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
 1. [落日与晚风]() - INK+王忻辰+苏星婕
 1. [不如]() - 秦海清
-1. [雀跃（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/356110bdf35046709dae918f997d25eb) - 任然
-1. [时光背面的我（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
-1. [Dễ Đến Dễ Đi #1](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4e58392c02f4464b95e03b05e0066366) - Quang Hùng MasterD
+1. [雀跃（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/356110bdf35046709dae918f997d25eb) - 任然
+1. [时光背面的我（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
+1. [Dễ Đến Dễ Đi #1](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4e58392c02f4464b95e03b05e0066366) - Quang Hùng MasterD
 1. [热爱105°C的你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5e9fc4cfddc4726a87d35b4f9a1dbcb) - 阿肆
 1. [你的眼睛像星星]() - 郭正正/老圈C
 1. [风吹一夏（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
@@ -120,41 +121,41 @@
 1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
 1. [曾经你说(剪辑版1）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [You and I](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d41d079cdc24be0b6a3311869b3fa44) - Will Armex
-1. [骁（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
-1. [Send It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
-1. [不喜欢下雨天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/852e661ca674439691c7d22da173b963) - Piggy
+1. [骁（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
+1. [Send It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
+1. [不喜欢下雨天](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/852e661ca674439691c7d22da173b963) - Piggy
 1. [变废为宝]() - 薛之谦
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
-1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9c39477599524807b58e6e5ad9b84a13) - ALan
+1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9c39477599524807b58e6e5ad9b84a13) - ALan
 1. [0321（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ddabdde60e614d5eb4202c3336f49d30) - space x
-1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [好久不见（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82e4fd8e1c1148e7b6aaed1a5c081341) - Lil Jet
 1. [那年年少](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9350f7d1dd09442789665f48073a72c4) - 李袁杰
 1. [就从今天起](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2bfc0570f8645caaebf0580affa3504) - 龙飘飘
-1. [雨一直下](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6a3f3f8d4d441a5a960bf7de26e36c7) - 张宇
+1. [雨一直下](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6a3f3f8d4d441a5a960bf7de26e36c7) - 张宇
 1. [等一场大雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
 1. [たぶん](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb1a39bc8eb3453fb2dbb699693355be) - YOASOBI
 1. [来迟]() - 戴羽彤
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
 1. [哪里都是你 剪辑版]() - 队长
 1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
 1. [《始终如一》--剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
-1. [假装（吉他版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
+1. [假装（吉他版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
 1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec5dbd0ccec4f0581e9c2b2a25efc4d) - 张天枢
 1. [今天]() - 刘德华
-1. [怎叹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66b23b4108a942e986f0e770385c8781) - 郑鱼
+1. [怎叹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66b23b4108a942e986f0e770385c8781) - 郑鱼
 1. [At My Worst](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e27c2d66fe624dd2a0d70f38698e2680) - Pink Sweat$
 1. [Letting Go]() - 蔡健雅
 1. [满目星辰皆是你（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
-1. [Somebody's Girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1606c5bb40493a9ffe77142fc829bc) - Stevie Hoang
+1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1606c5bb40493a9ffe77142fc829bc) - Stevie Hoang
 1. [别走]() - 苏星婕+王忻辰
 1. [爱情慢慢来](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
 1. [环游]() - 胖虎
 1. [当你]() - 林俊杰
-1. [Deadwood](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/882e84b7e9614929a7c18eb14ac746ca) - Really Slow Motion
-1. [嘉宾](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
-1. [Temptation](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/529fd1351f1b4384b2eac3d7ab66aca5) - WYR GEMI
-1. [Free Loop #2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/282f0dc166b7490ab2dd6833d30a54c8) - Daniel Powter
+1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/882e84b7e9614929a7c18eb14ac746ca) - Really Slow Motion
+1. [嘉宾](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
+1. [Temptation](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/529fd1351f1b4384b2eac3d7ab66aca5) - WYR GEMI
+1. [Free Loop #2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/282f0dc166b7490ab2dd6833d30a54c8) - Daniel Powter
 
 ## 品牌榜
 
