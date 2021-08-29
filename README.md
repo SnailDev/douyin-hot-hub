@@ -11,26 +11,26 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-08-29 17:13:59 +0800`
+`更新时间：2021-08-29 18:16:16 +0800`
 
 ## 抖音热榜
 
-1. 库里头像
 1. 中秋国庆还能正常出行吗
-1. 爸妈跳舞时猝不及防的吻
+1. 郑州下雨
+1. 库里头像
 1. 吴谢宇弑母案庭审细节曝光
-1. 潍坊一男子在车中小憩引小孩围观
-1. 当南方朋友来北方点菜不听劝时
-1. 网友为边防军犬送上定制防蚊服
-1. QG夺冠
+1. 爸妈跳舞时猝不及防的吻
+1. 女方分手后拒退彩礼被强制执行
+1. 牛气满满的哥哥笑死了
+1. 乔家的儿女乔言乔语大赏
 1. 周琦宣布退出新赛季
 1. 日本政府抗议驻日美军擅自排放污水
-1. 郑州下雨
+1. 大连消防员站101米高台灭火
 1. 云襄传官宣阵容
-1. 中餐厅神秘飞行嘉宾
-1. 母亲回应脑瘫女儿自己换衣服
+1. 当南方朋友来北方点菜不听劝时
+1. 中国小库里和库里打招呼
 1. 喀布尔大量遇难者是被美军射杀
-1. 吴京为火星异变打call
+1. 母亲回应脑瘫女儿自己换衣服
 1. 黄金比例脸
 1. 差点认不出剧抛脸乔祖望
 1. 成都车展热门车型首亮相
@@ -39,31 +39,31 @@
 1. 美军称击毙极端组织两名重要人物
 1. 十年前学员重回好声音
 1. 周生如故美人骨名场面
-1. 牛气满满的哥哥笑死了
-1. 我的音乐你听吗舞台好绝
-1. 中国小库里和库里打招呼
 1. 苏炳添心中的苏神
+1. 那兔特别版不能忘却的1950
+1. 中餐厅神秘飞行嘉宾
+1. 我的音乐你听吗舞台好绝
 1. 亲爱的爸妈摆摊遇爸妈
-1. 揭秘人乳交易乱象
+1. 潍坊一男子在车中小憩引小孩围观
 1. 周生如故 玻璃渣里找糖吃
 1. C罗回归曼联
-1. 那兔特别版不能忘却的1950
-1. 机长三次超常规申请为生命提速
+1. QG夺冠
 1. 大魔王呸唐梓古装造型
 1. 云南虫谷
 1. 周生如故全员be
-1. 苏炳添32岁生日快乐
 1. 张伟丽VS罗斯二番战
-1. 大湾区的拉票口号有多好笑
-1. 苹果将免费维修iPhone12无声音故障
-1. 上海地铁内一女子脚踩座位
-1. 我的音乐你听吗开播
-1. 神兽归笼爸妈有多开心
-1. 警犬退役离别之际跳车奔向主人
 1. 披荆斩棘的姐姐们有多敢说
-1. 大连消防员站101米高台灭火
+1. 大湾区的拉票口号有多好笑
+1. 机长三次超常规申请为生命提速
 1. 时宜终于跳城墙了
+1. 苏炳添32岁生日快乐
+1. 上海地铁内一女子脚踩座位
+1. 神兽归笼爸妈有多开心
+1. 德云社给大哥整不会了
+1. 揭秘人乳交易乱象
 1. 星巴克回应掉落的午餐肉继续销售
+1. 我的音乐你听吗开播
+1. 情侣吵架的时候该不该讲道理
 1. 乔二强对师傅念念不忘
 
 ## 明星榜
@@ -90,14 +90,14 @@
 1. [飞船（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5acdd7e03714ddc936e5e0da63d89e8) - 刘可以
 1. [Try Again](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c32262af98e446c597c71ec445417276) - DallasK
 1. [小城小爱]() - Uu
-1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
-1. [曾经你说(剪辑版1）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
+1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [曾经你说(剪辑版1）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [何必抱歉（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/867d5923a05041449fa1a471c433a186) - 吴瑭
-1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
+1. [星光降落](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0723042fced94f938344fffd1ee6aa00) - 薛廷佑
-1. [七元《偶然》（《古董局中局之掠宝清单》电视剧片尾曲）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9c87d067db794c828061ad1994562021) - 七元
+1. [七元《偶然》（《古董局中局之掠宝清单》电视剧片尾曲）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9c87d067db794c828061ad1994562021) - 七元
 1. [孤城]() - 洛先生
-1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bf9f6775919477ba6b7c83b702aa140) - Chris James
+1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bf9f6775919477ba6b7c83b702aa140) - Chris James
 1. [过去未来（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/382c23fbfd5a4e43aa8d3d0fb9b5221f) - 刘瑞琦
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [你的眼睛像星星]() - 郭正正/老圈C
@@ -105,26 +105,26 @@
 1. [Lone Ranger]() - Rachel Platten
 1. [STAY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
 1. [满目星辰皆是你（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
-1. [时间沦陷-王忻辰（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
+1. [时间沦陷-王忻辰（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
 1. [千千万万]() - 深海鱼子酱
 1. [My Treasure]() - Stanislav Artemyev
 1. [第一缕晨曦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤Cassie
-1. [Every Breath You Take](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/58046ea1ace046738bbc23f1d84e8751) - Carles Arbusé "Xiulet"
-1. [Don't sleep](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8249bfc4d79144d2a2b90321304c2dd6) - BCD Studio
+1. [Every Breath You Take](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/58046ea1ace046738bbc23f1d84e8751) - Carles Arbusé "Xiulet"
+1. [Don't sleep](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8249bfc4d79144d2a2b90321304c2dd6) - BCD Studio
 1. [错位时空]() - 艾辰
-1. [热爱105°C的你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5e9fc4cfddc4726a87d35b4f9a1dbcb) - 阿肆
-1. [骁（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
+1. [热爱105°C的你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5e9fc4cfddc4726a87d35b4f9a1dbcb) - 阿肆
+1. [骁（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
 1. [雨爱（雨上晴空）]() - 不是花火呀
 1. [Power (In Your Soul)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd7e24a379524831a3735ead41eb0f1f) - Interupt
 1. [Bygone Bumps]() - Deep East Music
-1. [陪你看星星-陈子晴（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
+1. [陪你看星星-陈子晴（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
 1. [我是如此相信]() - 周杰伦
 1. [猫ふんじゃった](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fa4eb0fafe34bf9bae80d003a9e0798) - Ksuke
-1. [你不明白（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ae076e7b634435698f11da522331516) - joysaaaa
-1. [宋孟君_失眠的夜dj](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
-1. [画离弦-海伦（戏腔版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
-1. [可惜不可惜（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62492952f4274db9ba79d0a07282d70a) - 刘大壮
-1. [即刻 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e2c78619c43c43d989410298b26405eb) - joysaaaa
+1. [你不明白（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ae076e7b634435698f11da522331516) - joysaaaa
+1. [宋孟君_失眠的夜dj](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
+1. [画离弦-海伦（戏腔版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
+1. [可惜不可惜（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62492952f4274db9ba79d0a07282d70a) - 刘大壮
+1. [即刻 副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e2c78619c43c43d989410298b26405eb) - joysaaaa
 1. [宁夏]() - 欧阳娜娜
 
 ## 品牌榜
