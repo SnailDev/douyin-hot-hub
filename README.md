@@ -11,30 +11,29 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-09-19 12:19:05 +0800`
+`更新时间：2021-09-19 13:13:12 +0800`
 
 ## 抖音热榜
 
 1. 小时候的超能力长大后就没了
-1. 全红婵跳水的观赏性有多强
 1. 女孩戴闪光假肢回应异样眼光
-1. 中秋不回家图鉴
-1. 全国摩托车骑士都在重庆
-1. 解锁健康新姿势
-1. 槟榔的危害有多大
+1. 全红婵跳水的观赏性有多强
 1. 面容如老人的14岁少女到上海医治
+1. 做陈梦的对手该有多大压力
+1. 解锁健康新姿势
+1. 中秋不回家图鉴
+1. 槟榔的危害有多大
+1. 全国摩托车骑士都在重庆
 1. 学校回应给学生发的月饼太硬
-1. 日军慰安妇制度罪行展
-1. 杨倩采访回应外界舆论压力
-1. 中国矿业大学的硬核月饼
 1. 鸟王艾雅康拍到濒危物种彩绿雀
-1. 神舟十二北京总调度现实版于途
+1. 被福建乡村手工月饼治愈了
 1. 新疆男足U20全运会摘银
-1. 乡村校长雨中用纸箱给孩子铺路
+1. 中国矿业大学的硬核月饼
+1. 韩国两位前总统监狱过中秋
+1. 港队选手和刘诗雯握手后的反应
 1. 石家庄警方破获国督1号案
 1. 人类幼崽英语发音能有多标准
-1. 陈梦的水杯怎么这么大
-1. 厦门新增本土确诊39例
+1. 神舟十二北京总调度现实版于途
 1. 哈利波特自制咒语
 1. 好声音余空星辰大海音色好绝
 1. 一起来唱黄梅戏
@@ -46,26 +45,27 @@
 1. 汪苏泷快本再唱一笑倾城
 1. 詹姆斯威少参加浓眉婚礼
 1. 张新成光芒演技开挂了
-1. 韩国两位前总统监狱过中秋
+1. 伊戈达拉为欧文鸣不平
 1. 君九龄剧情有多离谱
 1. 大张伟儿化音被刘宇宁一秒识破
 1. 郑州全城寻找摆渡女孩
 1. 女子按摩一次花费19万8千元
 1. 特斯拉不再提供引荐奖励
-1. 港队选手和刘诗雯握手后的反应
+1. 拜仁7比0狂胜波鸿
 1. 浓眉结婚为妻子献唱
-1. 中老年相亲节目有多好笑
+1. 曾毅说最大的成功是选择了玲花
 1. 德云社成立党支部
 1. 许嵩回应给歌迷买洗发水
-1. 被福建乡村手工月饼治愈了
-1. 伊戈达拉为欧文鸣不平
-1. 拜仁7比0狂胜波鸿
+1. 陈梦的水杯怎么这么大
+1. 乡村校长雨中用纸箱给孩子铺路
+1. 杨倩采访回应外界舆论压力
 1. 许嵩点评太通透了
 1. 李承铉是全能大师
-1. 航天员恢复正常生活和训练要多久
+1. 盛景初程了虐不过一集
+1. 中老年相亲节目有多好笑
 1. 洪欣儿子为保护妈妈倒着走路
 1. 医生回应收下患者的质朴心意
-1. 价值11万元黄金快递丢失后续
+1. 茸主终结对手取得UFC首胜
 
 ## 明星榜
 
@@ -78,27 +78,27 @@
 ## 音乐榜
 
 1. [小馋猫]() - Y星人/袁鑫怡
-1. [自娱自乐（副歌版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
+1. [自娱自乐（副歌版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
 1. [孤城]() - 洛先生
 1. [时光洪流（剪辑版1）]() - 程响
 1. [阳光宅男]() - 周杰伦
 1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [初恋]() - 回春丹
 1. [不值得你喜欢]() - 王子明 / Copy / WYAN王毓千
-1. [STAY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
+1. [STAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
 1. [飞船（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5acdd7e03714ddc936e5e0da63d89e8) - 刘可以
 1. [借过]() - 印子月
-1. [LALISA](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7cbe7406d084c6faaa1acc4acb296a2) - 리사 (LISA)
-1. [错都错了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7ff48d91ea04ceeb2270e9989f13635) - 赵乃吉
+1. [LALISA](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7cbe7406d084c6faaa1acc4acb296a2) - 리사 (LISA)
+1. [错都错了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7ff48d91ea04ceeb2270e9989f13635) - 赵乃吉
 1. [第一缕晨曦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤Cassie
 1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
-1. [星光降落](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
+1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [我是如此相信]() - 周杰伦
 1. [夏日晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48fb12bf307c48afb58ac6c80209ed35) - xxxmiracle、Aioz
-1. [该不该对你说再见](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8c765cdfc4d8471f897b5096491127f1) - 李乐乐
+1. [该不该对你说再见](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8c765cdfc4d8471f897b5096491127f1) - 李乐乐
 1. [Don't sleep](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8249bfc4d79144d2a2b90321304c2dd6) - BCD Studio
-1. [O (Feat. 이하이)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca029e30099c48c68abe7af17bcf8232) - 코드 쿤스트(CODE KUNST)
-1. [微风吹（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/13c7f1a894c1443baad9b835bcb8e4dd) - 李润祺
+1. [O (Feat. 이하이)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca029e30099c48c68abe7af17bcf8232) - 코드 쿤스트(CODE KUNST)
+1. [微风吹（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/13c7f1a894c1443baad9b835bcb8e4dd) - 李润祺
 1. [Lone Ranger]() - Rachel Platten
 1. [My Treasure]() - Stanislav Artemyev
 1. [宋孟君_失眠的夜dj](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
@@ -111,22 +111,22 @@
 1. [Я буду ебать](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
 1. [呓语]() - 毛不易
 1. [桃桃心动]() - 赵芷彤
-1. [whatever it takes](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5aa949759944eeebc9d15d21a3f22ad) - convolk
+1. [whatever it takes](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5aa949759944eeebc9d15d21a3f22ad) - convolk
 1. [解药 (新版)]() - 来一碗老于
 1. [雨爱（雨上晴空）]() - 不是花火呀
 1. [花好月圆夜 (广东版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2306777a9de24d5391f9f43d8c3bc1d2) - 杨千嬅 & 任贤齐
 1. [外婆说]() - 程jiajia
-1. [Lucid Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
+1. [Lucid Dreams](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
 1. [Kiss Me More (feat. SZA)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
-1. [Middle Of The Night (Original Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
+1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
 1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
-1. [Ngau Hung](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
+1. [Ngau Hung](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 1. [爷爷泡的茶]() - 周杰伦
 1. [飘移]() - 周杰伦
 1. [画离弦-海伦（戏腔版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
 1. [篝火旁（再启程）]() - 吕大叶 / 旺仔小乔
 1. [Light It Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
-1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
+1. [It's a Beautiful Day](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
 
 ## 品牌榜
 
