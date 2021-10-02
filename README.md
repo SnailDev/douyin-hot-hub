@@ -11,31 +11,31 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-02 08:49:07 +0800`
+`更新时间：2021-10-02 09:57:38 +0800`
 
 ## 抖音热榜
 
-1. 国家政策没有第一学历这个概念
-1. 狼队战胜AG
+1. 假期堵在路上的人在干嘛
 1. 央视国庆晚会
-1. 我和我的父辈让人又哭又笑
+1. 国家政策没有第一学历这个概念
 1. 21岁小伙在美国奏响万疆
-1. 魔法是真实存在的吧
-1. 国庆假期第一条抖音
+1. rapper集体为祖国庆生
 1. 游戏玩家给祖国庆生的方式
-1. 中国红永不褪色
-1. 挂国旗这些事不注意可能违法
-1. 吴京在长津湖里的一滴泪
-1. 中国首次发现混翅鲎化石
-1. 詹姆斯称赞三位新队友
-1. 川渝抢人大赛
-1. 满舒克以爱为囚
 1. 大家为了打卡美好中国有多努力
+1. 国庆假期第一条抖音
+1. 挂国旗这些事不注意可能违法
+1. 世界第一高楼哈利法塔点亮中国红
+1. 中国红永不褪色
+1. 詹姆斯称赞三位新队友
+1. 吴京在长津湖里的一滴泪
+1. 满舒克以爱为囚
+1. 川渝抢人大赛
 1. 贺天举退役
 1. 易烊千玺拍电影以来NG最多的一次
-1. 扑水少年导演直播太虐了
+1. 我在这里祝福祖国
 1. 张国伟国庆在抖音加班
 1. 威震天狠起来连工作人员都怼
+1. 狼队战胜AG
 1. 胡歌一人分饰五角
 1. 鱿鱼游戏中枪舞
 1. 陈小春不同语言版算你狠太绝了
@@ -44,28 +44,27 @@
 1. 智博模仿阿朵有多像
 1. 姜十七短剧终于更新了
 1. 尹正再唱一剪梅 DNA动了
+1. 扑水少年导演直播太虐了
 1. 高瀚宇有多适合魔性律动舞
 1. ta这么高就行
 1. 好声音伍珂玥唱一生中最爱
 1. 部分iPhone13间歇性触控失灵
 1. 好声音韦礼安遗憾淘汰
-1. 直击大连深夜急雨冰雹
 1. 胡玛丽王雷恋爱仪式感
 1. 程序员那么可爱大结局
-1. 轿车登船后冲过甲板坠江
 1. 大湾区哥哥再现名场面
 1. 刘雪华第一次手机点餐
 1. 徐梦洁太能搞气氛了
 1. 姚琛进出拳台全靠翻
-1. 长津湖成国庆档战争片票房冠军
-1. 演唱会级别为祖国庆生
-1. 我在这里祝福祖国
+1. 我和我的父辈让人又哭又笑
+1. 中国首次发现混翅鲎化石
 1. 女孩喝下百草枯高速交警接力救援
-1. 这就是我国庆七天的安排
-1. 王开误把李晓霞当陪练
-1. 吴京说这盛世如抗美援朝战士所愿
-1. rapper集体为祖国庆生
+1. 长津湖成国庆档战争片票房冠军
 1. 这就是当代中国
+1. 演唱会级别为祖国庆生
+1. 吴京说这盛世如抗美援朝战士所愿
+1. 一根线修眉
+1. 轿车登船后冲过甲板坠江
 
 ## 明星榜
 
@@ -85,25 +84,25 @@
 1. [快乐环岛](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/707478275ce1419f9b1497f736583510) - TFBOYS
 1. [自娱自乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
 1. [小雨天气（副歌）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
-1. [合唱-我和我亲爱的祖国](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be81f67e5c294e2883228a2b9405d9e3) - 中国爱乐乐团
+1. [合唱-我和我亲爱的祖国](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be81f67e5c294e2883228a2b9405d9e3) - 中国爱乐乐团
 1. [Jar Of Love - Album Version]() - 曲婉婷
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [我们说好的]() - 胜屿
 1. [一路向北]() - 周杰伦
-1. [Я буду ебать](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
+1. [Я буду ебать](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
 1. [我滴个乖乖 （Part 2）]() - 李晓杰
 1. [いつも何度でも (「千と千尋の神隠し」より)]() - ハーブ・オオタ・ジュニア
-1. [时间沦陷-王忻辰（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
+1. [时间沦陷-王忻辰（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
 1. [花好月圆夜 (广东版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2306777a9de24d5391f9f43d8c3bc1d2) - 杨千嬅 & 任贤齐
 1. [万家灯火·人间星河（副歌版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/88925d9fe6ca48d8a594059f8c361380) - 万物和声、瞿子千
-1. [画板](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71d7a89db5e24579a05e1796ffd78f8a) - 锦零
+1. [画板](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71d7a89db5e24579a05e1796ffd78f8a) - 锦零
 1. [You Don't Know Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/72ea1024d67a463aaacf85ed8552d90a) - Ofenbach
 1. [危险派对（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
 1. [月神（剪辑版）]() - 须弥乐团+侴文静+潘畅
 1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
 1. [我是如此相信]() - 周杰伦
 1. [稻香]() - 周杰伦
-1. [Phantasy Star Online](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c4976863cc14449582b3743c1784b568) - STK & Crew-Live
+1. [Phantasy Star Online](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c4976863cc14449582b3743c1784b568) - STK & Crew-Live
 1. [时光洪流（剪辑版1）]() - 程响
 1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [Go Solo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
@@ -112,17 +111,17 @@
 1. [自娱自乐(抖音原版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/aea4c3d9d4b544e9af6a1eabd395e2a3) - 王票票
 1. [Bygone Bumps]() - Deep East Music
 1. [呓语]() - 毛不易
-1. [死性不改](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eef64ea42e24c73adf5128484d9756e) - 陈柯霓
-1. [无归期](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ba0b1c7806b4301a50d2f1661661dc7) - 郑鱼
+1. [死性不改](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eef64ea42e24c73adf5128484d9756e) - 陈柯霓
+1. [无归期](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ba0b1c7806b4301a50d2f1661661dc7) - 郑鱼
 1. [O (Feat. 이하이)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca029e30099c48c68abe7af17bcf8232) - 코드 쿤스트(CODE KUNST)
 1. [飞船](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5acdd7e03714ddc936e5e0da63d89e8) - 刘可以
-1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
+1. [Middle Of The Night (Original Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
 1. [宋孟君_失眠的夜dj](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
 1. [那一年（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4d4de068ac794ddc8a041b24bf2468c8) - 白小白
 1. [Got You]() - 刘耀文
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
-1. [错都错了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7ff48d91ea04ceeb2270e9989f13635) - 赵乃吉
-1. [TroubledYouth](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66f7b46fe332445f99d457c2eb9d70f7) - BONES
+1. [错都错了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7ff48d91ea04ceeb2270e9989f13635) - 赵乃吉
+1. [TroubledYouth](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66f7b46fe332445f99d457c2eb9d70f7) - BONES
 1. [哪里都是你 剪辑版]() - 队长
 1. [Umbrella](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48ec5c3828204a8b82a649859795de1b) - Paul Wallen
 1. [阳光宅男]() - 周杰伦
