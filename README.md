@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-08 20:23:59 +0800`
+`更新时间：2021-10-08 21:20:32 +0800`
 
 ## 抖音热榜
 
-1. 凤吟带八戒黑坑盘老板
-1. 日本地震
-1. 被风雨中的山西整破防了
-1. 被一位父亲的评论整破防了
-1. 山西加油
+1. 四川藏族女孩的神仙嗓音
+1. 美核潜艇南海撞不明物体多人受伤
 1. 罗昌平涉嫌侮辱志愿军英烈被刑拘
-1. 这就是逆袭天花板
+1. 湖南妹子的结婚告白有多可爱
+1. 山西加油
+1. 曝18名前NBA球员被逮捕
+1. 凤吟带八戒黑坑盘老板
+1. 空巢大学生现状
+1. 披荆斩棘的哥哥舞台太好品了
 1. 实名羡慕赵露思的发量
 1. 你能bur能ber要离开wor
+1. 被一位父亲的评论整破防了
 1. 丽江石榴井戏水女游客致歉
 1. 李承铉james跳舞各帅各的
 1. 英雄联盟手游今起不删档测试
 1. 武磊绝杀
 1. 刘聪发抖音告别披荆斩棘的哥哥
+1. 岸田文雄发表首次施政演说
 1. 当老师因睡过头错过上课时
 1. 明星反向逆袭变装
 1. 朱正廷的嘴开过光
 1. 让空空日记害怕的东西有了
 1. 京城的雪落不到江南
 1. 张碧晨光的方向舞台好燃
-1. 香港法官沈小民辞职将移民英国
 1. 撒贝宁猜不出歌名现场吸氧
 1. 你可以永远相信萧敬腾的现场
-1. 湖南妹子的结婚告白有多可爱
 1. 美团回应被罚34.42亿
 1. 完美世界补天阁之战
-1. 丽江回应游客在石榴井游泳戏水
 1. 在高铁上看到很香的王俊凯
-1. 智者不入爱河下一句是什么
-1. 美核潜艇南海撞不明物体多人受伤
-1. 假如动漫人物参加鱿鱼游戏
-1. 孙兴慜绝杀助韩国2比1叙利亚
-1. 曝18名前NBA球员被逮捕
-1. 红绿灯倒计时生日照
-1. 大瑶同学小来哥连麦遇到对手了
-1. 白鹿把你放在手心有多甜
-1. 空巢大学生现状
-1. 小伙15个鸡蛋吃垮高校自助
-1. 四川藏族女孩的神仙嗓音
-1. 国足3比2越南
-1. 理发前VS理发后
-1. 男子酒后持刀伤人致2死4伤
-1. NBA正式公布75周年纪念片
-1. 杨超越海边造型太绝了
-1. 披荆斩棘的哥哥舞台太好品了
-1. 爱干净的狗狗有多可爱
-1. 被漫画版长津湖整破防了
-1. 武磊说最后一球没碰到
+1. 日本地震
 1. 永冠新材34岁董秘假期意外去世
+1. 武磊说最后一球没碰到
+1. 丽江回应游客在石榴井游泳戏水
+1. NBA正式公布75周年纪念片
+1. 假如动漫人物参加鱿鱼游戏
+1. 白鹿把你放在手心有多甜
+1. 孙兴慜绝杀助韩国2比1叙利亚
+1. 小伙15个鸡蛋吃垮高校自助
+1. 被风雨中的山西整破防了
+1. 恋爱和战斗都要勇往直前
+1. 这就是逆袭天花板
+1. 杨超越海边造型太绝了
+1. 大瑶同学小来哥连麦遇到对手了
+1. 日本队长赛后遭嘲讽找球迷理论
+1. 被漫画版长津湖整破防了
+1. 理发前VS理发后
 1. 网友镜头下的乡村生活
+1. 男子酒后持刀伤人致2死4伤
+1. 国足3比2越南
+1. 66年前的今天钱学森回国
 
 ## 明星榜
 
@@ -83,7 +83,7 @@
 1. [孤城]() - 洛先生
 1. [危险派对（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
 1. [自娱自乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
-1. [不想上班_剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1facc511c043450fbe7a276987f181fc) - BCD Studio Raquel/ByteMuse
+1. [不想上班_剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1facc511c043450fbe7a276987f181fc) - BCD Studio Raquel/ByteMuse
 1. [时光洪流（剪辑版1）]() - 程响
 1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [骁（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
@@ -95,32 +95,32 @@
 1. [小城小爱]() - Uu
 1. [(Everything I Do) I Do It for You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/620adc7fe46f4b6ba49daf5f3b7f71e3) - Brandy
 1. [落日与晚风]() - INK+王忻辰+苏星婕
-1. [小淘气（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fa983220be3f4eab94c70ef9de8d746e) - 优秀少年好好
+1. [小淘气（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fa983220be3f4eab94c70ef9de8d746e) - 优秀少年好好
 1. [STAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
-1. [过去未来](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/382c23fbfd5a4e43aa8d3d0fb9b5221f) - 刘瑞琦
+1. [过去未来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/382c23fbfd5a4e43aa8d3d0fb9b5221f) - 刘瑞琦
 1. [给你们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/37847fb4253a4036b5d600ab71420ddd) - 张宇
 1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
 1. [Lets Get It On](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bfa1cc1e14b54fe095a6a4dc68c4ab08) - Soul Unlimited
-1. [我的中国心（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f221163433714391b7ffbb04bf9b6cac) - 华彩少年（黄子弘凡/柏宇豪/刘丰/杨朝阳）
-1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [我的中国心（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f221163433714391b7ffbb04bf9b6cac) - 华彩少年（黄子弘凡/柏宇豪/刘丰/杨朝阳）
+1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
 1. [我是如此相信]() - 周杰伦
 1. [歌唱祖国]() - 杨沛宜
 1. [Lone Ranger]() - Rachel Platten
 1. [稻香]() - 周杰伦
 1. [Dạ Vũ（夜舞）加速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dceaf81c52934bb192dce5332846fa3f) - Tăng Duy Tân
 1. [千里共婵娟（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d0ba0692f3244de08fea182c893da03b) - 程响
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
-1. [Я буду ебать](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [Я буду ебать](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
 1. [园游会]() - 周杰伦
 1. [Jar Of Love - Album Version]() - 曲婉婷
-1. [曾经你说（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
-1. [陪你看星星-陈子晴（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
+1. [曾经你说（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
+1. [陪你看星星-陈子晴（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
 1. [桃桃心动]() - 赵芷彤
-1. [小雨天气（副歌）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
+1. [小雨天气（副歌）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
 1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [大海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
 1. [我们说好的]() - 胜屿
-1. [死性不改](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eef64ea42e24c73adf5128484d9756e) - 陈柯霓
+1. [死性不改](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eef64ea42e24c73adf5128484d9756e) - 陈柯霓
 1. [潇洒走一回](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/111c9a79c81c4c52a7185e504692d56d) - 叶倩文
 1. [いつも何度でも (「千と千尋の神隠し」より)]() - ハーブ・オオタ・ジュニア
 1. [花好月圆夜 (广东版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2306777a9de24d5391f9f43d8c3bc1d2) - 杨千嬅 & 任贤齐
