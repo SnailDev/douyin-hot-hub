@@ -11,20 +11,20 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-23 02:17:41 +0800`
+`更新时间：2021-10-23 03:12:52 +0800`
 
 ## 抖音热榜
 
-1. 20年宠物龟被偷找到已是红烧龟
-1. 杨鸣又怒吼了
 1. 高中是一生中最快乐的时光吗
-1. 双十一你是哪种人
+1. 油价迎年内第14次上调
+1. 军训休息教官带学生蹦迪
+1. 这嗓音直接把我击败了
 1. D2746次列车已有13人感染新冠
 1. 内娱男明星版飘雪变装
-1. 沙丘不在电影院看就亏了
-1. 这嗓音直接把我击败了
-1. 油价迎年内第14次上调
+1. 20年宠物龟被偷找到已是红烧龟
+1. 杨鸣又怒吼了
 1. 官方通报成都一大巴冲下大桥
+1. 拜登问乡亲知道中国高铁有多快吗
 1. 李承铉听如果还有明天泪奔
 1. 第一炉香意难平
 1. 梅艳芳一生有多传奇
@@ -56,15 +56,15 @@
 1. 黄晓明最想销毁的照片
 1. 戚薇李承铉是传说中的夫妻相吧
 1. 李子柒停更3月后上央视
-1. 李云迪的商业版图
 1. 若驰求婚郭小胖
-1. 以为刘宇宁要来个红衣回眸
-1. 大鱼水下舞致敬海上丝绸之路
 1. 赵露思怼代拍太真实了
+1. 以为刘宇宁要来个红衣回眸
+1. 李云迪的商业版图
 1. 2021娱乐大事件总结
-1. 军训休息教官带学生蹦迪
-1. NBA75大球星最后25人名单公布
 1. 情侣拼脸挑战
+1. NBA75大球星最后25人名单公布
+1. 大鱼水下舞致敬海上丝绸之路
+1. 奥运健儿汤慕涵表示还没考驾照
 
 ## 明星榜
 
@@ -77,30 +77,30 @@
 ## 音乐榜
 
 1. [世界很美丽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d64c87cff3884c28b46477921eeaecc2) - 凯文
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [危险派对（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
-1. [Lonely (Remastered)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [危险派对（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
+1. [Lonely (Remastered)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
 1. [孤城]() - 洛先生
 1. [稻香]() - 周杰伦
 1. [时光洪流（音效版）]() - 程响
 1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
-1. [致你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
+1. [致你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
 1. [偏爱和例外（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da27ed106928433583ac2861cc1a9cac) - 烟(许佳豪)
-1. [自娱自乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
-1. [团圆Together - 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ef4a67598fd47d2b2e5950f12c04d0e) - 巫咏欢HAPPY
+1. [自娱自乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
+1. [团圆Together - 剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ef4a67598fd47d2b2e5950f12c04d0e) - 巫咏欢HAPPY
 1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c302ebd27f31424091e9d2773d742f63) - Kevin Rater
 1. [等风吹散人海]() - 王忻辰+葛里
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
-1. [Go Solo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Go Solo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
 1. [千千阕歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4d8fde523b884bbe98dc1c23b045b152) - 陈慧娴
 1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
 1. [以爱为囚]() - 满舒克
 1. [假面舞会]() - 很美味
-1. [小雨天气（副歌）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
-1. [三圈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/72576d4b2d794e31b20cf8d83cbd76d2) - 原来是萝卜丫
-1. [都不懂](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be2cfb5dd2824c83925255d3bb4731d2) - yihuik苡慧
-1. [Black Magic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1991b910d45a40be9f9a9016a07b1fc9) - Jonasu
+1. [小雨天气（副歌）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [三圈](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/72576d4b2d794e31b20cf8d83cbd76d2) - 原来是萝卜丫
+1. [都不懂](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be2cfb5dd2824c83925255d3bb4731d2) - yihuik苡慧
+1. [Black Magic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1991b910d45a40be9f9a9016a07b1fc9) - Jonasu
 1. [A Thousand Miles]() - Josh Vietti
 1. [恶作剧]() - 王蓝茵
 1. [Ticking](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5c998c472c3542b8bc79986c58b90d46) - TIN
@@ -109,7 +109,7 @@
 1. [可我快忘了]() - 何瀏陽 & 卜溫柔 & 郭静雯 & 小王是大哥 & 廖庆林 & 李子寒
 1. [兰亭序]() - 周杰伦
 1. [桃桃心动]() - 赵芷彤
-1. [陪你看星星-陈子晴（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
+1. [陪你看星星-陈子晴（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
 1. [いつも何度でも (「千と千尋の神隠し」より)]() - ハーブ・オオタ・ジュニア
 1. [你头顶的风（吉他版）]() - 王小帅
 1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
@@ -122,9 +122,9 @@
 1. [Bygone Bumps]() - Deep East Music
 1. [揉碎夜的光-深情版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d70cc7ca94ea79b562426b988f6fa) - 代诗琪
 1. [小公主（万千宠爱一身 善良的小公主）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/903a1e80ba4f4e22855021040e5b0abb) - 爱朵女孩
-1. [这么冷的天-剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4da97fbbd524ef4b95d95bd1b9c0572) - 小曲大爱
+1. [这么冷的天-剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4da97fbbd524ef4b95d95bd1b9c0572) - 小曲大爱
 1. [Я буду ебать](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
-1. [Lucid Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
+1. [Lucid Dreams](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
 1. [给你给我]() - 毛不易
 
 ## 品牌榜
