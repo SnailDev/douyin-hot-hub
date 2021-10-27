@@ -11,20 +11,19 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-27 13:13:59 +0800`
+`更新时间：2021-10-27 14:18:41 +0800`
 
 ## 抖音热榜
 
+1. 我的老朋友怎么还没来
+1. 白岩松呼吁给额济纳旗更多理解
+1. 让美术生崩溃的不锈钢套餐
 1. 全红婵追星成功
-1. 三宝气质这块拿捏死死的
-1. 广东室友第一次吃火锅
-1. 漠河舞厅背后的故事
-1. 31岁北大考古博士坠崖去世
-1. 做5分钟的主角
-1. 听说1027是世界恋爱日
 1. 爸爸带娃也太腻乎了
-1. 玲娜贝儿对没礼貌游客拔剑
-1. 湖人vs马刺
+1. 秋天的最后一首歌
+1. 漠河舞厅背后的故事
+1. 三班三班非同一般
+1. 哈士奇被认成电瓶车
 1. 31省新增本土确诊50例
 1. 默克尔正式卸任德国总理
 1. 第十二秒全员找线索
@@ -38,34 +37,34 @@
 1. 红杏被老牛看透了
 1. 满级小孩回应了
 1. 和易烊千玺虐恋代入感太强了
-1. 山东日照新增4例本土病例
+1. 大爷嫌公交慢抡买菜车砸晕司机
 1. 终于等到白鹿的飘雪变装
 1. 机智的恋爱大型修罗场
-1. 王子异回应公园被偶遇分异
-1. 薛之谦演唱会秒变黄牛专场
+1. 我为什么不穿bra
 1. 邓伦不要面子的吗
-1. 刘辉商店直播谈分手泪崩
+1. 王子异回应公园被偶遇分异
+1. 女孩想逗猴结果把猴吓得不轻
 1. 贵州新增5例本土确诊病例
-1. 可惜我没有girlfriend
-1. 哈士奇被认成电瓶车
+1. 大家都放学了只有她在规划未来
+1. 藏獒冲进洗车店咬伤男子
 1. 京沪法学生起诉苹果不送充电器
-1. 睡车顶男孩已安全回家
-1. 三班三班非同一般
-1. 让美术生崩溃的不锈钢套餐
-1. 秋天的最后一首歌
-1. 当男朋友碰了我的古筝
 1. 王不染生日线下聚会
+1. 三宝气质这块拿捏死死的
+1. 广东室友第一次吃火锅
+1. 玲娜贝儿对没礼貌游客拔剑
+1. 睡车顶男孩已安全回家
+1. 于谦要带李雯雯看秦霄贤
 1. 大学生拍完火箭回西安就被隔离
 1. 早上好香奈儿们
-1. 白岩松呼吁给额济纳旗更多理解
-1. 女孩想逗猴结果把猴吓得不轻
-1. 北京冬奥会奖牌发布
-1. 成也火炉败也火炉
-1. 大爷嫌公交慢抡买菜车砸晕司机
+1. 薛之谦演唱会观众大喊退票
+1. 当男朋友碰了我的古筝
 1. 决胜21天开播
-1. 藏獒冲进洗车店咬伤男子
+1. 俄方回应德国防长威胁使用核武器
 1. 没人会拒绝这样的爱
-1. 又一个猪坚强
+1. 成也火炉败也火炉
+1. 如何回复才能显得热情似火
+1. 威少33分
+1. 当周淑怡遇上溜溜笛
 
 ## 明星榜
 
@@ -77,7 +76,7 @@
 
 ## 音乐榜
 
-1. [世界很美丽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d64c87cff3884c28b46477921eeaecc2) - 凯文
+1. [世界很美丽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d64c87cff3884c28b46477921eeaecc2) - 凯文
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [危险派对](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
 1. [Lonely (Remastered)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
@@ -88,19 +87,19 @@
 1. [致你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
 1. [偏爱和例外（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da27ed106928433583ac2861cc1a9cac) - 烟(许佳豪)
 1. [自娱自乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
-1. [团圆Together - 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ef4a67598fd47d2b2e5950f12c04d0e) - 巫咏欢HAPPY
+1. [团圆Together - 剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ef4a67598fd47d2b2e5950f12c04d0e) - 巫咏欢HAPPY
 1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c302ebd27f31424091e9d2773d742f63) - Kevin Rater
 1. [等风吹散人海]() - 王忻辰+葛里
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [Go Solo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
 1. [千千阕歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4d8fde523b884bbe98dc1c23b045b152) - 陈慧娴
-1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
 1. [以爱为囚]() - 满舒克
 1. [假面舞会]() - 很美味
-1. [小雨天气（副歌）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [小雨天气（副歌）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55ebb5913aac4a7b923993301166ec9d) - 徐梦圆/嘿人李逵
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [三圈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/72576d4b2d794e31b20cf8d83cbd76d2) - 原来是萝卜丫
-1. [都不懂](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be2cfb5dd2824c83925255d3bb4731d2) - yihuik苡慧
+1. [都不懂](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be2cfb5dd2824c83925255d3bb4731d2) - yihuik苡慧
 1. [Black Magic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1991b910d45a40be9f9a9016a07b1fc9) - Jonasu
 1. [A Thousand Miles]() - Josh Vietti
 1. [恶作剧]() - 王蓝茵
@@ -116,14 +115,14 @@
 1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
 1. [怎么了]() - 壹其
 1. [Puddy Puddy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/06a2621d769045189864d76cf06030b6) - Drip Central
-1. [橘子汽水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/54afd324cd3b4806bc422aa68097a6ee) - iLab兴趣实验室
+1. [橘子汽水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/54afd324cd3b4806bc422aa68097a6ee) - iLab兴趣实验室
 1. [第一缕晨曦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤Cassie
-1. [大侠霍元甲 - 电视剧 "大侠霍元甲"主题曲](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/34e4a559304c4fc3b90a91f5c549403f) - 叶振棠
+1. [大侠霍元甲 - 电视剧 "大侠霍元甲"主题曲](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/34e4a559304c4fc3b90a91f5c549403f) - 叶振棠
 1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
 1. [Bygone Bumps]() - Deep East Music
-1. [揉碎夜的光-深情版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d70cc7ca94ea79b562426b988f6fa) - 代诗琪
+1. [揉碎夜的光-深情版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d70cc7ca94ea79b562426b988f6fa) - 代诗琪
 1. [小公主（万千宠爱一身 善良的小公主）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/903a1e80ba4f4e22855021040e5b0abb) - 爱朵女孩
-1. [这么冷的天-剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4da97fbbd524ef4b95d95bd1b9c0572) - 小曲大爱
+1. [这么冷的天-剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4da97fbbd524ef4b95d95bd1b9c0572) - 小曲大爱
 1. [Я буду ебать](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
 1. [Lucid Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
 1. [给你给我]() - 毛不易
