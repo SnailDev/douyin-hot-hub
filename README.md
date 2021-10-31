@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-31 08:51:42 +0800`
+`更新时间：2021-10-31 10:00:46 +0800`
 
 ## 抖音热榜
 
 1. 李景亮憾负奇马耶夫
-1. DK击败T1晋级决赛
+1. 江西九江发现1名核酸阳性人员
 1. 解放军军机驱离台军机
+1. 理科生手下的闪电画有多惊艳
 1. Faker发声不退役
-1. 求表扬的搜救犬
-1. T1选手狂亮EDG队标
-1. 沈阳忠犬八公的主人找到了
+1. 曼联3比0热刺
+1. 女生在运动会上可以有多帅
 1. 石家庄新增1例确诊病例
-1. 被国王排名整破防了
-1. 月落乌啼霜满天
-1. 第一次去男朋友家的麦小登是啥样
+1. 万圣节气氛到位了
+1. 杜锋被球砸脸
+1. 黑龙江新增19例本土确诊病例
 1. 当事人回应深圳地铁上被要求让座
-1. 面对美国两任总统翻译有两幅面孔
+1. 山东新增3例本土确诊
+1. 被国王排名整破防了
 1. 刘特给孟子义打60分
 1. 电影东北恋哥大哥语录挑战
 1. 金晨再跳花儿
-1. 美媒曝美军在台确切人数为32人
 1. 甜茶中文太流利了
 1. 江西铅山县红绿灯全部调整为红灯
 1. 王一博口误
-1. 周传雄青花传情巡演
-1. 女生在运动会上可以有多帅
 1. 贝勒爷套路一坨小橙子露脸
+1. 周传雄青花传情巡演
 1. 变身帝皇铠甲
-1. 万圣节气氛到位了
-1. 理科生手下的闪电画有多惊艳
-1. 王者把长安CG搬进晚会
-1. 人民网评瑞丽疫情
-1. 中国文艺网评孟美岐事件
-1. 月亮惹的祸舞蹈大赛
-1. 住在抖音评论区的人
+1. 哈登19罚16中
+1. 31省区市新增48例本土确诊病例
 1. 那个叫BD的女孩一定很幸福
-1. 杜锋被球砸脸
+1. 面对美国两任总统翻译有两副面孔
+1. DK击败T1晋级决赛
+1. 中国文艺网评孟美岐事件
+1. 人民网评瑞丽疫情
+1. 李俊龙花式给老婆道歉
+1. 注意前方可爱鬼出没
+1. 小猴子一家的饺子倒下了
+1. 住在抖音评论区的人
+1. 国台办称统一后台湾财政用于民生
+1. 美媒曝美军在台确切人数为32人
+1. 第一次去男朋友家的麦小登是啥样
+1. 张艺兴扮演美猴王
 1. 你能在笑的时候保持嘴角向下吗
 1. 落井女子指名要求消防员救援
-1. 格力被美方罚款9100万美元
-1. 一见倾心民国版飘雪变装
-1. 张艺兴扮演美猴王
 1. 奔跑吧白鹿太好笑
-1. 傅菁教吴宇恒跳舞
-1. 哈登19罚16中
 1. 草东没有派对鼓手蔡忆凡去世
-1. 国台办称统一后台湾财政用于民生
+1. T1选手狂亮EDG队标
+1. 林满江后悔提拔齐本安
+1. 一见倾心民国版飘雪变装
 1. 哈登造犯规遭裁判无视
-1. 注意前方可爱鬼出没
-1. 漠河舞厅致敬最可爱的人
-1. 胡明轩受伤
-1. 曼联3比0热刺
+1. 沈阳忠犬八公的主人找到了
+1. 月亮惹的祸舞蹈大赛
 1. 黄明昊音乐节舞台
-1. 钟南山说疫情一个月内能控制
+1. 傅菁教吴宇恒跳舞
 
 ## 明星榜
 
@@ -85,44 +85,44 @@
 1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [Go Solo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [读你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92e4332dd20547b1a7f20064b4ab0152) - 蔡琴
+1. [读你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92e4332dd20547b1a7f20064b4ab0152) - 蔡琴
 1. [相约古城]() - 陈善仪
 1. [以爱为囚]() - 满舒克
 1. [都不懂](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be2cfb5dd2824c83925255d3bb4731d2) - yihuik苡慧
 1. [平凡的一天]() - 毛不易
 1. [秋季少女](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571d007b0f8b429796abac956ee9de28) - BCD Studio - Oran
-1. [偷听对白](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
-1. [Lovelorn](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a122e2b91e384cab8082633cf0b496db) - Yung Møro
-1. [四季变迁-夏婉安-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f8ec8ab99e604a0184efc6a57d00a3bf) - 夏婉安
+1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
+1. [Lovelorn](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a122e2b91e384cab8082633cf0b496db) - Yung Møro
+1. [四季变迁-夏婉安-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f8ec8ab99e604a0184efc6a57d00a3bf) - 夏婉安
 1. [《须尽欢》-郑浩（合唱版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/07068018de1f4e2d9f3c5a54fbac3175) - 郑浩
 1. [自己(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0f656f7d78534d8da2c68d91b1b16357) - 牧云先生
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [恶作剧]() - 王蓝茵
 1. [桃桃心动]() - 赵芷彤
 1. [等风吹散人海]() - 王忻辰+葛里
-1. [银河与星斗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
-1. [自娱自乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
+1. [银河与星斗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
+1. [自娱自乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
 1. [Black Magic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1991b910d45a40be9f9a9016a07b1fc9) - Jonasu
 1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
-1. [人间一两风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/99ef875aaf16488ea38260684435f7b8) - 刘珂矣
+1. [人间一两风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/99ef875aaf16488ea38260684435f7b8) - 刘珂矣
 1. [给你给我]() - 毛不易
 1. [落日与晚风]() - INK+王忻辰+苏星婕
-1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [Love You Three 3000](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/14c3499904284ba2b10ceccd92d1db62) - mushroom
-1. [偏爱和例外（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da27ed106928433583ac2861cc1a9cac) - 烟(许佳豪)
-1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
-1. [Honest](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
+1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
+1. [Love You Three 3000](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/14c3499904284ba2b10ceccd92d1db62) - mushroom
+1. [偏爱和例外（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da27ed106928433583ac2861cc1a9cac) - 烟(许佳豪)
+1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [Honest](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
 1. [Stay With Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1cb866d7e1354e5295456b1a4b374b9a) - 찬열,펀치 (PUNCH)
 1. [时光洪流（剪辑版1）]() - 程响
-1. [Middle Of The Night (Original Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
+1. [Middle Of The Night (Original Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
 1. [STAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
 1. [陪你看星星-陈子晴（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
 1. [明明就]() - 周杰伦
 1. [A Thousand Miles]() - Josh Vietti
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
-1. [Hello Gentle Breeze](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/88b4cbcefaa6479491ad529111860333) - BCD Studio LI
-1. [第一缕晨曦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤
-1. [beside you](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/34470730c1174b64a1fc486d58250603) - keshi
+1. [Hello Gentle Breeze](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/88b4cbcefaa6479491ad529111860333) - BCD Studio LI
+1. [第一缕晨曦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤
+1. [beside you](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/34470730c1174b64a1fc486d58250603) - keshi
 1. [奇怪还是会想你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/124322f5679541b594e4deac8fb895c3) - 傅锵锵
 1. [漠河舞厅]() - 柳爽
 1. [园游会]() - 周杰伦
