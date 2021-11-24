@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-11-24 15:15:37 +0800`
+`更新时间：2021-11-24 16:18:52 +0800`
 
 ## 抖音热榜
 
-1. 杜兰特腿部皮肤被吐槽
-1. 台湾远东集团被罚约4.74亿
-1. 十九届六中全会精神
-1. 200秒记录8个月装修过程
-1. 前八一男篮队长回应抓住偷拍狂
-1. 十根烤肠是什么梗
-1. 肯德基回应驱逐要水男子
-1. 28岁辅警救轻生女子不幸殉职
-1. 田亮说全红婵是跳水女台的代表
-1. 张同学为什么这么火
-1. 啊对对对挑战
-1. 飞行员逼退外机合唱我和我的祖国
-1. 女孩回应休学一年陪妈妈康复
-1. 狗咬人事件当事人王新刚被撤职
-1. 10款自热火锅检出亚硝酸盐
-1. 古董局中局一家四口预告
 1. 狗咬人事件多名干部被处理
-1. 潼关肉夹馍协会官网疑似被黑
-1. 斯图尔特更新社媒发起挑战书
-1. 遇难者遗体出哀牢山花近40小时
-1. 宸荨樱桃出水芙蓉返场
-1. 阿霜打断高文君说话
-1. 这就是女人的多面性
-1. 陈漫就争议作品道歉
-1. 早晚会遇到给你买十根烤肠的人
-1. 卖肉夹馍带潼关俩字需交99800元
-1. 多名违法失德艺人被封禁
-1. Uzi经纪人回应复出
-1. 所以杨建平的手机去哪儿了
-1. 人民日报评吴亦凡等进警示名单
-1. 武汉坠亡女子家属发声
-1. 汤普森自曝复出计划
-1. 编剧雷神点评双城之战
+1. 被年底的KPI整破防了
+1. 十九届六中全会精神
+1. 这只小猫咪也太会了吧
 1. 曝Theshy在IG续约不成功
-1. 原来这是父女拼脸特效
-1. 召唤Au给方圆跳专一手势舞
-1. 女心理师开播
-1. 那咱开始改变了
-1. 女心理师里的电话号码是真的
-1. 央视新闻AI手语主播亮相
+1. 飞行员逼退外机合唱我和我的祖国
+1. 台湾远东集团被罚约4.74亿
+1. 10款自热火锅检出亚硝酸盐
+1. Uzi经纪人回应复出
+1. 十根烤肠是什么梗
+1. 毛不易唱爱情神话主题曲
 1. 所以邵雨轩到底喝的什么
-1. 搜救人员鸣笛致哀遇难地质队员
+1. 多名违法失德艺人被封禁
+1. 所以杨建平的手机去哪儿了
 1. KTV小白必备歌单
+1. 古董局中局一家四口预告
+1. 啊对对对挑战
+1. 张同学为什么这么火
+1. 女孩回应休学一年陪妈妈康复
+1. 乔治绝平三分
+1. 阿霜打断高文君说话
+1. 张艺兴出席中国网络媒体论坛
+1. 这就是女人的多面性
+1. 宸荨樱桃出水芙蓉返场
+1. 早晚会遇到给你买十根烤肠的人
+1. 杜兰特腿部皮肤被吐槽
+1. 潼关肉夹馍协会官网疑似被黑
+1. 狗咬人事件当事人王新刚被撤职
+1. 那咱开始改变了
+1. 正宗爆米花是要蹲着吃的
+1. 斯图尔特更新社媒发起挑战书
+1. 编剧雷神点评双城之战
+1. 召唤Au给方圆跳专一手势舞
+1. 肯德基回应驱逐要水男子
+1. 汤普森自曝复出计划
+1. 卖肉夹馍带潼关俩字需交99800元
+1. 前八一男篮队长回应抓住偷拍狂
+1. 田亮说全红婵是跳水女台的代表
+1. 女心理师里的电话号码是真的
+1. 拉夏贝尔被申请破产清算
+1. 原来这是父女拼脸特效
 1. 乡村校长帮贫困女孩改造房间
 1. 如何让男友拍出好看的照片
-1. 拉夏贝尔被申请破产清算
-1. 曼联2比0比利亚雷亚尔
+1. 女心理师开播
+1. 遇难者遗体出哀牢山花近40小时
+1. 央视新闻AI手语主播亮相
+1. 陈漫就争议作品道歉
 1. 男子殴打女子并叫嚣被拘
-1. 上外涉嫌骚扰女生老师被解聘
-1. 张卫健不认为自己怀才不遇
+1. 28岁辅警救轻生女子不幸殉职
+1. 200秒记录8个月装修过程
 
 ## 明星榜
 
@@ -78,18 +78,18 @@
 
 1. [冰雨]() - 刘德华
 1. [秋季少女](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571d007b0f8b429796abac956ee9de28) - BCD Studio - Oran
-1. [風中有朵雨做的雲](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bd0111354d2c494bbf4368c5ff310ed4) - 吳佳明
+1. [風中有朵雨做的雲](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bd0111354d2c494bbf4368c5ff310ed4) - 吳佳明
 1. [晚秋](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3accc41da86249fe8d4c5c40218d1446) - 陳占美
 1. [删了吧（正式版副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb3bfe0ee1c84fad8908780c49682b7f) - 烟（许佳豪）
-1. [南半球与北海道](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
+1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [哭泣站台]() - 王小帅
 1. [Infinity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [靠近]() - Morris赖仔
-1. [致你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
+1. [致你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
 1. [我为爱情掉过几滴泪]() - 杨小壮
 1. [一路向北]() - 周杰伦
-1. [指纹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
+1. [指纹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
 1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
 1. [第一缕晨曦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤
 1. [拍照指南]() - 黑糖
@@ -102,29 +102,29 @@
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
 1. [你的蝴蝶（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12abf7758c4f4aeda49b2eced50cbbbc) - 张鹤伦
 1. [明明就]() - 周杰伦
-1. [Stay With Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1cb866d7e1354e5295456b1a4b374b9a) - 찬열,펀치 (PUNCH)
+1. [Stay With Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1cb866d7e1354e5295456b1a4b374b9a) - 찬열,펀치 (PUNCH)
 1. [金玉良缘]() - 诗南
 1. [情意结](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
 1. [恶作剧]() - 王蓝茵
 1. [自己(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0f656f7d78534d8da2c68d91b1b16357) - 牧云先生
 1. [ 星河万里]() - Rom邢锐
 1. [漠河舞厅]() - 柳爽
-1. [危险派对](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
+1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
 1. [时光洪流（音效版）]() - 程响
 1. [처음 그 자리에](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92900e2313044272b111815ddceef84a) - 이보람
 1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
-1. [Go Solo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
+1. [Go Solo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb00ff0b85ac4f8fa826807cda6b7f27) - Zwette
 1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
 1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [珊瑚海 (with 梁心颐)]() - 周杰伦
 1. [Hello Gentle Breeze](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/88b4cbcefaa6479491ad529111860333) - BCD Studio LI
 1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
 1. [Honest](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
-1. [Lonely (Remastered)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
+1. [Lonely (Remastered)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
 1. [浪漫主义]() - 姜云升
-1. [All Too Well (Taylor's Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61456a68169d473581c1025b1e4c6849) - Taylor Swift
+1. [All Too Well (Taylor's Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61456a68169d473581c1025b1e4c6849) - Taylor Swift
 1. [城里的月光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90f216b35e4f4257bdd18e3d9c0b13eb) - 许美静
-1. [温柔的](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f110be542dc24886aa19087253113345) - 그_냥
+1. [温柔的](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f110be542dc24886aa19087253113345) - 그_냥
 1. [快乐环岛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/707478275ce1419f9b1497f736583510) - TFBOYS
 
 ## 品牌榜
