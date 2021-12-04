@@ -11,60 +11,61 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-12-04 19:13:16 +0800`
+`更新时间：2021-12-04 20:25:04 +0800`
 
 ## 抖音热榜
 
 1. 张同学走红后首次接受采访
 1. 周琦迎NBL常规赛首秀
 1. 百年奋斗教会我们十个坚持
-1. 拒绝也是对爱的尊重
-1. 曝Theshy加盟WBG
-1. 狐狸出嫁仿妆
-1. 詹姆斯把头像换成布朗尼
-1. 当你悄悄瘦下来惊艳所有人
 1. 患者家长回应天价救命药进医保
-1. 古董局中局反转好精彩
+1. 詹姆斯把头像换成布朗尼
+1. 唤醒你的第二人生
+1. 小朋友隔离前转身告别妈妈哽咽
+1. 当你悄悄瘦下来惊艳所有人
+1. 曝C罗疑似在进球庆祝时伤到膝盖
+1. 狐狸出嫁仿妆
+1. 这笑声能治愈坏情绪
+1. 百里弘毅婚后第一次回门太好笑了
 1. 广东省人民政府约谈恒大
 1. 女心理师老好人终于爆发
-1. 百里弘毅婚后第一次回门太好笑了
+1. 古董局中局反转好精彩
 1. 贾玲硬核版热烈而又自在的活着
 1. 宇宙的尽头是广场舞
-1. 勇士终结太阳18连胜
-1. 王静最后一单外卖的顾客找到了
 1. 让玲娜贝儿心动的男生找到了
+1. 勇士终结太阳18连胜
+1. 阳光彩虹小白马纳西族分马
+1. 钟南山称奥密克戎并不可怕
 1. 男子同时交往三个女友诈骗百万
 1. 新人办婚宴吃完不结账跑了
-1. 张怡宁郭晶晶看马龙许昕打球
+1. 曝Theshy加盟WBG
 1. 爆爆本爆仿妆大赛
-1. 曝C罗疑似在进球庆祝时伤到膝盖
 1. 广州白云区一地调整为中风险
-1. 阿黄学长是如何患上起床困难症的
-1. 马龙许昕香港再现魔力转圈圈
-1. 这笑声能治愈坏情绪
-1. 阳光彩虹小白马纳西族分马
-1. 杜兰特鞋又掉了
-1. 广州一搅拌车市区内连撞多车
-1. 男生回应给女友发消息发到班级群
-1. 原来玲娜贝儿也会心动
-1. 水花甩裙变装
-1. 这个冬天你会和我玩静电游戏吗
+1. 王静最后一单外卖的顾客找到了
 1. 丈夫为亡妻注销户口时悲痛落泪
-1. 邱建良ONE冠军赛首秀告负
-1. 哈维称金球奖给梅西是公平的
 1. 安德森隔扣麦基
-1. 满洲里新增17例本土确诊
-1. 原来大学的思修课还教恋爱
-1. Rookie成为自由人
-1. 超能一家人预告太好笑了
+1. 2021年最后一次日全食
+1. 马龙许昕香港再现魔力转圈圈
+1. 广州一搅拌车市区内连撞多车
 1. 舅舅独自收16万彩礼把外甥女嫁人
-1. Lisa新冠痊愈
-1. 太阳18连胜各场最佳球
-1. 每一个小群体都不该被放弃
-1. 湖人憾负快船
-1. 青游家族文艺汇演
-1. 库里继续领跑MVP排行榜
+1. 张怡宁郭晶晶看马龙许昕打球
+1. 水花甩裙变装
+1. 杜兰特鞋又掉了
+1. 这个冬天你会和我玩静电游戏吗
+1. 原来玲娜贝儿也会心动
+1. 阿黄学长是如何患上起床困难症的
+1. 满洲里新增17例本土确诊
 1. 夏风直播间行走的点唱机
+1. 男生回应给女友发消息发到班级群
+1. 邱建良ONE冠军赛首秀告负
+1. 每一个小群体都不该被放弃
+1. 哈维称金球奖给梅西是公平的
+1. 湖人憾负快船
+1. Rookie成为自由人
+1. 青游家族文艺汇演
+1. 超能一家人预告太好笑了
+1. 太阳18连胜各场最佳球
+1. Lisa新冠痊愈
 
 ## 明星榜
 
@@ -77,7 +78,7 @@
 ## 音乐榜
 
 1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
-1. [Aloha Heja He](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
+1. [Aloha Heja He](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
 1. [哭泣站台]() - 王小帅
 1. [我不是刘德华]() - 新地/卢克
 1. [予你 剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
@@ -93,38 +94,38 @@
 1. [If I Ain't Got You - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30b9229284e54f27b3d877b2e4a2f7f3) - John Adams
 1. [影子说（剪辑版）]() - 洛先生
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
-1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
+1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
 1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/495a0f7b5596465f8fc107cf68d382c1) - Daniel Powter
 1. [碎银几两]() - 轩东
 1. [麋鹿森林]() - 一口甜
 1. [艺术家（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
 1. [孤勇者]() - 陈奕迅
 1. [老茧-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
-1. [Rằng Em Mãi Ở Bên](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Rằng Em Mãi Ở Bên](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [Honest](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
 1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
 1. [特别的人]() - 方大同
-1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
 1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
-1. [关于爱你的二三事](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ad06daad30045ffb81166edb1953194) - 落落
+1. [关于爱你的二三事](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ad06daad30045ffb81166edb1953194) - 落落
 1. [天亮以前说再见](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3013c42faac54ddaa71750945ec91fce) - 何野
-1. [Dogs (Original Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
-1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
-1. [起舞（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/245ae079b0294c0fa4a8957192a151c3) - 艾热
-1. [Light It Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
+1. [Dogs (Original Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
+1. [失忆（男生版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
+1. [起舞（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/245ae079b0294c0fa4a8957192a151c3) - 艾热
+1. [Light It Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
 1. [枫]() - 周杰伦
 1. [One Night in ShangHai](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/df8d723f3364477492d8da468d5de458) - 胡彦斌
 1. [LOVE SCENARIO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
-1. [鲸落孤岛-郁欢（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25a36af15c314589bd5079d73fdb8e83) - 郁欢
+1. [鲸落孤岛-郁欢（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25a36af15c314589bd5079d73fdb8e83) - 郁欢
 1. [爱在西元前]() - 周杰伦
 1. [秒针 主歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7d369723b0834237a3e3da4aa34fe78d) - 阿梨粤
 1. [solicitous]() - XLBolo
-1. [Can't Take My Eyes Off You - Original Extended Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7440d4fd48cf452abbd3a50184d4f1c3) - Boys Town Gang
-1. [Lonely (Remastered)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
+1. [Can't Take My Eyes Off You - Original Extended Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7440d4fd48cf452abbd3a50184d4f1c3) - Boys Town Gang
+1. [Lonely (Remastered)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dfea66e39df34fe5bed8a5c9016328e7) - Nana Darkman & Booya Family
 1. [Gentleman (演奏曲)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba37a6c94f4345ad8fce3f57c5e9e08e) - Victor 刘伟德 & 戴爱玲
 1. [BIG TIME（慢摇版）]() - 王以太
-1. [COCO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e543fa2950e1488fa7a3ecf60e8aeb50) - Pochito
+1. [COCO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e543fa2950e1488fa7a3ecf60e8aeb50) - Pochito
 1. [Ngau Hung](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 
 ## 品牌榜
