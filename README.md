@@ -11,24 +11,25 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-12-13 06:15:17 +0800`
+`更新时间：2021-12-13 07:16:11 +0800`
 
 ## 抖音热榜
 
 1. 1213国家公祭日
-1. 司机教科书式智救男童
+1. 多地倡导就地过年
 1. 四句话概括了党的百年
-1. 美国多州遭龙卷风侵袭
 1. 山东烟台一货船沉没致9人遇难
-1. 警方回应男子骑电车当街拖行女子
+1. 司机教科书式智救男童
+1. 美国多州遭龙卷风侵袭
+1. 杨超越直播太好笑了
 1. 95后现役军人荣立一等功
-1. 虞书欣陆柯燃合体录综艺
-1. 男生扣碎篮板引全场惊呼
-1. 男生回应滑板场地被占崩溃劝离
+1. 新疆学生大雾大雪天去上课像探险
+1. 林书豪全网征集队友pk韦神
 1. 穷叉叉作者达人秀鬼畜编曲
 1. 仙剑3魔尊重楼台词再现
 1. 被这届辣妈狠狠辣到了
 1. 王子异血脂太高抽不出血
+1. 滑板场地被小孩霸占男子崩溃劝离
 1. 果然中国人均会点武功
 1. 备忘录手绘圣诞树
 1. 跟妈宝男生活有多心累
@@ -45,26 +46,25 @@
 1. 终于等到柳夜熙更新
 1. 小敏家吵架太窒息了
 1. 季氏父子太虐了
-1. 王涛去梅西家做客了
-1. 林书豪全网征集队友pk韦神
-1. 那不一个意思吗
-1. 新疆学生大雾大雪天去上课像探险
+1. 虞书欣陆柯燃合体录综艺
+1. 男生回应滑板场地被占崩溃劝离
+1. 警方回应男子骑电车当街拖行女子
 1. 汤普森和怀斯曼再被下放发展联盟
-1. 多地倡导就地过年
 1. 每当想起我们的曾经
-1. 野猪拟从三有动物名录中删除
+1. 那不一个意思吗
 1. 19岁小将路人王广州站摘冠
+1. 男生扣碎篮板引全场惊呼
 1. 被拐男孩找回后说父亲害他没家了
 1. 武汉天兴洲被撞事件后续
-1. 爸爸带娃的5年变化
-1. 被困礁石的小姐姐找到了
 1. 维斯塔潘加冕F1世界冠军
-1. 男孩每天录视频为自己加油
+1. 被困礁石的小姐姐找到了
 1. 救人快递小哥退伍18年仍有绝技
-1. 奥利维拉成功卫冕
+1. 野猪拟从三有动物名录中删除
+1. 爸爸带娃的5年变化
+1. 王涛去梅西家做客了
+1. 男孩每天录视频为自己加油
 1. 欧文现身女友vlog
 1. 演员涂们逝世
-1. 明星变身就得来点与众不同的
 
 ## 明星榜
 
@@ -76,11 +76,11 @@
 
 ## 音乐榜
 
-1. [问心（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凯
+1. [问心（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凯
 1. [Aloha Heja He](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
 1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [哭泣站台]() - 王小帅
-1. [予你 剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
+1. [予你 剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [我不是刘德华]() - 新地/卢克
 1. [平凡的一天]() - 毛不易
@@ -90,37 +90,37 @@
 1. [秒针（DJ版）主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19fee1960e4a408c9039a80d27e58189) - 阿梨粤/DJR7
 1. [靠近]() - Morris赖仔
 1. [A Thousand Miles]() - Josh Vietti
-1. [艺术家（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
+1. [艺术家（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
 1. [指纹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
 1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
-1. [Eenie Meenie](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
+1. [Eenie Meenie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
 1. [If I Ain't Got You - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30b9229284e54f27b3d877b2e4a2f7f3) - John Adams
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [星光派对（剪辑版）]() - 赵希予
 1. [Rằng Em Mãi Ở Bên](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
 1. [BIG TIME（慢摇版）]() - 王以太
 1. [影子说（剪辑版）]() - 洛先生
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
-1. [情意结](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
-1. [All I Want for Christmas Is You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a6e8364f27b14b3a84dfe9cabbfcff0e) - Mariah Carey
-1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [情意结](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
+1. [All I Want for Christmas Is You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a6e8364f27b14b3a84dfe9cabbfcff0e) - Mariah Carey
+1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [天外来物]() - 薛之谦
 1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
 1. [In The Shadow Of The Sun]() - Professor Green
 1. [孤勇者]() - 陈奕迅
-1. [Honest](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
+1. [Honest](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
 1. [特别的人]() - 方大同
 1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
 1. [还你自由]() - 零一九零贰
 1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
 1. [Dogs (Original Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
 1. [爱在西元前]() - 周杰伦
-1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
+1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
 1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
 1. [I Wanna Be](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ddf406dac164d6798847f32de9e52e9) - Erok
 1. [solicitous]() - XLBolo
 1. [不止冬天（圣诞版）]() - au-is
-1. [Sunrise](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb0b72d46f474ff090de9a6bbf33b8bf) - 抖音小助手
+1. [Sunrise](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb0b72d46f474ff090de9a6bbf33b8bf) - 抖音小助手
 1. [Ngau Hung](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 1. [LOVE SCENARIO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
 1. [Shape of You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/af2950a1d5e34ad18f7c2cb23bc46e19) - J.Fla
