@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-12-12 19:13:18 +0800`
+`更新时间：2021-12-12 20:24:31 +0800`
 
 ## 抖音热榜
 
-1. 周琦22分10篮板7次盖帽
+1. 终于等到柳夜熙更新
 1. 果然中国人均会点武功
 1. 四句话概括了党的百年
+1. 周琦22分10篮板7次盖帽
+1. 多地倡导就地过年
+1. 西安确诊病例为门诊部工作人员
 1. 仙剑3魔尊重楼台词再现
-1. 爸爸带娃的5年变化
-1. 陈情令演员合体家宴
 1. 跟妈宝男生活有多心累
+1. 新疆学生大雾大雪天去上课像探险
 1. 雪中悍刀行全员飘雪拔剑
-1. 官方通报企业捐抗疫大衣现黑心棉
 1. 男生扣碎篮板引全场惊呼
-1. 詹姆斯保罗助阵布朗尼比赛
-1. 张同学换插座了
+1. 那不一个意思吗
 1. 王子异血脂太高抽不出血
 1. 滑板场地被小孩霸占男子崩溃劝离
 1. 小敏家吵架太窒息了
-1. 柳夜熙 想找先生算一卦
 1. 季氏父子太虐了
 1. 男子被陌生人咬了十几口
-1. 司机教科书式智救男童
-1. 每当想起我们的曾经
-1. 明星变身就得来点与众不同的
-1. 19岁小将路人王广州站摘冠
-1. 周冬雨刘昊然同框直播
-1. 备忘录手绘圣诞树
-1. 美国多州遭龙卷风侵袭
-1. 林书豪全网征集队友pk韦神
-1. 男孩每天录视频为自己加油
-1. 浙江累计报告确诊病例138例
-1. 那不一个意思吗
-1. 多地倡导就地过年
-1. 克里克隔扣后被撞翻引冲突
 1. 野猪拟从三有动物名录中删除
-1. 野性回报
-1. 穷叉叉作者达人秀鬼畜编曲
-1. 山东烟台一货船沉没致9人遇难
-1. 演员涂们逝世
-1. 青岛滨海学院回应学生坠楼事件
-1. PDD入选LPL名人堂
-1. 欧文现身女友vlog
-1. 武汉天兴洲被撞事件后续
-1. 这个磨牙属实生猛了一点
-1. 可我明明都会啊
-1. 郑业成扮的赵云太英气
-1. 埃博拉前线看哭了
-1. EDG夺冠进江苏省考考题
-1. 戚薇弹指召唤天空变色
-1. 这是一条无人认领的虫宝宝
 1. 被困礁石的小姐姐找到了
 1. 汤普森和怀斯曼再被下放发展联盟
+1. PDD入选LPL名人堂
+1. 克里克隔扣后被撞翻引冲突
+1. 周冬雨刘昊然同框直播
+1. 明星变身就得来点与众不同的
+1. 救人快递小哥退伍18年仍有绝技
+1. 美国多州遭龙卷风侵袭
+1. 每当想起我们的曾经
+1. 浙江累计报告确诊病例138例
+1. 男孩每天录视频为自己加油
+1. 爸爸带娃的5年变化
+1. 奥利维拉成功卫冕
+1. 林书豪全网征集队友pk韦神
+1. 詹姆斯保罗助阵布朗尼比赛
+1. 19岁小将路人王广州站摘冠
+1. 山东烟台一货船沉没致9人遇难
+1. 穷叉叉作者达人秀鬼畜编曲
+1. 司机教科书式智救男童
+1. 演员涂们逝世
+1. 备忘录手绘圣诞树
+1. 武汉天兴洲被撞事件后续
+1. 野性回报
+1. 这个磨牙属实生猛了一点
+1. 张卫健再扮孙悟空
+1. 埃博拉前线看哭了
+1. 小小年纪就欠下一笔巨款
+1. 郑业成扮的赵云太英气
+1. 可我明明都会啊
+1. 欧文现身女友vlog
+1. 1213国家公祭日
 1. 快本疑似改名你好星期六
 
 ## 明星榜
@@ -77,8 +77,8 @@
 ## 音乐榜
 
 1. [问心（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凯
-1. [Aloha Heja He](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
-1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
+1. [Aloha Heja He](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a06c12650341f8b6e82b97c7a20b90) - Achim Reichel
+1. [南半球与北海道](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [哭泣站台]() - 王小帅
 1. [予你 剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
@@ -91,10 +91,10 @@
 1. [靠近]() - Morris赖仔
 1. [A Thousand Miles]() - Josh Vietti
 1. [艺术家（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
-1. [指纹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
+1. [指纹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
 1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
-1. [Eenie Meenie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
-1. [If I Ain't Got You - Acoustic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30b9229284e54f27b3d877b2e4a2f7f3) - John Adams
+1. [Eenie Meenie](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
+1. [If I Ain't Got You - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30b9229284e54f27b3d877b2e4a2f7f3) - John Adams
 1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [星光派对（剪辑版）]() - 赵希予
 1. [Rằng Em Mãi Ở Bên](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
@@ -102,7 +102,7 @@
 1. [影子说（剪辑版）]() - 洛先生
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
 1. [情意结](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
-1. [All I Want for Christmas Is You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a6e8364f27b14b3a84dfe9cabbfcff0e) - Mariah Carey
+1. [All I Want for Christmas Is You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a6e8364f27b14b3a84dfe9cabbfcff0e) - Mariah Carey
 1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [天外来物]() - 薛之谦
 1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
@@ -112,12 +112,12 @@
 1. [特别的人]() - 方大同
 1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
 1. [还你自由]() - 零一九零贰
-1. [失忆（男生版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
-1. [Dogs (Original Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
+1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
+1. [Dogs (Original Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3679b1ec20f48cb8b38eb5445299b38) - HVOB
 1. [爱在西元前]() - 周杰伦
-1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [necessary girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
-1. [I Wanna Be](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ddf406dac164d6798847f32de9e52e9) - Erok
+1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
+1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
+1. [I Wanna Be](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ddf406dac164d6798847f32de9e52e9) - Erok
 1. [solicitous]() - XLBolo
 1. [不止冬天（圣诞版）]() - au-is
 1. [Sunrise](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb0b72d46f474ff090de9a6bbf33b8bf) - 抖音小助手
@@ -125,7 +125,7 @@
 1. [LOVE SCENARIO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
 1. [Shape of You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/af2950a1d5e34ad18f7c2cb23bc46e19) - J.Fla
 1. [浪漫主义]() - 姜云升
-1. [You Never Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
+1. [You Never Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
 
 ## 品牌榜
 
