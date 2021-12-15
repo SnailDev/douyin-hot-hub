@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-12-16 02:18:49 +0800`
+`更新时间：2021-12-16 03:13:52 +0800`
 
 ## 抖音热榜
 
 1. 这老师是教rap的吗
-1. 女子买百万豪车质疑车架号被篡改
+1. 羽墨背着我们演了多少角色
 1. 十九届六中全会知识点
-1. Uzi官宣复出
-1. OPPO发布首款折叠屏手机
-1. 一个人养活一个美甲大师
-1. 郭德纲终于等到了于谦
-1. Ning发视频纪念S8冠军阵容
-1. 没有谢霆锋直男视角带不跑的人
-1. 女心理师杨童舒演的妈妈好疯
-1. BLG宣布Uzi加入
-1. 边吃边跳挑战
-1. 孟羽童跳舞董明珠帮拿话筒
-1. 你被李宏毅揭面具后惊艳了吗
-1. 女生回应晒出与妈妈做实验对比照
-1. 男生放弃高考陪爸爸走完最后日子
 1. 高文君红丝绒礼服绝美赴约
-1. 宿舍年终汇演大赛
+1. Uzi官宣复出
+1. 女心理师杨童舒演的妈妈好疯
+1. 一个人养活一个美甲大师
+1. 用容嬷嬷的语气和老公说话
+1. 没有谢霆锋直男视角带不跑的人
+1. 女子买百万豪车质疑车架号被篡改
+1. BLG宣布Uzi加入
+1. 郭德纲终于等到了于谦
+1. 头号玩儿家于谦入驻抖音
+1. 你被李宏毅揭面具后惊艳了吗
+1. 这华尔兹跳得多少有点放不开
+1. 男生放弃高考陪爸爸走完最后日子
+1. 刘学州寻亲生父母获重大进展
+1. 边吃边跳挑战
 1. 痞幼现身误杀2首映礼
-1. 拾荒爷爷帮学生拉行李背影好感人
+1. 谢清瀚告白高文君成功
 1. 农发行回应女子举报前婆婆
 1. 南京被害女大学生父母重回案发地
 1. 校方回应教师对历史发表不当言论
-1. 刘学州寻亲生父母获重大进展
-1. 头号玩儿家于谦入驻抖音
-1. 谢清瀚告白高文君成功
-1. 全网寻找的马腿奶奶找到了
-1. 小敏家金家骏懂事得让人心疼
+1. 女生回应晒出与妈妈做实验对比照
+1. 宿舍年终汇演大赛
 1. 李佳隆居然在我的耳机里讲情话
+1. 孟羽童跳舞董明珠帮拿话筒
+1. 小敏家金家骏懂事得让人心疼
+1. 全网寻找的马腿奶奶找到了
 1. 女子实名举报前婆婆吃空饷
+1. 拾荒爷爷帮学生拉行李背影好感人
+1. OPPO发布首款折叠屏手机
 1. 名记称湖人已内部讨论交易威少
-1. 郑恺挑战林峯花式投篮
-1. 谁会拒绝每天穿卫衣的男生
 1. 33岁球星阿圭罗宣布退役
-1. 海沃德全场快攻挑战
+1. 谁会拒绝每天穿卫衣的男生
 1. 爱情公寓羽墨演过西游记蝎子精
-1. 詹姆斯祝贺库里
+1. 郑恺挑战林峯花式投篮
+1. 海沃德全场快攻挑战
+1. Ning发视频纪念S8冠军阵容
 1. 牛顿看了这转球也要说句绝
-1. 王源夏野了实体专辑秒售罄
-1. 这就是从玩泥巴到婚纱吧
-1. 德云男团欢迎谦大爷入驻
 1. 也平凡的评论破大防了
-1. 当厨房历险记遇到社恐唐仁杰
-1. 库里加冕NBA历史三分王
+1. 王源夏野了实体专辑秒售罄
+1. 詹姆斯祝贺库里
+1. 这就是从玩泥巴到婚纱吧
 1. 官方回应残疾老奶奶装马腿
-1. 用容嬷嬷的语气和老公说话
 1. 彭高峰晒当年和孙海洋寻子录像
-1. 这就是猫景房吧
+1. 德云男团欢迎谦大爷入驻
+1. 当厨房历险记遇到社恐唐仁杰
 1. 南京女大学生案嫌犯家属望轻判
-1. 张彬彬手势舞好像在搓澡
+1. 库里加冕NBA历史三分王
 
 ## 明星榜
 
@@ -90,22 +90,22 @@
 1. [秒针（DJ版）主歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19fee1960e4a408c9039a80d27e58189) - 阿梨粤/DJR7
 1. [靠近]() - Morris赖仔
 1. [A Thousand Miles]() - Josh Vietti
-1. [艺术家（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
-1. [指纹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
-1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [艺术家（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
+1. [指纹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
+1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
 1. [Eenie Meenie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
 1. [If I Ain't Got You - Acoustic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/30b9229284e54f27b3d877b2e4a2f7f3) - John Adams
-1. [Dạ Vũ（夜舞）原速剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
+1. [Dạ Vũ（夜舞）原速剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95dc029a0dfd4865bbe861993fb97adf) - Tăng Duy Tân
 1. [星光派对（剪辑版）]() - 赵希予
-1. [Rằng Em Mãi Ở Bên](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
+1. [Rằng Em Mãi Ở Bên](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59a03192db1b4d9486f28a1b04e9abeb) - Bích Phương
 1. [BIG TIME（慢摇版）]() - 王以太
 1. [影子说（剪辑版）]() - 洛先生
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
 1. [情意结](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
 1. [All I Want for Christmas Is You](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a6e8364f27b14b3a84dfe9cabbfcff0e) - Mariah Carey
-1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [天外来物]() - 薛之谦
-1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
+1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
 1. [In The Shadow Of The Sun]() - Professor Green
 1. [孤勇者]() - 陈奕迅
 1. [Honest](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1eb1b51d47e845aa8af3f97d0179a8e6) - rei brown
@@ -117,10 +117,10 @@
 1. [爱在西元前]() - 周杰伦
 1. [下一秒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
 1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
-1. [I Wanna Be](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ddf406dac164d6798847f32de9e52e9) - Erok
+1. [I Wanna Be](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ddf406dac164d6798847f32de9e52e9) - Erok
 1. [solicitous]() - XLBolo
 1. [不止冬天（圣诞版）]() - au-is
-1. [Sunrise](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb0b72d46f474ff090de9a6bbf33b8bf) - 抖音小助手
+1. [Sunrise](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb0b72d46f474ff090de9a6bbf33b8bf) - 抖音小助手
 1. [Ngau Hung](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 1. [LOVE SCENARIO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25822197988c41c3b476d82741550f52) - Dragon Stone
 1. [Shape of You](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/af2950a1d5e34ad18f7c2cb23bc46e19) - J.Fla
