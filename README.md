@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-12-21 04:17:45 +0800`
+`更新时间：2021-12-21 05:14:07 +0800`
 
 ## 抖音热榜
 
-1. 薇娅道歉称愿承担一切后果
-1. 国产抗新冠特效药输液完立刻起效
+1. 张杰不做歌手就做酒店大堂经理
+1. 陈慧敏杨亚冬拒绝快餐式恋爱
 1. 百年奋斗带来四方面改变
-1. 薇娅多个平台账号被封
-1. 李佳琦公司回应称一切经营正常
-1. EDG冠军皮肤
+1. 小敏家年下男向小捷表白
 1. 二十不惑2官宣
 1. 解放军换发21式作训服和作业服
-1. 广式的边炉有多讲究
-1. 云南一老人在寒冷冬夜卖葛根片
+1. 薇娅道歉称愿承担一切后果
+1. 德罗赞赛后谈詹姆斯
+1. 全抖音召唤告五人
+1. EDG冠军皮肤
+1. 你连前奏都没有听完
+1. 李斌称不明白为什么还有人买油车
 1. 剪女明星同款胎毛刘海挑战
-1. 胡彦斌太靠谱了吧
-1. 郭艾伦隔墙连线赵睿唱穷叉叉
 1. 周震南不得不爱氛围感
 1. 来自特级教师的压迫感
-1. 欧盟27国仅2国表态不出席冬奥
-1. 李茂扮太子终极预告
-1. 全抖音召唤告五人
-1. 直击昆明警方硬核扫黄现场
-1. 工作人员回应景区充气城堡被吹翻
-1. 薇娅曾被多次督促仍整改不彻底
-1. 网友喊话李佳琦不要偷税漏税
-1. 金波终于要被赶出小敏家了
-1. 被奶奶煮的面整破防了
-1. 美食达人复刻试吃红楼梦冷香丸
-1. 罗云熙说Uzi是永远的神
-1. 田姥姥给郭艾伦找对象
-1. 印度飞饼都自愧不如
-1. 姚明现身昆明
-1. 你连前奏都没有听完
 1. 小敏家年下男恋爱后秒变脸
-1. 报道薇娅偷逃税的编辑叫李佳琦
 1. 霍启刚当选香港立法会议员
-1. 薇娅公司曾否认偷逃税
-1. 什么鱿鱼让谢霆锋现场蹦迪
-1. 埃博拉前线大结局
-1. 曝湖人打探周琦情况
-1. 詹姆斯向裁判施压获得改判
+1. 网友喊话李佳琦不要偷税漏税
+1. 直击昆明警方硬核扫黄现场
+1. 罗云熙说Uzi是永远的神
+1. 薇娅曾被多次督促仍整改不彻底
+1. 欧盟27国仅2国表态不出席冬奥
+1. 实地探访薇娅杭州总公司
+1. 李佳琦公司回应称一切经营正常
+1. 金波终于要被赶出小敏家了
+1. 胡彦斌太靠谱了吧
+1. 李茂扮太子终极预告
+1. 广式的边炉有多讲究
+1. 工作人员回应景区充气城堡被吹翻
+1. 国产抗新冠特效药输液完立刻起效
+1. 12月21日23时59分迎来冬至
+1. 报道薇娅偷逃税的编辑叫李佳琦
+1. 印度飞饼都自愧不如
+1. 薇娅偷逃税被追缴并处罚款13亿
 1. 马斯克调侃称自己可能有中国血统
+1. 被奶奶煮的面整破防了
+1. 云南一老人在寒冷冬夜卖葛根片
+1. 曝湖人打探周琦情况
+1. 什么鱿鱼让谢霆锋现场蹦迪
 1. 罗永浩方回应称我们没有问题
 1. 入住全球最高酒店是什么体验
-1. 小敏家年下男向小捷表白
-1. 实地探访薇娅杭州总公司
-1. 薇娅丈夫董海锋发道歉信
-1. 当小五捡到柳夜熙的笔
-1. 薇娅偷逃税被追缴并处罚款13亿
-1. 德罗赞赛后谈詹姆斯
+1. 詹姆斯向裁判施压获得改判
+1. 薇娅公司曾否认偷逃税
+1. 美食达人复刻试吃红楼梦冷香丸
+1. 薇娅多个平台账号被封
 1. 七尺之躯许国难许卿
-1. 李斌称不明白为什么还有人买油车
-1. 陈慧敏杨亚冬拒绝快餐式恋爱
+1. 薇娅丈夫董海锋发道歉信
+1. 薇娅事业群告知员工先行回家休息
+1. 当小五捡到柳夜熙的笔
+1. 郭艾伦隔墙连线赵睿唱穷叉叉
 
 ## 明星榜
 
@@ -84,44 +84,44 @@
 1. [问心（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凯
 1. [小雨天气]() - yihuik苡慧/嘿人李逵Noisemakers/十七草
 1. [平凡的一天]() - 毛不易
-1. [南半球与北海道](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
+1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [落在生命里的光(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [氧化氢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70b685319a304bf1a1c8f904423041bf) - 李尖尖
-1. [问心](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb82978957bf492b8842638f8d1b8466) - 就是南方凯
+1. [氧化氢](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70b685319a304bf1a1c8f904423041bf) - 李尖尖
+1. [问心](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb82978957bf492b8842638f8d1b8466) - 就是南方凯
 1. [哭泣站台]() - 王小帅
 1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
-1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [BIG TIME（慢摇版）]() - 王以太
 1. [目及皆是你（心跳版）]() - 小蓝背心
-1. [艺术家（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
+1. [艺术家（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc2f416a1004398942e225bff8d44fb) - MaySeventeen
 1. [嘿！关于爱]() - 阿肆
-1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e41321aaf81d4e77a664329c1ffcf985) - 王以太/刘至佳
-1. [指纹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
+1. [危险派对](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e41321aaf81d4e77a664329c1ffcf985) - 王以太/刘至佳
+1. [指纹](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b53eb1e5db241b6849e56104809dd2c) - 杜宣达
 1. [失忆（男生版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/886488823e4d448e9cefef2df680d397) - 蔡鹤峰
 1. [我不是刘德华]() - 新地/卢克
-1. [我们的明天（Live）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/50b758549f904df7a2963c5be52535af) - 鹿晗
-1. [Life Goes On](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c4d7f7be76a46db8ab73b83fc564bc9) - Oliver Tree
-1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [老茧-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
+1. [我们的明天（Live）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/50b758549f904df7a2963c5be52535af) - 鹿晗
+1. [Life Goes On](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c4d7f7be76a46db8ab73b83fc564bc9) - Oliver Tree
+1. [Cruel Summer](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [老茧-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
 1. [Hey Boy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a2ce9453d8a45caa5adf53e927b3be2) - BCD Studio
 1. [《男儿歌》]() - 时代少年团
-1. [小白兔遇上卡布奇诺](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1d2df19bd0f4255acc5704625e6ea55) - 兔子牙
-1. [夏日美梦（纯音乐）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b1580bce6b8044b4b260b64f14d22db3) - BlackDD
-1. [浪漫（纯音乐）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c50a027cb64cbbb33a8eb5afce567e) - 闫天午
+1. [小白兔遇上卡布奇诺](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1d2df19bd0f4255acc5704625e6ea55) - 兔子牙
+1. [夏日美梦（纯音乐）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b1580bce6b8044b4b260b64f14d22db3) - BlackDD
+1. [浪漫（纯音乐）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c50a027cb64cbbb33a8eb5afce567e) - 闫天午
 1. [最简单的美好](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0e7fffcdfba245ab83297602de530d38) - 郭聪明
-1. [偷听对白](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
+1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
 1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [靠近]() - Morris赖仔
 1. [天外来物]() - 薛之谦
-1. [小熊饼干（纯音乐）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1de48e656a6748749964e5868753c062) - BlackDD
-1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
+1. [小熊饼干（纯音乐）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1de48e656a6748749964e5868753c062) - BlackDD
+1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [你的答案_阿冗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5093e9b2ab734609a3c407f78eb2116e) - 阿冗
-1. [致你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
+1. [致你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/954c374ed5f84191b4090574009773cc) - yihuik苡慧
 1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
 1. [溯 (Reverse) feat. 马吟吟](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a8ac62db9bd4e3ebb3159dd0d08f960) - CORSAK
-1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
+1. [It's a Beautiful Day](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
 1. [Eenie Meenie](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/41086f9587e44036823d9782d42be7e2) - Mix Factor
 1. [会吗]() - 王靖雯不胖
 1. [时光洪流（音效版）]() - 程响
