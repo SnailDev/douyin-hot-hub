@@ -11,19 +11,19 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-01-11 11:19:19 +0800`
+`更新时间：2022-01-11 12:21:21 +0800`
 
 ## 抖音热榜
 
-1. 个体户活成了上班族
-1. 赵睿因身体极度不适休战
+1. 开端全员喊你上车
+1. 何以笙箫默被下架
 1. 共创中华民族美好未来
-1. 全家帮你求婚是种什么体验
-1. 弟弟请全班男生护送姐姐出嫁
+1. 深圳新增4例新冠阳性感染者
 1. 央视主持人赵赫去世
+1. 这隔离到了花果山水帘洞了
+1. 弟弟请全班男生护送姐姐出嫁
 1. 当奶奶看到孙子带女朋友回家
-1. 吴敏独自带娃好心酸
-1. 王霏霏沈梦辰李斯丹妮接力迪斯科
+1. 仝卓高考舞弊涉案人员被公诉
 1. 31省区市新增本土确诊110例
 1. 蔡少芬普通话唱戏腔太上头了
 1. 奥特曼又出差了
@@ -44,25 +44,25 @@
 1. 你以为期末秃头的只有学生吗
 1. 乔欣 我要是男生会让杨紫爱死我
 1. 女孩记录在相亲对象家隔离日常
-1. 深圳新增4例新冠阳性感染者
+1. 内蒙古发现一例疑似阳性人员
 1. 天津昨日新增本土确诊10例
+1. 个体户活成了上班族
 1. 女孩扮老人露馅逗笑老太太
-1. 动画还原江歌案发前10小时
-1. 北大教授称上职高没出息
-1. 女子回应被隔离在相亲对象家
 1. 被爸妈年轻时的颜值惊艳到了
-1. 这隔离到了花果山水帘洞了
-1. 仝卓高考舞弊涉案人员被公诉
-1. 这才是真纸上谈兵
-1. 河南新增87例本土确诊病例
-1. 女孩回村一天被安排20场相亲
-1. 张继科光剑变装终于来了
-1. 美越到底要学几门语言
-1. 邓伦豪横版我的规矩就是规矩
-1. 河北寻亲男生刘学州和生母见面
-1. 是什么打破了原本的平静
-1. 无锡首次检出奥密克戎感染者
 1. 重楼小鱼海棠重现荧幕CP
+1. 江歌母亲庭后感谢网友多年支持
+1. 动画还原江歌案发前10小时
+1. 这才是真纸上谈兵
+1. 是什么打破了原本的平静
+1. 河南新增87例本土确诊病例
+1. 无锡首次检出奥密克戎感染者
+1. 女孩回村一天被安排20场相亲
+1. 爱国女生在英国街头怒斥港独
+1. 美越到底要学几门语言
+1. 王霏霏沈梦辰李斯丹妮接力迪斯科
+1. 全家帮你求婚是种什么体验
+1. 邓伦豪横版我的规矩就是规矩
+1. 张晋高瀚宇合唱爸爸妈妈
 1. CP即天堂挑战
 1. 玲娜贝儿无穷小亮限定版
 
@@ -80,24 +80,24 @@
 1. [门没锁]() - 我是土豆
 1. [落在生命里的光(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [我是如此相信]() - 周杰伦
-1. [南半球与北海道](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
+1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [叹-副歌剪辑版]() - 黄龄/TĂNG DUY TÂN
 1. [新年快乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a7f0acfdff8c46f190864c7a3776893c) - UNIQ
 1. [哪里都是你 剪辑版]() - 队长
 1. [心照不宣](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/316711d939d64314bb7f013fd050fb02) - 赵芷彤Cassie
 1. [好想抱住你（DJR7版）]() - 程jiajia
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长/黄礼格
-1. [2022三倍爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eac95f48092438e8feebf263820aebc) - BCD Studio
-1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长/黄礼格
+1. [2022三倍爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9eac95f48092438e8feebf263820aebc) - BCD Studio
+1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [假期一起去看风景吧](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e74b0cb42cd84b669d605864638bd75a) - BCD Studio
-1. [Winter is coming](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
+1. [Winter is coming](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
 1. [A Thousand Miles]() - Josh Vietti
 1. [孤勇者]() - 陈奕迅
 1. [哪里都是你]() - 队长
-1. [新年好](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fa63c5bcb57c466f9647a74ec3a33f06) - BCD-Studio
+1. [新年好](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fa63c5bcb57c466f9647a74ec3a33f06) - BCD-Studio
 1. [下潜（情绪剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c42530bf0e054f7c8f93b8426e42102d) - 川青
-1. [晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
-1. [好好生活就是美好生活（温暖回忆版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/75e84038408f4164ae177fc8a8103e45) - 周深
+1. [晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
+1. [好好生活就是美好生活（温暖回忆版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/75e84038408f4164ae177fc8a8103e45) - 周深
 1. [贴贴 片段一]() - 胥睿/杨淳
 1. [Butterfly](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d48dc871f0d4ff497bfe681edcbfabb) - Nick.Y
 1. [In The Shadow Of The Sun]() - Professor Green
@@ -108,24 +108,24 @@
 1. [好想抱住你]() - 程jiajia
 1. [You Never Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
-1. [银河与星斗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cc0bf5f0ef140f7b6743a631bcf3c58) - yihuik苡慧
+1. [银河与星斗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cc0bf5f0ef140f7b6743a631bcf3c58) - yihuik苡慧
 1. [所念皆星河](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1e37b6c499164f3d8408ad4f98527a0d) - 房东的猫
 1. [Infinity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
 1. [哭泣站台]() - 王小帅
-1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
-1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e41321aaf81d4e77a664329c1ffcf985) - 王以太/刘至佳
+1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
+1. [危险派对](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e41321aaf81d4e77a664329c1ffcf985) - 王以太/刘至佳
 1. [China-X](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a343671af564d5fa66df044fd8d483c) - 徐梦圆
-1. [《失物招领》-电影《以年为单位的恋爱》情感主题曲（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d9f5c87efae4a7bad9f5cdee43940b1) - 蔡健雅
+1. [《失物招领》-电影《以年为单位的恋爱》情感主题曲（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d9f5c87efae4a7bad9f5cdee43940b1) - 蔡健雅
 1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
 1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [让我们一起和2021的那些回忆说再见吧](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a41a87e2b2e34901a1414432d5602e7d) - BCD Studio Raquel
-1. [自己(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0f656f7d78534d8da2c68d91b1b16357) - 牧云先生
-1. [新年这一刻（丝芭家族版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/126e97da1be54446ae16368c0d0707dc) - SNH48 FAMILY GROUP
-1. [Hello Gentle Breeze](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/779d05aedf0a446391042bbcded8d67a) - BCD Studio LI
+1. [自己(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0f656f7d78534d8da2c68d91b1b16357) - 牧云先生
+1. [新年这一刻（丝芭家族版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/126e97da1be54446ae16368c0d0707dc) - SNH48 FAMILY GROUP
+1. [Hello Gentle Breeze](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/779d05aedf0a446391042bbcded8d67a) - BCD Studio LI
 1. [特别的人]() - 方大同
 1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
-1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
-1. [年味世界](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e359ebf9d9594bd4b1fe25e8695ad072) - BCD Studio 9ver
+1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [年味世界](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e359ebf9d9594bd4b1fe25e8695ad072) - BCD Studio 9ver
 
 ## 品牌榜
 
