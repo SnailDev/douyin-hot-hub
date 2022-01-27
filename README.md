@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-01-27 22:14:48 +0800`
+`更新时间：2022-01-27 23:15:52 +0800`
 
 ## 抖音热榜
 
 1. 国足0比2日本
 1. 王心凌一开口我的青春回来了
 1. 相约冰雪一起来
-1. 韦世豪南野拓实冲突
-1. 泡泡登上篮网主场发挥失常了
 1. 农村婚礼可以多浪漫
-1. 刘亦菲的年夜饭很混搭
+1. 泡泡登上篮网主场发挥失常了
 1. 虞书欣是开了甜妹滤镜吗
-1. 这个视频点赞是狮子头
+1. 刘亦菲的年夜饭很混搭
 1. 角角登上篮网队主场打球
+1. 韦世豪南野拓实冲突
+1. 2022湖南卫视春晚
 1. 被宋青莲产前焦虑整懵了
 1. 少年派2官宣
 1. 聂宇晟10分钟求婚2次
 1. 一首歌得罪两个人
 1. 小刚学长回应网传被特斯拉起诉
-1. 撕画变装挑战
-1. 国防部回应美可能于冬奥期间挑衅
 1. 赵今麦郭俊辰少年派2花絮
 1. 大蛇3想看又不敢看
-1. 33年前大理灭门案即将重审
 1. 我的小尾巴2大结局
 1. 河南人又开始炸年货了
-1. 东莞康华医院道歉
-1. 北京新增4例确诊1例无症状
+1. 冬奥会中国体育代表团名单出炉
+1. 电影四海笑劈叉了
+1. 为什么大家都喜欢羽生结弦
 1. 野猪进村致3名村民受伤
 1. 北京冬奥会中国体育代表团成立
-1. 明星版我说了NO手势舞
-1. 志扬越心和罗西十缨梦幻联动
-1. 肖战给粉丝的新年祝福
-1. 十年一品温如言原生家庭
-1. 电影四海笑劈叉了
-1. 被蔡徐坤改编版迷舞台迷住了
 1. 年夜饭菜单提前曝光了
+1. 被蔡徐坤改编版迷舞台迷住了
 1. 这才是真正的体育精神
-1. 为什么大家都喜欢羽生结弦
-1. 炫完的沙糖桔也别浪费了
-1. 纪念科比
 1. 张丹张昊邀请宋茜学花滑
+1. 天津新增4例新冠肺炎确诊病例
+1. 肖战给粉丝的新年祝福
 1. 什么叫幸福到脑瓜子嗡嗡的
-1. 男孩不慎掉进列车站台缝隙
-1. 村里的催婚大戏开始上演了
-1. 鬼灭之刃的cos被拿捏到位了
-1. 孙海洋一家登上湖南卫视春晚
-1. 优雅技术流运镜永不过时
-1. 女孩穿汉服滑雪惊艳外国网友
-1. 特朗普说自己是下任总统
-1. 大侦探玩家给往季角色写信
 1. 备忘录画福挑战
-1. 2022湖南卫视春晚
+1. 小马宝莉拟人版
+1. 志扬越心和罗西十缨梦幻联动
+1. 村里的催婚大戏开始上演了
+1. 十年一品温如言原生家庭
+1. 纪念科比
+1. 优雅技术流运镜永不过时
+1. 炫完的沙糖桔也别浪费了
+1. 明星版我说了NO手势舞
+1. 鬼灭之刃的cos被拿捏到位了
 1. 在他乡又被程响唱火了
+1. 女孩穿汉服滑雪惊艳外国网友
+1. 大侦探玩家给往季角色写信
+1. 孙海洋一家登上湖南卫视春晚
+1. 这个视频点赞是狮子头
+1. 用一碗面条治愈孤独
+1. 保姆大姐收到新衣服感动落泪
+1. 挑战用rap解说电影
+1. 东莞康华医院道歉
 
 ## 明星榜
 
@@ -77,15 +77,15 @@
 ## 音乐榜
 
 1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
-1. [门没锁-品冠儿子版已上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/764a96c096d440988428d4f594858e5d) - 品冠儿子
+1. [门没锁-品冠儿子版已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/764a96c096d440988428d4f594858e5d) - 品冠儿子
 1. [好想抱住你（DJR7版）]() - 程jiajia
 1. [天地似无情（副歌）]() - Y-D/来一碗老于
 1. [Enemy (Arcane League of Legends) - Epic Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9feec24f23834b06bdde8482cdbea15b) - Krutikov Music
-1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [Beautiful]() - INTO1-米卡
 1. [簇拥烈日的花（剪辑版）]() - 迟里乌布
 1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
-1. [情意结](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
+1. [情意结](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/642038f85e2944ab84ac01d460d13682) - 陈慧娴
 1. [下潜（情绪剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c42530bf0e054f7c8f93b8426e42102d) - 川青
 1. [孤勇者]() - 陈奕迅
 1. [Alone 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2bf3353af91d432ebb6b60068f35c9dc) - 嘉滢
@@ -106,26 +106,26 @@
 1. [Bullshit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeae092f027a441ebc7102f4653d403d) - DaniLeigh
 1. [一样的月光]() - 徐佳莹
 1. [Forever](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/76620b22fa6148fc8a0f236baff8f4b8) - Labrinth
-1. [落在生命里的光(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [陪你一起过冬天吧](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b5de3050c07649029b3a23e38b0047c3) - BCD Studio
+1. [落在生命里的光(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [陪你一起过冬天吧](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b5de3050c07649029b3a23e38b0047c3) - BCD Studio
 1. [麋鹿森林]() - 一口甜
 1. [哪里都是你]() - 队长
 1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
 1. [gone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8807da948ae14051945d24506732ce7c) - convolk
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bf9f6775919477ba6b7c83b702aa140) - Chris James
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bf9f6775919477ba6b7c83b702aa140) - Chris James
 1. [特别的人]() - 方大同
 1. [孤独面店（片段2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ee6a9a062b6d43bc9e544ad9f7685590) - 姜云升
-1. [清醒（弹唱版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ffe8a51a8f24e9f9e4d539623c3f29b) - 姜铭杨
-1. [One Night in ShangHai](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/df8d723f3364477492d8da468d5de458) - 胡彦斌
-1. [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy (feat. 정인 Jung In)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/274546e0972d471c88e486b9bef65d68) - 리쌍 LeeSSang
-1. [属于你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/501a9fa9bd144cd98da73851b70a2350) - 覆予
+1. [清醒（弹唱版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ffe8a51a8f24e9f9e4d539623c3f29b) - 姜铭杨
+1. [One Night in ShangHai](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/df8d723f3364477492d8da468d5de458) - 胡彦斌
+1. [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy (feat. 정인 Jung In)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/274546e0972d471c88e486b9bef65d68) - 리쌍 LeeSSang
+1. [属于你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/501a9fa9bd144cd98da73851b70a2350) - 覆予
 1. [海市蜃楼（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
 1. [老茧-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
 1. [我是如此相信]() - 周杰伦
-1. [脸红接收处](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0595db75412a4451a909a38fc068cd00) - Piggy小著
-1. [橘子汽水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7600b994f4724d3ca63e4904cc209b82) - iLab兴趣实验室
+1. [脸红接收处](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0595db75412a4451a909a38fc068cd00) - Piggy小著
+1. [橘子汽水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7600b994f4724d3ca63e4904cc209b82) - iLab兴趣实验室
 1. [天生反骨的鸵鸟（高热片段）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/628c7691cce84321b613974c22e3a9be) - 毛毛不插电
-1. [You Never Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
+1. [You Never Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
 
 ## 品牌榜
 
