@@ -11,20 +11,20 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-01-30 03:14:10 +0800`
+`更新时间：2022-01-30 04:16:59 +0800`
 
 ## 抖音热榜
 
 1. 美国运动员被冬奥村的床震惊了
-1. 比沙糖桔还难停下来的是炸丸子
-1. 祝大家虎年吉祥
-1. 希望今生有你在这剧终
-1. 北京冬奥的黑科技
-1. 火箱是什么
-1. 春节炸东西为啥不能说话
 1. 不得随意禁止外地群众返乡过年
-1. Slava的Tony老师又开始营业了
-1. 薛之谦助力广东虎年贺岁歌
+1. 祝大家虎年吉祥
+1. 火箱是什么
+1. 廖三宁颧骨遭肘击骨折
+1. 比沙糖桔还难停下来的是炸丸子
+1. 北京冬奥的黑科技
+1. 全家得知新生宝宝是女孩后沸腾
+1. 江照黎明反转好上头
+1. 男闺蜜当伴娘送祝福
 1. 萧敬腾张碧晨小鬼唱奥特曼主题曲
 1. 男子驾车意外将狗狗弹射起飞
 1. 全抖音都在看萧县法院春节执行
@@ -35,36 +35,36 @@
 1. 王不染老余把中山装拿捏住了
 1. 猫和儿子打架该帮谁
 1. 等薛之谦批完年末新歌就放假了
+1. 陈冕超越韩国队超越自己
 1. 当外国人看四大天王
 1. 终于体会到戚薇的快乐
 1. 反派角色变装挑战
+1. 雷军回应卸任小米电子董事长
 1. 闪光版姐姐妹妹站起来太顶了
-1. 春节的精髓被外国人学到了
 1. 谷爱凌坐滑雪魔毯差点下不来
-1. 消防员去周周家了
-1. 男闺蜜当伴娘送祝福
+1. 川渝男人满级装备的压迫感
 1. 玲子回应抄袭质疑
 1. 美国第四批军援物资运抵乌克兰
-1. 江照黎明反转好上头
-1. 张国伟打乒乓球入杯超准
-1. 篮网vs勇士
-1. 全家得知新生宝宝是女孩后沸腾
-1. 雷军回应卸任小米电子董事长
-1. 女孩回应穿汉服滑雪走红
 1. 迎接虎年的仪式感
-1. 舌尖上的心跳太好哭了
-1. 维金斯进全明星触发签名鞋条款
-1. 女子拒不归还彩礼被拘15天
-1. 没想到还有九宫格泡面
+1. 春节炸东西为啥不能说话
+1. Slava的Tony老师又开始营业了
 1. 长津湖之水门桥太惊险了
-1. 川渝男人满级装备的压迫感
-1. 廖三宁颧骨遭肘击骨折
+1. 希望今生有你在这剧终
+1. 张国伟打乒乓球入杯超准
+1. 没想到还有九宫格泡面
+1. 维金斯进全明星触发签名鞋条款
 1. 乡村爱情里的家庭修罗场
-1. 哈登可能与76人存在违规接触
-1. 看今生有你有多上头
+1. 女子拒不归还彩礼被拘15天
+1. 舌尖上的心跳太好哭了
+1. 篮网vs勇士
+1. 春节的精髓被外国人学到了
+1. 女孩回应穿汉服滑雪走红
 1. 田姥姥被百乔逗坏了
 1. 一年一度致春晚
+1. 消防员去周周家了
+1. 看今生有你有多上头
 1. 这个杀手不太冷静reaction大赏
+1. 哈登可能与76人存在违规接触
 
 ## 明星榜
 
@@ -76,10 +76,10 @@
 
 ## 音乐榜
 
-1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [落在生命里的光(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [好想抱住你（DJR7版）]() - 程jiajia
-1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [门没锁-品冠儿子版已上线]() - 品冠儿子
 1. [哪里都是你 剪辑版]() - 队长
@@ -87,30 +87,30 @@
 1. [下潜（情绪剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c42530bf0e054f7c8f93b8426e42102d) - 川青
 1. [孤勇者]() - 陈奕迅
 1. [年味世界](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e359ebf9d9594bd4b1fe25e8695ad072) - BCD Studio 9ver
-1. [Normal No More](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0083156b34369a9fb42ead3e7048b) - TYSM
+1. [Normal No More](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0083156b34369a9fb42ead3e7048b) - TYSM
 1. [海市蜃楼](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
 1. [平凡的一天]() - 毛不易
 1. [浪人琵琶（抒情版）]() - cici_/张萧介
 1. [叹-副歌剪辑版]() - 黄龄/TĂNG DUY TÂN
 1. [南半球与北海道](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [呓语]() - 毛不易
-1. [Enemy (Arcane League of Legends) - Epic Version](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9feec24f23834b06bdde8482cdbea15b) - Krutikov Music
-1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [Enemy (Arcane League of Legends) - Epic Version](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9feec24f23834b06bdde8482cdbea15b) - Krutikov Music
+1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [留香](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19394ef19943473b89f6edc715f2f29e) - 许嵩
 1. [too much](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97313513675f427eaf8b80fc3f5591ea) - kinkis
-1. [恭喜发财](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
+1. [恭喜发财](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
 1. [过年啦（童声版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9b517a84169948ae84f879125a32b380) - 金贝儿
 1. [Beautiful]() - INTO1-米卡
 1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [骁（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
-1. [Snow](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/20975bedd6d8491cb8d51bd870c28a1e) - 100 Piano Classics
+1. [Snow](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/20975bedd6d8491cb8d51bd870c28a1e) - 100 Piano Classics
 1. [天地似无情（副歌）]() - Y-D/来一碗老于
-1. [Alone 剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2bf3353af91d432ebb6b60068f35c9dc) - 嘉滢
+1. [Alone 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2bf3353af91d432ebb6b60068f35c9dc) - 嘉滢
 1. [碎银几两]() - 轩东
 1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
 1. [特别的人]() - 方大同
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bf9f6775919477ba6b7c83b702aa140) - Chris James
-1. [gone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8807da948ae14051945d24506732ce7c) - convolk
+1. [gone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8807da948ae14051945d24506732ce7c) - convolk
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [恭喜发财30s](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/de00c750a23743179de57e5d28b6bc4c) - 龚俊
 1. [You Never Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
@@ -119,10 +119,10 @@
 1. [WA DA DA](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c43e4a24f9464491b4f844c5614fa344) - Kep1er
 1. [Winter is coming](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
 1. [老茧-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
-1. [Infinity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
-1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
-1. [necessary girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
-1. [和你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/190a1fdb2f2c4e3a94ccab0c156c5480) - 余佳运
+1. [Infinity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
+1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
+1. [和你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/190a1fdb2f2c4e3a94ccab0c156c5480) - 余佳运
 1. [Love Yourself]() - Justin Bieber
 1. [一样的月光]() - 徐佳莹
 1. [拜新年]() - 凤凰传奇
