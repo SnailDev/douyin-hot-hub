@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-02-04 22:13:14 +0800`
+`更新时间：2022-02-04 23:13:41 +0800`
 
 ## 抖音热榜
 
@@ -19,52 +19,52 @@
 1. 开幕式现场升国旗奏国歌
 1. 全民重唱北京欢迎你
 1. 中国代表团入场
-1. 俄罗斯总统普京抵达北京
+1. 主火炬点燃
 1. 冰五环破冰而出
 1. 24节气倒计时太高级了
 1. 张艺谋真的太稳了
-1. 喜欢冰墩墩的日本记者后续
+1. 全抖音都在放开幕烟花
 1. 黄河之水天上来
 1. 鸟巢上空现中英文立春焰火
 1. 开幕式各国代表团羽绒服大赏
+1. 俄罗斯总统普京抵达北京
+1. 喜欢冰墩墩的日本记者后续
 1. 盘点历届奥运会点火仪式
+1. 张艺谋解释为何大火变微火
 1. 外国运动员第一视角带你逛冬奥村
-1. 瑞士冬奥选手隔离期国伟化了
-1. 冰墩墩和雪容融为什么不说话
-1. 吹号小男孩
+1. 给韩国人看中国运动员
 1. 穿鞋舞挑战
-1. 曹操出演张艺谋狙击手
+1. 巴赫中文说虎年大吉
+1. 吹号小男孩
 1. 普通的中国人手手相传国旗
-1. 北京冬奥会的隐藏价值
-1. 日本记者将冰墩墩邮寄到东京
-1. 撒贝宁说嘴可以瓢腿不能瓢
-1. 孟庆旸说不要轻易模仿青绿腰
+1. 又有冬奥选手逐渐国伟化
+1. 张艺谋解读开幕式
 1. 雪花与中国结完美融合
 1. 张杰携音乐人迎冬奥
-1. 又有冬奥选手逐渐国伟化
-1. 直击冬奥火炬传递现场
+1. 孟庆旸说不要轻易模仿青绿腰
+1. 北京冬奥会的隐藏价值
+1. 冬奥会自由式滑雪用张艺兴sheep
 1. 当女儿和妈妈穿同一条裙子
-1. 张艺谋解读开幕式
 1. 运动员入场式的背景音乐
+1. 黄明昊像极了嗑cp的我
 1. 运动员的颜值真不是吹的
 1. 胡一天好像地铁老头看手机
-1. 长津湖之水门桥电影原型
 1. 羽生结弦终于出现了
 1. 羽生结弦缺席花样滑冰团体赛
 1. 虞书欣重现初舞台爱你
-1. 蔡国强烟花新作品抖音首发
+1. 日本记者将冰墩墩邮寄到东京
 1. 李晨的烟熏妆的确不太好洗
-1. 打麻将志玲是专业的
 1. 安大魂
+1. 鸟巢上空现黄山迎客松
 1. 人类高质量开幕式
+1. 瑞士冬奥选手隔离期国伟化了
 1. 谷爱凌被众人求合影
-1. 冬奥会顶流冰墩墩一墩难求
-1. 景浩变成我高攀不起的样子
-1. 中国女子冰球队3:1战胜丹麦
-1. 美国运动员来北京公费旅游的吧
-1. 长津湖之水门桥的风炮有多强
-1. 虞书欣蒙眼抓住林一
-1. 被修拉锁的大爷整破防了
+1. 长津湖之水门桥电影原型
+1. 谷爱凌亮相首钢滑雪大跳台
+1. 蔡国强烟花新作品抖音首发
+1. 直击冬奥火炬传递现场
+1. 冰墩墩和雪容融为什么不说话
+1. 撒贝宁说嘴可以瓢腿不能瓢
 
 ## 明星榜
 
@@ -76,28 +76,28 @@
 
 ## 音乐榜
 
-1. [恭喜发财](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
+1. [恭喜发财](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
 1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [年味世界](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e359ebf9d9594bd4b1fe25e8695ad072) - BCD Studio 9ver
-1. [落在生命里的光(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [落在生命里的光(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [新年快乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a7f0acfdff8c46f190864c7a3776893c) - UNIQ
 1. [扭转乾坤](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b48e914b08f8442ca6c74ff55dbaed16) - BCD Studio 9ver
 1. [放晴]() - 王忻辰+苏星婕
-1. [虎娃闹新春](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/602d7a69d60e4ff685e33e2d94d92c7c) - BCD Studio 9ver
+1. [虎娃闹新春](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/602d7a69d60e4ff685e33e2d94d92c7c) - BCD Studio 9ver
 1. [簇拥烈日的花（剪辑版2）]() - 迟里乌布
 1. [Love Again Instrumental](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1a9021b0f6ab43009b2a41a3b1575b2d) - Dear Cloud
 1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [虎起中国范]() - 凤凰传奇/安慕希
-1. [月老牵红线-剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
-1. [未来中国城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/058e36db3dc544528c310de830bf2ada) - BCD Studio - Oran
+1. [月老牵红线-剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
+1. [未来中国城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/058e36db3dc544528c310de830bf2ada) - BCD Studio - Oran
 1. [一样的月光]() - 徐佳莹
-1. [在他乡 （主歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23217c16653943ac9488e129e7599eac) - 程响
+1. [在他乡 （主歌剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23217c16653943ac9488e129e7599eac) - 程响
 1. [予你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
-1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
 1. [海市蜃楼](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
-1. [雪龙吟（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
-1. [留香](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19394ef19943473b89f6edc715f2f29e) - 许嵩
+1. [雪龙吟（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
+1. [留香](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19394ef19943473b89f6edc715f2f29e) - 许嵩
 1. [平凡的一天]() - 毛不易
 1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
@@ -107,9 +107,9 @@
 1. [Love Yourself]() - Justin Bieber
 1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [好想抱住你（DJR7版）]() - 程jiajia
-1. [Lemon Tree](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
+1. [Lemon Tree](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
 1. [You Never Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
-1. [Sorry Babe](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23ee71d504d44923bb2e273c83af46f3) - Pencil S
+1. [Sorry Babe](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23ee71d504d44923bb2e273c83af46f3) - Pencil S
 1. [门没锁-品冠儿子版已上线]() - 品冠儿子
 1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [Infinity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
@@ -117,7 +117,7 @@
 1. [Beautiful]() - INTO1-米卡
 1. [孤勇者]() - 陈奕迅
 1. [晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
-1. [步步高](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/690024badaf34160ab2674f0bb185830) - 新乐府
+1. [步步高](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/690024badaf34160ab2674f0bb185830) - 新乐府
 1. [新年这一刻（丝芭家族版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/96a6e0f2bfc746ce936d3e4918c2f448) - SNH48 FAMILY GROUP
 1. [《过年的歌》抖音片段1（17秒-50秒）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/874baa2bfa23458ba0b7f5c55367a5ad) - 刘宇宁
 1. [骁（剪辑版1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
@@ -125,7 +125,7 @@
 1. [男二号]() - 薛之谦
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [See You Again (feat. Charlie Puth)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92f6878c4e9e4ad0892a86cd73086ab9) - Wiz Khalifa
+1. [See You Again (feat. Charlie Puth)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92f6878c4e9e4ad0892a86cd73086ab9) - Wiz Khalifa
 
 ## 品牌榜
 
