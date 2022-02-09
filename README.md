@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-02-09 13:14:06 +0800`
+`更新时间：2022-02-09 14:18:56 +0800`
 
 ## 抖音热榜
 
-1. 雪容融是溺水了吗
-1. 羽生结弦夸赞北京冰面
+1. 两对新人街头偶遇互换捧花祝福
+1. 谷爱凌比赛的跳台有多高
 1. 我是冰雪高手
-1. 动漫式摔倒
-1. 冠军都不叠被子 我为什么要叠
-1. 这是雪容融的真身吧
+1. 冰墩墩和义墩墩共演新闻了
+1. 王濛称韩国没资格骂安贤洙
+1. 谷爱凌说自己是正常的18岁女孩
+1. 谷爱凌回怼美媒
 1. 谷爱凌抖音单日涨粉超300万
-1. 橘墩墩
-1. 谷爱凌发抖音顽皮咬金牌
+1. 羽生结弦夸赞北京冰面
 1. 中国女冰无缘八强
 1. 31省区市新增本土确诊病例73例
-1. 我的眼泪 你的战利品
+1. 雪容融是溺水了吗
 1. 自己制作销售冰墩墩犯法吗
-1. 谷爱凌回怼美媒
+1. 蜡笔小新魔性舞
 1. 王濛说自己是场外吉祥物濛墩墩
 1. 易烊千玺在水门桥里的一滴泪
 1. 追人世间太上头了
 1. 李佳航打卡爱情公寓拍摄地
 1. 香港新增超1100例确诊病例
 1. 广西新增本土确诊72例
-1. 4男子冰河勇救2名落水男童
+1. 动漫式摔倒
 1. B站再次回应员工过年加班猝死
-1. 任子威冲击个人第三金
-1. 谷爱凌每天睡10小时觉
-1. 谷爱凌曾训练摔伤致暂时失忆
-1. 万物皆可冰墩墩
-1. 谷爱凌说自己是正常的18岁女孩
-1. 广西百色首例确诊者发声
-1. 喜茶回应大裁员
-1. 羽生结弦跳空
-1. 当我悄悄给爸妈转钱时
 1. 谷爱凌妈妈谈对女儿的教育
-1. 谷爱凌为什么叫青蛙公主
+1. 谷爱凌每天睡10小时觉
 1. 王濛同款我的眼睛就是尺
-1. 表白害羞舞
-1. 大肠包小肠是什么梗
-1. 我与谷爱凌的区别
-1. 观众视角看谷爱凌最后一跳
-1. 演员常枫去世
-1. 确保教师工资不低于当地公务员
-1. 私募基金经理高杉已离世
-1. 谷爱凌称在家乡比赛心态很放松
-1. 已经开始期待夏天了
-1. 任子威回应被踢出群聊
-1. 女足门将赵丽娜回应被父亲催婚
+1. 谷爱凌曾训练摔伤致暂时失忆
+1. 我的眼泪 你的战利品
+1. 谷爱凌发抖音顽皮咬金牌
+1. 喜茶回应大裁员
+1. 任子威冲击个人第三金
+1. 万物皆可冰墩墩
 1. 各国运动员亲测冬奥村食堂
+1. 观众视角看谷爱凌最后一跳
+1. 橘墩墩
+1. 4男子冰河勇救2名落水男童
+1. 大肠包小肠是什么梗
+1. 广西百色首例确诊者发声
+1. 冠军都不叠被子 我为什么要叠
+1. 演员常枫去世
+1. 任子威回应被踢出群聊
+1. 群星版冰墩墩为运动员加油
+1. 当我悄悄给爸妈转钱时
+1. 我与谷爱凌的区别
+1. 表白害羞舞
+1. 谷爱凌为什么叫青蛙公主
+1. 谷爱凌力挺朱易
 1. 当中韩夫妻一起看女足比赛
+1. 女足门将赵丽娜回应被父亲催婚
+1. 军人丈夫用筷子辅助铺床单
 1. 女足在苏州的第一顿晚饭是火锅
-1. 我要和你做兄弟笑点密集
-1. 听反方向的钟能回到寒假前吗
 
 ## 明星榜
 
@@ -78,54 +78,54 @@
 
 1. [恭喜发财](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
 1. [WAVE（Prod by 张杰峻）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
-1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [年味世界](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e359ebf9d9594bd4b1fe25e8695ad072) - BCD Studio 9ver
 1. [落在生命里的光(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [新年快乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a7f0acfdff8c46f190864c7a3776893c) - UNIQ
+1. [新年快乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a7f0acfdff8c46f190864c7a3776893c) - UNIQ
 1. [扭转乾坤](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b48e914b08f8442ca6c74ff55dbaed16) - BCD Studio 9ver
 1. [放晴]() - 王忻辰+苏星婕
-1. [虎娃闹新春](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/602d7a69d60e4ff685e33e2d94d92c7c) - BCD Studio 9ver
+1. [虎娃闹新春](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/602d7a69d60e4ff685e33e2d94d92c7c) - BCD Studio 9ver
 1. [簇拥烈日的花（剪辑版2）]() - 迟里乌布
 1. [Love Again Instrumental](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1a9021b0f6ab43009b2a41a3b1575b2d) - Dear Cloud
-1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
+1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [虎起中国范]() - 凤凰传奇/安慕希
-1. [月老牵红线-剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
+1. [月老牵红线-剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
 1. [未来中国城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/058e36db3dc544528c310de830bf2ada) - BCD Studio - Oran
 1. [一样的月光]() - 徐佳莹
 1. [在他乡 （主歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23217c16653943ac9488e129e7599eac) - 程响
-1. [予你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
-1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [予你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/81338df63fc64aa5a879e0eca063afc8) - 队长
+1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
 1. [海市蜃楼](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
-1. [雪龙吟（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
-1. [留香](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19394ef19943473b89f6edc715f2f29e) - 许嵩
+1. [雪龙吟（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
+1. [留香](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19394ef19943473b89f6edc715f2f29e) - 许嵩
 1. [平凡的一天]() - 毛不易
 1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
-1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
+1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [就是这么虎]() - Y星人/袁鑫怡 & 叶雨岑
 1. [虎跳新春]() - 阿肆、达闻西乐队、Tizzy T
-1. [Winter is coming](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
+1. [Winter is coming](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
 1. [Love Yourself]() - Justin Bieber
-1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [好想抱住你（DJR7版）]() - 程jiajia
 1. [Lemon Tree](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
 1. [You Never Know](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/93ea07db32c04cdb818583f2df1e50bd) - BLACKPINK
-1. [Sorry Babe](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23ee71d504d44923bb2e273c83af46f3) - Pencil S
+1. [Sorry Babe](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23ee71d504d44923bb2e273c83af46f3) - Pencil S
 1. [门没锁-品冠儿子版已上线]() - 品冠儿子
 1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
-1. [Infinity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
-1. [温柔是](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69a03c12bf2d47e39889fc013a37b612) - 杨吉露
+1. [Infinity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
+1. [温柔是](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69a03c12bf2d47e39889fc013a37b612) - 杨吉露
 1. [Beautiful]() - INTO1-米卡
 1. [孤勇者]() - 陈奕迅
-1. [晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
-1. [步步高](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/690024badaf34160ab2674f0bb185830) - 新乐府
+1. [晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
+1. [步步高](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/690024badaf34160ab2674f0bb185830) - 新乐府
 1. [《过年的歌》抖音片段1（17秒-50秒）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/874baa2bfa23458ba0b7f5c55367a5ad) - 刘宇宁
 1. [骁（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
-1. [AI群星拜大年（激情版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe0550d79d3c4d9bbd80e962efc7dc46) - ByteMuse/BCD Studio
+1. [AI群星拜大年（激情版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe0550d79d3c4d9bbd80e962efc7dc46) - ByteMuse/BCD Studio
 1. [男二号]() - 薛之谦
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [Electronic Life](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956fbbc0c1c1428f96a4860a777a5f25) - Klubbhoppers
-1. [See You Again (feat. Charlie Puth)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92f6878c4e9e4ad0892a86cd73086ab9) - Wiz Khalifa
+1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
+1. [Electronic Life](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956fbbc0c1c1428f96a4860a777a5f25) - Klubbhoppers
+1. [See You Again (feat. Charlie Puth)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/92f6878c4e9e4ad0892a86cd73086ab9) - Wiz Khalifa
 
 ## 品牌榜
 
