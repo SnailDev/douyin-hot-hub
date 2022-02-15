@@ -11,29 +11,32 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-02-15 14:18:47 +0800`
+`更新时间：2022-02-15 15:15:09 +0800`
 
 ## 抖音热榜
 
-1. 一生要强的中国男人回应走红
-1. 王濛用眼认证小马一米九
+1. 苏翊鸣男子单板大跳台夺金
+1. 身披国旗的苏翊鸣太帅了
 1. 冬奥志愿者雪中坚守岗位
-1. 我的元宵节
+1. 苏翊鸣成中国最年轻冬奥会冠军
 1. 谷爱凌摘银
+1. 苏翊鸣回应与谷爱凌的童年合影
 1. 花滑千金谢尔巴科娃入驻抖音
+1. 谷爱凌称想吃元宵
 1. 大润发回应员工爬上冷柜脚踩冻货
-1. 闲人李老板和嘉之派元宵节同框
+1. 苏翊鸣18岁最好礼物到手
 1. 谷爱凌回应第二跳摔倒
+1. 谷爱凌等分时做鬼脸
 1. 李晓楠母亲为女儿跪求于红
 1. 张佳宁说林北星拿的是男主剧本
-1. 我再也不要做舔狗了
 1. 沉香如屑杨紫成毅大婚幕后
-1. 谷爱凌等分时候做鬼脸
 1. 31省区市新增40例本土病例
-1. 鲁斌斌故意揭发财务问题
 1. 羽生结弦召开新闻发布会
 1. 刘亦菲新剧路透
 1. 张玉环领证获前妻宋小女祝福
+1. 苏翊鸣哽咽
+1. 人民日报体育评苏翊鸣夺金
+1. 湖南郴州报告2例确诊病例
 1. 宁德时代荣誉董事长张毓捷去世
 1. 苏州新增12例本土感染者
 1. 超级碗中场嘉宾演过哪些电影
@@ -42,29 +45,26 @@
 1. 沉香如屑屏风吻
 1. 重庆官方回应星巴克驱赶民警事件
 1. 单板女子大跳台荣格第五创历史
-1. 十年一品温如言开分2.9
-1. 美称俄在乌边境部队人数增至13万
 1. 外媒曝乌克兰多名富豪包机逃离
-1. 这个杀手不太冷静特别番外
-1. 一打开情人节礼物血压就上来了
+1. 一生要强的中国男人回应走红
+1. 乌克兰总统发表全国讲话
 1. 谷爱凌摔倒
 1. 盛装里的女人好让人心疼
+1. 这个杀手不太冷静特别番外
+1. 闲人李老板和嘉之派元宵节同框
 1. 漫画还原男医护被男孩误喊阿姨
-1. 这汤圆有点费眼睛
-1. 人民日报体育评徐梦桃夺冠
-1. 打卡冰墩墩失败是什么体验
-1. 人肉凳子武大靖
-1. 越想我越生气
+1. 王濛用眼认证小马一米九
+1. 一打开情人节礼物血压就上来了
 1. 星巴克否认驱赶民警
-1. 哈尔滨中央大街的冰墩墩里有鱼
-1. 羽生结弦秒变人形立牌
+1. 美称俄在乌边境部队人数增至13万
+1. 人肉凳子武大靖
 1. 大结局明明就是木石前盟
-1. 苏翊鸣男子单板大跳台夺金
 1. 爱惨了东北人的表白方式
-1. 南方乡村把温柔揉进了元宵里
+1. 越想我越生气
+1. 十年一品温如言开分2.9
 1. 刷到白醋少女就去表白好了
-1. 野花香魔性翻跳
-1. 看盛装大佬对戏不敢呼吸
+1. 南方乡村把温柔揉进了元宵里
+1. 那些年自己拍过的尴尬视频
 
 ## 明星榜
 
@@ -79,13 +79,13 @@
 1. [一起向未来（高潮版）	]() - 易烊千玺
 1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [雪龙吟（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
-1. [恭喜发财](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
+1. [恭喜发财](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/38f0b4e5cb704b5b96372f9c605c84b0) - 刘德华;李宇春
 1. [放晴]() - 王忻辰+苏星婕
 1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [南半球与北海道](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0d1a6b330cf84ad39b8cf600a2849fbc) - 范倪Liu
 1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [巴赫旧约-沈以诚（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/159092b8eca449838583101cc38054f0) - 沈以诚
-1. [我们的爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
+1. [我们的爱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
 1. [Beautiful]() - INTO1-米卡
 1. [在他乡（女生版）剪辑版]() - 汪六六
 1. [愉快 轻快 放松]() - Lance
@@ -98,24 +98,24 @@
 1. [争金夺银冬奥行](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/975a878493434459ac2b387bfb174239) - BCD Studio Raquel
 1. [门没锁]() - 我是土豆
 1. [从前说]() - 小阿七
-1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [金牌得主](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d42253b014b047b2b17f6cf4d65421f4) - BCD Studio - Oran
+1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
+1. [金牌得主](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d42253b014b047b2b17f6cf4d65421f4) - BCD Studio - Oran
 1. [Infinity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7861e9af59e04a7aa61cb096ab7a5652) - Jaymes Young
-1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
 1. [迪厅的爱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571c9b89e49b482c9e573e299b925415) - 玲羽
 1. [Marry Me (feat. Toya Wright)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f6a3e93ca6ae4962975614764bb2d4d8) - Rasheeda
-1. [和你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/190a1fdb2f2c4e3a94ccab0c156c5480) - 余佳运
+1. [和你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/190a1fdb2f2c4e3a94ccab0c156c5480) - 余佳运
 1. [我们一起向未来-2022北京冬奥会主题曲（副歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dd31091af4e6451d989aa06be28e3744) - 许歌淳一、牛牛凯、严懿婷
-1. [Winter is coming](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
-1. [月老牵红线-剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
+1. [Winter is coming](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
+1. [月老牵红线-剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b94a5e6fd3d34bcb98e64e1b6c1751fc) - 毛省曈
 1. [Mystery of Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
-1. [Scars To Your Beautiful - Luca Schreiner Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b1c4906890c43d0bbce1d8c284593a1) - Alessia Cara
+1. [Scars To Your Beautiful - Luca Schreiner Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b1c4906890c43d0bbce1d8c284593a1) - Alessia Cara
 1. [A Thousand Miles]() - Josh Vietti
-1. [海市蜃楼](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
+1. [海市蜃楼](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
 1. [Love Yourself]() - Justin Bieber
 1. [2022北京欢迎你（抖音版）]() - 房东的猫 & 井胧 & 唐汉霄 & 余佳运 & 陈若琳 & 何冲
-1. [在他乡 （主歌剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23217c16653943ac9488e129e7599eac) - 程响
-1. [老茧-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
+1. [在他乡 （主歌剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/23217c16653943ac9488e129e7599eac) - 程响
+1. [老茧-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb91bdf677a04acead89436a15002aa6) - 简弘亦
 1. [扭转乾坤](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b48e914b08f8442ca6c74ff55dbaed16) - BCD Studio 9ver
 1. [陪你奇奇怪怪，陪你可可爱爱（陪你痛痛快快到未来）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/33e44b0b76b1472da61a1314862ebbea) - 爱朵女孩
 1. [灵魂出窍 （剪辑版）]() - 赵希予
@@ -125,7 +125,7 @@
 1. [夏日美梦（纯音乐）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b1580bce6b8044b4b260b64f14d22db3) - BlackDD
 1. [虎跳新春]() - 阿肆、达闻西乐队、Tizzy T
 1. [让我们祝你新年快乐(抖音剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0dcf20285c944ac08bc403fd4105fa68) - 长滩音乐, 莫寒, 李宇琪, 张奕轩, 王新宇, 归归劳斯, 团团老师, 痒痒虫阿, 鳅鳅妹, 许丁, 王品喆, 红衣玄女, 李思洪, 5C, 老邓, 梓艺, 易典, 娅玲, 巫大新, 诸振豪, 赵两元, 李俊卓, 张兰俊杰, 李阿粉, 夏雨, 黄念, 朱粒嘉, 无敌冲激菠, HM可每, 三更酿酒, 易凌博
-1. [Butterfly x Boom - Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/03a0f417ec3e4bf9bbcc3804545412b4) - LEA
+1. [Butterfly x Boom - Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/03a0f417ec3e4bf9bbcc3804545412b4) - LEA
 
 ## 品牌榜
 
