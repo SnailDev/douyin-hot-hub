@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-02-19 20:23:51 +0800`
+`更新时间：2022-02-19 21:17:38 +0800`
 
 ## 抖音热榜
 
-1. 一生要强的中国女人又来交作业了
-1. 巴赫说对北京冬奥会非常满意
-1. 没想到冰墩墩真的会滑冰
 1. 乌克兰记者与议员直播中互殴
-1. Uzi再次替补
-1. 上厕所送纸的仪式感
-1. 谷爱凌的飞吻是送给奶奶的
-1. 关于我订婚时的尴尬时刻
-1. 人民日报连麦苏翊鸣
-1. 飞跃千里投喂高芋芋是啥体验
+1. 巴赫说对北京冬奥会非常满意
+1. 外国运动员称赞北京冬奥会
 1. 谷爱凌说戴三枚奖牌很重
-1. 川传考生请开始你的表演
-1. 被流光之城虐到了
+1. 上厕所送纸的仪式感
+1. 当网约车司机载到一名逃犯
+1. 亲吻狗狗看它是什么反应
+1. 一生要强的中国女人又来交作业了
+1. 羽生结弦私服穿搭
+1. 蔡晓光向周蓉求婚
+1. 苏翊鸣生日愿望是再拿块金牌
+1. 没想到冰墩墩真的会滑冰
+1. 羽生粉丝的女朋友长得像金博洋
 1. 宋佳人世间撕心哭戏
 1. 不想回家的狗子有多皮
-1. 做固体希腊酸奶挑战
-1. 当网约车司机载到一名逃犯
-1. 被吴谨言古装惊艳了
-1. 追梦格林家中被盗
-1. 虞书欣说朋友圈要屏蔽林一
-1. 真的有点舍不得
-1. 金博洋回应带千金探店是偶遇
 1. 武大靖说害怕喝水被截图
+1. 做固体希腊酸奶挑战
+1. 被吴谨言古装惊艳了
+1. 电视剧盛装直播
+1. 虞书欣说朋友圈要屏蔽林一
+1. 飞跃千里投喂高芋芋是啥体验
+1. 控诉衡水桃城中学作者否认被开除
+1. 川传考生请开始你的表演
 1. 餐厅回应被网友远程下单300万
 1. 反诈老陈谈柬埔寨高薪招聘骗局
 1. Slava把蔡萝莉剪成了蔡墩墩
-1. 瓦利耶娃返回俄罗斯
+1. 真的有点舍不得
 1. 女子上房摘果不慎踩漏屋顶
 1. 罗某平侮辱志愿军冰雕连被公诉
-1. 港风对口型大赛
-1. 羽生粉丝的女朋友长得像金博洋
-1. 羽生结弦金博洋头戴冰墩墩合影
-1. 苏州人的待客之道
-1. 凤冠霞帔有多惊艳
+1. 金博洋回应带千金探店是偶遇
+1. 关于我订婚时的尴尬时刻
+1. 恭喜谷爱凌刷新谷爱凌
 1. 你一句春不晚
-1. 在一堆remix里找原曲有多难
-1. 羽生结弦私服穿搭
-1. 2022NBA全明星新秀挑战赛
-1. 爸爸年轻时的神仙颜值
-1. 英国女王称自己的腿动不了
-1. 亲吻狗狗看它是什么反应
+1. 追梦格林家中被盗
+1. 苏州人的待客之道
+1. Uzi再次替补
+1. 谷爱凌的飞吻是送给奶奶的
+1. 凤冠霞帔有多惊艳
+1. 羽生结弦金博洋头戴冰墩墩合影
 1. 你永远可以相信苏大强
-1. 中国男子接力队有望递补获铜牌
-1. 陈开怡雷启泰吵架好窒息
+1. 爸爸年轻时的神仙颜值
 1. 谁还没听过张杰的雪龙吟
-1. 严凯柳子琪分手
-1. 蜘蛛侠英雄无归数字版或推迟上线
-1. 电视剧盛装直播
-1. 东北女子把炕烧塌被崩一脸灰
-1. 盛装全员辞职好爽
+1. 港风对口型大赛
+1. 武大靖歪嘴喝水太好笑了
+1. 第二批内地援港医疗队抵达香港
+1. 陈开怡雷启泰吵架好窒息
+1. 英国女王称自己的腿动不了
+1. 瓦利耶娃返回俄罗斯
+1. 2022NBA全明星新秀挑战赛
+1. 被流光之城虐到了
 
 ## 明星榜
 
@@ -80,22 +80,22 @@
 1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [一起向未来（高潮版）	]() - 易烊千玺
 1. [在他乡（女生版）剪辑版]() - 汪六六
-1. [雪龙吟（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
+1. [雪龙吟（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eb93b97fa3d4462e90b96fae1005e213) - 张杰
 1. [一样的月光]() - 徐佳莹
 1. [Beautiful]() - INTO1-米卡
 1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [渐暖片段1]() - 时代少年团
 1. [Letting Go]() - 蔡健雅
 1. [好想抱住你（DJR7版）]() - 程jiajia
-1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [破碎的人请听 温暖版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
 1. [孤勇者]() - 陈奕迅
-1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
 1. [就这样爱着你]() - 张小伙/粥粥zxr
-1. [爱敌不过自由（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0085442c31ab4ac5998aac57c16d930b) - 苏星婕
+1. [爱敌不过自由（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0085442c31ab4ac5998aac57c16d930b) - 苏星婕
 1. [哪里都是你]() - 队长
 1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/02cf0f139fb44975aa76d99a5542036e) - 尹昔眠
-1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
+1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
 1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
 1. [Polaroid Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c815a9c205c142c7880de01aeacffcc9) - ENHYPEN
 1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
@@ -116,16 +116,16 @@
 1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
 1. [裹着心的光 30s](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45c466af5a184bc5bd5d537c19b5015e) - 林俊杰
 1. [Lemon Tree](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
-1. [Peaches](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15b2ac36492a40a485ca49f175bb3f5c) - Kayla Rae
-1. [Lucid Dreams](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7269089eac954483adb648d85b503ead) - iLab兴趣实验室
+1. [Peaches](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15b2ac36492a40a485ca49f175bb3f5c) - Kayla Rae
+1. [Lucid Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7269089eac954483adb648d85b503ead) - iLab兴趣实验室
 1. [我们的爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
 1. [necessary girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/357e1cc9d4564b0db7f589d498e98d2d) - oceanfromtheblue
 1. [灵魂出窍 （剪辑版）]() - 赵希予
 1. [虎跳新春]() - 阿肆、达闻西乐队、Tizzy T
-1. [海市蜃楼](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
+1. [海市蜃楼](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25e937c50a8644a296341b06a9750a21) - 三叔说
 1. [叹-副歌剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/aa7edc988e5e4ee48fa274c256723aa1) - 黄龄/TĂNG DUY TÂN
 1. [问心（剪辑版）]() - 就是南方凯
-1. [Alone 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2bf3353af91d432ebb6b60068f35c9dc) - 嘉滢
+1. [Alone 剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2bf3353af91d432ebb6b60068f35c9dc) - 嘉滢
 
 ## 品牌榜
 
