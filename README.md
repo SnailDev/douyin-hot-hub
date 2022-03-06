@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-03-07 05:14:19 +0800`
+`更新时间：2022-03-07 06:15:58 +0800`
 
 ## 抖音热榜
 
@@ -19,14 +19,15 @@
 1. 他送的不是石头是个梦啊
 1. 代表委员话两会
 1. 巩汉林批明星收入过亿还偷税漏税
-1. C罗或无缘出战曼市德比
-1. 传说中你为爱甘心被搁浅
-1. 詹姆斯狂砍56分
 1. 俄边境城市出现亮光和爆炸声
+1. 詹姆斯狂砍56分
+1. 传说中你为爱甘心被搁浅
+1. C罗或无缘出战曼市德比
+1. 普京签令要一份名单
 1. 伊朗首次公开地下无人机基地
 1. 法称俄方确认将轰炸敖德萨港
+1. 东北洗浴中心有多全能
 1. 铠甲勇士拿瓦十周年
-1. 高跟鞋盲盒欧皇找到了
 1. 二手玫瑰炸场闪光的乐队
 1. 我做不成渣男的原因
 1. 杨争直男道歉
@@ -40,9 +41,7 @@
 1. 猎罪图鉴开播
 1. 李沁跳竹竿手忙脚乱
 1. 那些经典港剧里的大嫂有多惊艳
-1. 张翰打篮球梦回慕容云海
 1. 网友看电影偶遇王俊凯
-1. 马丽许文赫家庭地位一目了然
 1. 浪胃仙带团队另立门户
 1. 乌方称一名参与首轮会谈成员殉职
 1. 罗拉王能能红毯十指紧扣
@@ -62,9 +61,10 @@
 1. 各版本的花泽类
 1. 浪胃仙回应带团队另立门户
 1. 任嘉伦成为喜剧人的先决条件
-1. 李玉刚虞姬造型唱新霸王别姬
 1. 郭阳郭亮改行演戏吧
 1. Tangmo母亲获580万赔偿
+1. 张翰打篮球梦回慕容云海
+1. 李玉刚虞姬造型唱新霸王别姬
 
 ## 明星榜
 
@@ -76,28 +76,28 @@
 
 ## 音乐榜
 
-1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [在他乡（女生版）剪辑版]() - 汪六六
-1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [哪里都是你 剪辑版]() - 队长
 1. [一样的月光]() - 徐佳莹
 1. [Letting Go]() - 蔡健雅
 1. [渐暖片段1]() - 时代少年团
-1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
-1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
+1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
-1. [What They Want](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9d29b8e31945538d0d6a1247108b12) - Russ
+1. [What They Want](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9d29b8e31945538d0d6a1247108b12) - Russ
 1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [平凡的一天]() - 毛不易
 1. [一个俗人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
-1. [为什么要努力（part.1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d592d511ad5457fb7516ca79bbbf4fd) - 海伦
-1. [爱的回归线（爱情公寓插曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0051c58d3a6448d69f3ab243d5d88416) - 影视原声
-1. [No Make Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
-1. [DO WHATEVER想做就做（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
-1. [破碎的人请听 温暖版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
+1. [为什么要努力（part.1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d592d511ad5457fb7516ca79bbbf4fd) - 海伦
+1. [爱的回归线（爱情公寓插曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0051c58d3a6448d69f3ab243d5d88416) - 影视原声
+1. [No Make Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
+1. [DO WHATEVER想做就做（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
+1. [破碎的人请听 温暖版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
 1. [从前说]() - 小阿七
 1. [好一点（don't emo)]() - 小蓝背心
 1. [帶我去找夜生活]() - 告五人
@@ -105,9 +105,9 @@
 1. [我们的爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
 1. [Polaroid Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/24c13ba6eed54ac995dfecb86ac9af1f) - ENHYPEN
 1. [孤勇者]() - 陈奕迅
-1. [迷途的孤鸟（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
-1. [Mystery of Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
-1. [春日漫游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
+1. [迷途的孤鸟（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
+1. [Mystery of Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
+1. [春日漫游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
 1. [Celebrity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba5878dfa7874a9a94764703e89b4f51) - IU
 1. [神魂颠倒]() - 邓典
 1. [In The Shadow Of The Sun]() - Professor Green
@@ -118,14 +118,14 @@
 1. [碎银几两](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e3cdce7dc934152917c7a7be1ce59f5) - 轩东
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
 1. [橘子汽水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7600b994f4724d3ca63e4904cc209b82) - iLab兴趣实验室
-1. [Lemon Tree](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
-1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
+1. [Lemon Tree](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
+1. [WAVE（Prod by 张杰峻）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [たぶん](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ecd7372e41540d4acf77b1692442b08) - YOASOBI
-1. [追寻你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [人世间（电视剧《人世间》主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
-1. [晚风眠眠 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55820116913b43b99467e92421473a62) - 黄雅莉
-1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
-1. [你听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca5844d9e9674a3496bb3d314cfee322) - 苏星婕 & Lil Tzy刘踢几
+1. [追寻你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
+1. [晚风眠眠 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55820116913b43b99467e92421473a62) - 黄雅莉
+1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [你听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca5844d9e9674a3496bb3d314cfee322) - 苏星婕 & Lil Tzy刘踢几
 
 ## 品牌榜
 
