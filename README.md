@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-03-13 14:22:40 +0800`
+`更新时间：2022-03-13 15:15:23 +0800`
 
 ## 抖音热榜
 
-1. 不老山异事上线
 1. 吉林省称应对奥密克戎认识不足
+1. 官方责成处置吉林省结核医院院感
 1. 冬残奥细节里的中国温度
-1. 隔离就像开盲盒
-1. 山东新增175例本土确诊
-1. 长春新增831例本土确诊
-1. 深圳新增60例本土确诊病例
+1. 山东加油
+1. 中国冬残奥代表团金牌数第一
+1. C罗登顶历史第一射手
 1. 印小天悼念抗癌女孩苏日曼
 1. dew新冠
+1. 猎罪图鉴女性角色群像
 1. 主人回应做核酸时狗狗在家大哭
-1. 成龙回应荷兰弟致敬
+1. 吉林省新增1412例本土确诊病例
 1. 辽宁发现1份核酸检测结果异常
 1. 好友介绍卡点
-1. 交警回应男子悬挂在行驶汽车外
+1. 面包狗是什么梗
 1. 赵丽颖野蛮生长杀青背影
 1. GAI吉克隽逸合唱问风太燃了
-1. 原来捡到狗是这种体验
-1. C罗登顶历史第一射手
-1. 詹姆斯采访谈砍下50分
-1. 官方责成处置吉林省结核医院院感
-1. 冬残奥闭幕式旗手公布
+1. 爱跳舞的抗癌女孩苏日曼去世
 1. 伊拉克埃尔比勒遭遇袭击
+1. 原来捡到狗是这种体验
+1. 隔离就像开盲盒
+1. 冬残奥闭幕式旗手公布
+1. 不老山异事上线
 1. 美国2005年就筹划在乌设实验室
 1. 白鹿长月烬明杀青哽咽了
 1. 青春才几年疫情就占了三年
-1. 檀健次哭戏
-1. 雪容融会4A了
-1. 鸡鸣寺的樱花开啦
-1. 南昌2名阳性感染者轨迹公布
-1. 爱跳舞的抗癌女孩苏日曼去世
-1. 宋亚东首回合KO获胜
-1. 杨坤爱河尽处新歌首唱
-1. 差点以为彭冠英要光剑变装
+1. 交警回应男子悬挂在行驶汽车外
 1. 新兵投弹失误连长3秒救人
-1. 面包狗是什么梗
-1. 遇车祸让先救父亲患癌男子发声
-1. 杨子姗角色反差感
-1. 猎罪图鉴女性角色群像
-1. 重庆新增8例确诊1例无症状
-1. Q宝王小麦和蔡文静贴贴
-1. 山东加油
-1. 曼联3比2热刺
-1. 赵今麦变脸回眸一笑
-1. 31省区市新增本土确诊1807例
 1. 相逢时节太上头了
-1. 就让我们来日方长
+1. Q宝王小麦和蔡文静贴贴
+1. 31省区市新增本土确诊1807例
+1. 赵今麦变脸回眸一笑
+1. 宋亚东首回合KO获胜
+1. 檀健次哭戏
+1. 江苏常州发现4例阳性人员
+1. 成龙回应荷兰弟致敬
+1. 鸡鸣寺的樱花开啦
+1. Q宝上星期六后逐渐小麦化
+1. 曼联3比2热刺
+1. 丁俊晖无缘决赛
 1. BLG惜败EDG
-1. 吉林省新增1412例本土确诊病例
+1. 杨坤爱河尽处新歌首唱
+1. 杜城替沈翊去相亲
+1. 就让我们来日方长
+1. 詹姆斯采访谈砍下50分
+1. 卡鲁索正式复出
+1. 差点以为彭冠英要光剑变装
 1. 风吹一夏舞蹈挑战
-1. 抗疫我们一定能行
+1. 遇车祸让先救父亲患癌男子发声
+1. 陈岚回应江母投诉其造谣诽谤
+1. 南昌2名阳性感染者轨迹公布
 
 ## 明星榜
 
@@ -76,24 +76,24 @@
 
 ## 音乐榜
 
-1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
 1. [在他乡（女生版）剪辑版]() - 汪六六
 1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [春三月]() - 司南
 1. [哪里都是你 剪辑版]() - 队长
 1. [剑魂_鱼多余完整版已上线]() - 鱼多余
 1. [好一点（don't emo)]() - 小蓝背心
-1. [Say It Right](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cee0947b9a7d4be695db6b937d8ff5b0) - Nelly Furtado
+1. [Say It Right](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cee0947b9a7d4be695db6b937d8ff5b0) - Nelly Furtado
 1. [一样的月光]() - 徐佳莹
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
 1. [放晴]() - 王忻辰 & 苏星婕
-1. [No Make Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
-1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [No Make Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
+1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
 1. [平凡的一天]() - 毛不易
 1. [孤独颂歌]() - 陈文非
 1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
-1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
+1. [人世间（电视剧《人世间》主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
 1. [Gatal Gatal Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43fc49d2600a4baeb0d105d63029c9d1) - DJ DESA & DJ De Yang
 1. [一个俗人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
 1. [Haru Haru（하루하루）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
@@ -103,17 +103,17 @@
 1. [Đi Học Thêm](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/de9efc4791354e0f929a1a010efd76b6) - Sony Tran, Piggy, Gizmo
 1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
 1. [Mystery of Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
-1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
+1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [追寻你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [double take](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e7248afd1d94438b93ec6a1a19dafe3) - dhruv
-1. [问心（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凱
+1. [double take](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e7248afd1d94438b93ec6a1a19dafe3) - dhruv
+1. [问心（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2d8f35de85334f56ae2353f8daef63d2) - 就是南方凱
 1. [晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8df2e08e26ba465797ec7e7a399f9a07) - Copy
 1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [たぶん](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ecd7372e41540d4acf77b1692442b08) - YOASOBI
 1. [孤勇者]() - 陈奕迅
 1. [嘿！关于爱]() - 阿肆
 1. [迷途的孤鸟（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
-1. [Polaroid Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/24c13ba6eed54ac995dfecb86ac9af1f) - ENHYPEN
+1. [Polaroid Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/24c13ba6eed54ac995dfecb86ac9af1f) - ENHYPEN
 1. [N8PM]() - Bomb比尔
 1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
 1. [Great Spirit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d976f26f0a614465a286f22f4fc9aec4) - Armin Van Buuren
