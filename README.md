@@ -11,26 +11,24 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-04-02 12:21:12 +0800`
+`更新时间：2022-04-02 13:15:19 +0800`
 
 ## 抖音热榜
 
 1. 竟然被一只小猫修理了
-1. 世界杯抽签结果你怎么看
+1. 和别人的姐弟恋不太一样
 1. 家的荣耀
 1. 孟晚舟担任华为轮值董事长
 1. 吉林省本土新增1730+1244
 1. 任嘉伦回应被当做核酸表情包
-1. 女友视角的黄宗泽睡懒觉
+1. 周深哭了
 1. 上海本土新增260+6051
 1. 库里常规赛报销
 1. 任嘉伦被问剔骨和断尾哪个更痛
 1. 上海疫情互助
-1. 微信图标可以换主题了
 1. 吉克隽逸康姆士舞台好浪漫
 1. 上海政府辟谣只给本地人发菜
 1. 刘宪华时代广场跳双人舞
-1. 四月第一天就梦回仙剑了
 1. 王一博真的没有酷存了
 1. 长意云禾终于又见面了
 1. 120的除颤仪究竟能否外借
@@ -38,33 +36,35 @@
 1. 男子出差住酒店遇陌生女子敲门
 1. 威尔史密斯从奥斯卡主办方辞职
 1. 檀健次新剧人设
+1. 谷爱凌说自己是INTJ
 1. 现实版沈翊画的金世佳60岁
 1. 河北新增2例确诊66例无症状
 1. 与君初相识大结局
 1. 玉面桃花总相逢全员搞事业
 1. 吴彤在线辟谣失败
 1. 郭晓婷全网求舒痕胶
+1. 专家称上海疫情规模比武汉大
 1. 2022世界杯抽签结果
 1. 久诚道歉
 1. 冯晓琴是出轨预言家吧
-1. 杨洋演的是沸羊羊吧
-1. 奥斯卡上这一巴掌值多少钱
 1. 清明假期不建议跨省踏青旅行
-1. 恰似故人归定档4月4日
 1. 穆廷州明薇领证前恢复记忆
-1. 女生骑车被交警拦下男朋友跑了
+1. 湖北新增11例本土无症状感染者
 1. 浦东全区均为封控区或管控区
+1. 微信图标可以换主题了
+1. 2022了火箭少女还有售后
+1. 四月第一天就梦回仙剑了
 1. 詹姆斯愚人节宣布自己赛季报销
-1. 周深哭了
-1. 灵璧渔沟中学事件
-1. 上海疫情正处于快速上升阶段
-1. 刘书同加入瓷器厂
-1. 专家称上海疫情规模比武汉大
 1. 铁豆反向跑男生女生向前冲
+1. 女友视角的黄宗泽睡懒觉
+1. 刘书同加入瓷器厂
+1. 世界杯抽签结果你怎么看
+1. 上海疫情正处于快速上升阶段
+1. 湖人憾负鹈鹕
 1. 餐饮店偷换现捞螃蟹后续
-1. 大白为电梯消毒但又没完全消
+1. 灵璧渔沟中学事件
 1. 沉浸式追剧心居有多上头
-1. 全网花式碰杯敬不甘
+1. 大白为电梯消毒但又没完全消
 
 ## 明星榜
 
@@ -78,53 +78,53 @@
 
 1. [致00后的预防针（Remix版）]() - 褚晨茜
 1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [Shadow of the Sun](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a3e9dfec129489fbb6597e57d7482ae) - Max Elto
-1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [Shadow of the Sun](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a3e9dfec129489fbb6597e57d7482ae) - Max Elto
+1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
 1. [孤勇者]() - 陈奕迅
 1. [张钰琪-陪你度过漫长岁月]() - 张钰琪
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [好一点（don't emo)]() - 小蓝背心
-1. [Star Song](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1b10703944c44127b54334fa5c8a52c0) - Sally Sossa & Lil Durk
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
-1. [一个俗人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
+1. [Star Song](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1b10703944c44127b54334fa5c8a52c0) - Sally Sossa & Lil Durk
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [一个俗人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
 1. [迷途的孤鸟（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
-1. [WAVE（Prod by 张杰峻）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
-1. [春日漫游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
+1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
+1. [春日漫游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
 1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
 1. [嘿！关于爱]() - 阿肆
-1. [G.O.A.T.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70d44391bcd3497882b5ca2f3b3035cb) - Eric Bellinger
-1. [STAY 驛動的心](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b2ec8511a0ec4845990108dbf4693a69) - Rose Wong & Max Lu
+1. [G.O.A.T.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70d44391bcd3497882b5ca2f3b3035cb) - Eric Bellinger
+1. [STAY 驛動的心](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b2ec8511a0ec4845990108dbf4693a69) - Rose Wong & Max Lu
 1. [微风吹（剪辑版）]() - 李润祺
 1. [哪里都是你 剪辑版]() - 队长
-1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
-1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
+1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
 1. [渐暖片段1]() - 时代少年团
-1. [恋爱频率（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
+1. [恋爱频率（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
 1. [麦浪 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/aa0ed34dc6bc41dfbad5c8f2ea08b021) - yihuik苡慧
 1. [Peaches](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15b2ac36492a40a485ca49f175bb3f5c) - Kayla Rae
 1. [骁（剪辑版1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5e7b591f7bc490ca7c8b4c9887ba028) - 井胧/井迪
 1. [一样的月光]() - 徐佳莹
-1. [裹着心的光 30s](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45c466af5a184bc5bd5d537c19b5015e) - 林俊杰
-1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
+1. [裹着心的光 30s](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45c466af5a184bc5bd5d537c19b5015e) - 林俊杰
+1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [放晴]() - 王忻辰 & 苏星婕
 1. [我们的爱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
-1. [Kiss Me More (feat. SZA)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
+1. [Kiss Me More (feat. SZA)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
 1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
-1. [petit poney](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/22115febaa06423fadf2d8df1cc3175e) - 88century
-1. [TOMBOY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/279048d320da4c6199dcdf888d288145) - (G)I-DLE
+1. [petit poney](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/22115febaa06423fadf2d8df1cc3175e) - 88century
+1. [TOMBOY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/279048d320da4c6199dcdf888d288145) - (G)I-DLE
 1. [花海]() - 周杰伦
 1. [Beautiful]() - INTO1-米卡
 1. [風情萬種]() - 周星星
 1. [破碎的人请听 温暖版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
 1. [DO WHATEVER想做就做（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
 1. [哪里都是你（DJR7版）]() - DJR7
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
-1. [子龙行 ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80b2011dcf654128928a79697a5470c1) - 捷途汽车
-1. [行于水 （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cb84f30f8db41aeb9a6d1bc1d1bfecb) - 万妮达Vinida Weng
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
+1. [子龙行 ](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80b2011dcf654128928a79697a5470c1) - 捷途汽车
+1. [行于水 （剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3cb84f30f8db41aeb9a6d1bc1d1bfecb) - 万妮达Vinida Weng
 1. [Celebrity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba5878dfa7874a9a94764703e89b4f51) - IU
 
 ## 品牌榜
