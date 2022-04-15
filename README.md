@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-04-15 14:21:32 +0800`
+`更新时间：2022-04-15 15:17:18 +0800`
 
 ## 抖音热榜
 
-1. 上海新增本土确诊3200无症状19872
-1. 神十三将撤离空间站核心舱组合体
+1. 上海医疗机构不得以等待核酸拒诊
+1. 上海回应防疫工作仍存在很多不足
 1. 神舟十三首次采用快速返回技术
 1. 拒绝无聊的100种方式
+1. 解放军在台岛周边战备警巡
 1. 甄子丹舍身救子
+1. 上海新增本土确诊3200无症状19872
+1. 神十三将撤离空间站核心舱组合体
 1. 网络平台不得直播未经批准网游
-1. 俄方称莫斯科号导弹巡洋舰沉没
-1. 当交警遇上泼水节
-1. 赵甲第奶奶一整个霸气住了
-1. 恋爱告急mv翻拍挑战
-1. 严禁违法失德人员利用直播发声
-1. 马思唯新歌表白易梦玲
-1. 山河月明朱棣被贬为庶民
 1. 今天你在抖音学习了吗
-1. 31省区市新增本土确诊3472例
-1. 2人从事间谍活动被村干部发现
-1. 空明在线道歉和洛洛吻戏
-1. 用12罐可乐换出超市的业主找到了
-1. 海清多少还是有点保守了
-1. 云南宝马撞翻抗疫救护车
-1. 德云社连笨小孩都能唱成相声
-1. 恰似故人归后半段是吃播
-1. 神十三航天员回家有哪些步骤
-1. 07快男把搞笑刻进DNA
-1. 贵州黔西南突降冰雹
+1. 井柏然贵公子惨遭滑铁卢
+1. 马思唯新歌表白易梦玲
 1. 俄称美用乌精神病患者做生物实验
-1. 杨鸣再现挑战名场面
-1. 向往的生活6定档
-1. 山东女孩的格局有多大
-1. 上海医疗机构不得以等待核酸拒诊
+1. 空明在线道歉和洛洛吻戏
+1. 赵甲第奶奶一整个霸气住了
+1. 严禁违法失德人员利用直播发声
+1. 特战荣耀 白龙
+1. 2人从事间谍活动被村干部发现
+1. 海清多少还是有点保守了
 1. 德云社还有刘筱亭在乎的人吗
-1. 杜锋说若人员齐整赢面会很大
+1. 新郎婚检结果显示为女性
+1. 俄方称莫斯科号导弹巡洋舰沉没
+1. 云南宝马撞翻抗疫救护车
+1. 当交警遇上泼水节
+1. 用12罐可乐换出超市的业主找到了
+1. 贵州黔西南突降冰雹
+1. 央视曝光非法提供铁路数据情报案
+1. 太原按下了暂停键
+1. 恰似故人归后半段是吃播
+1. 恋爱告急mv翻拍挑战
 1. 外卖员突发疾病交警解囊相助
-1. 中专生男孩考研进清华
-1. 东风着陆场准备迎接航天员回家
+1. 杨鸣再现挑战名场面
+1. 女明星的神明少女舞蹈挑战
+1. 山河月明朱棣被贬为庶民
+1. 美国教授声称印度是个粪坑
 1. 谭乔回访气球哥后续
-1. 宇宙少女Navillera舞台
+1. 神十三航天员回家有哪些步骤
 1. 温精灵
 1. 来抖音学农技
 1. 苏州新增本土无症状感染者41例
 1. 女子被丈夫家暴进ICU五天后离世
-1. 明天也想见到你全员高颜值
-1. 央视曝光非法提供铁路数据情报案
-1. 王栎鑫终于唱了张远的嘉宾
+1. 向往的生活6定档
+1. 德云社连笨小孩都能唱成相声
+1. 等疫情结束来一场真正的泼水节
 1. 哈师大原党委书记辛宝忠被批捕
-1. 贝弗利社交媒体上众筹罚款
-1. 深圳女子回应在5.9平米阳台种菜
-1. 上海人收到物资时的反应
+1. 王栎鑫终于唱了张远的嘉宾
+1. 宇宙少女Navillera舞台
+1. LPL裁判报告出炉
 1. 商丘通报睢阳区汉梁中学事件
-1. 上海虹口区卫健委确认钱文雄去世
+1. 山东女孩的格局有多大
 
 ## 明星榜
 
@@ -76,56 +76,56 @@
 
 ## 音乐榜
 
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [致00后的预防针（Remix版）]() - 褚晨茜
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
 1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [麦浪四月天特别版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
-1. [愚人戏梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19dbd296fbf64c28867630bd926c813e) - BCD Studio Raquel
+1. [麦浪四月天特别版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [愚人戏梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19dbd296fbf64c28867630bd926c813e) - BCD Studio Raquel
 1. [张钰琪-陪你度过漫长岁月]() - 张钰琪
 1. [봄여름가을겨울 (Still Life)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8862074e85754f6396107344fb00bbc6) - BIGBANG
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
-1. [Blue Monday](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ade203a52454984a6adacb1760ed5dd) - New Order
+1. [Blue Monday](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ade203a52454984a6adacb1760ed5dd) - New Order
 1. [微风吹（剪辑版）]() - 李润祺
 1. [你的微笑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f7175347e5e942fe9ed4f0be0bc14e1e) - 飞儿乐团
 1. [一样的月光]() - 徐佳莹
 1. [迷途的孤鸟（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
 1. [哪里都是你 剪辑版]() - 队长
 1. [就忘了吧 ]() - 1k
-1. [Peaches](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15b2ac36492a40a485ca49f175bb3f5c) - Kayla Rae
+1. [Peaches](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15b2ac36492a40a485ca49f175bb3f5c) - Kayla Rae
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
-1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [嘿！关于爱]() - 阿肆
 1. [渐暖片段1]() - 时代少年团
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [Celebrity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba5878dfa7874a9a94764703e89b4f51) - IU
 1. [慢慢（Slow Motion）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/176d954360a349b5951aacd8cd5230e4) - 鹿晗
-1. [春よ、来い](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3c323f059da435a9c6b08a38a9f3c6e) - Relaxing music
-1. [裹着心的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9bab5ac09c2e463da893f06c1d040519) - 林俊杰
+1. [春よ、来い](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d3c323f059da435a9c6b08a38a9f3c6e) - Relaxing music
+1. [裹着心的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9bab5ac09c2e463da893f06c1d040519) - 林俊杰
 1. [听我说谢谢你－李昕融](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2f3754c18f8f4a17a40d531b8f4f55fb) - 李昕融
 1. [放晴]() - 王忻辰 & 苏星婕
-1. [恋爱频率（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
-1. [DO WHATEVER想做就做（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
+1. [恋爱频率（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
+1. [DO WHATEVER想做就做（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
 1. [Wake (Live)]() - Hillsong Young & Free & TAYA
 1. [第三人]() - Fine乐团
 1. [No Make Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
-1. [Lasymorning](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c10f848891ce4b28a1df96ccc578458c) - BCD Studio
+1. [Lasymorning](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c10f848891ce4b28a1df96ccc578458c) - BCD Studio
 1. [Backpack, Backpack!]() - Dora The Explorer
-1. [空山新雨后](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c16043b1ceac4739bbf722149c9798bf) - 音阙诗听
+1. [空山新雨后](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c16043b1ceac4739bbf722149c9798bf) - 音阙诗听
 1. [好一点（don't emo)]() - 小蓝背心
 1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [裹着心的光 30s](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45c466af5a184bc5bd5d537c19b5015e) - 林俊杰
-1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
-1. [一个俗人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
+1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [一个俗人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
 1. [春日漫游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
-1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
 1. [我们的爱](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
 1. [月光不答（男版）]() - Y-D/一口神探
 1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
-1. [TOMBOY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/279048d320da4c6199dcdf888d288145) - (G)I-DLE
+1. [TOMBOY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/279048d320da4c6199dcdf888d288145) - (G)I-DLE
 
 ## 品牌榜
 
