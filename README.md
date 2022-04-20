@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-04-20 07:15:20 +0800`
+`更新时间：2022-04-20 09:40:49 +0800`
 
 ## 抖音热榜
 
 1. 什么是健康码灰码
-1. 搁浅鲸鱼已经被拖向深海
+1. 搁浅抹香鲸成功放归深海
 1. 感谢大白志愿者们
-1. 轮播照片墙到底有多火
-1. iPhone14全系建模图曝光
-1. 张庭夫妇公司名下96套房产被查封
-1. 潘中单29岁变装挑战
+1. 上海新增本土确诊2494无症状16407
+1. 吴尊友称未发现新冠病毒变异规律
 1. 刘畊宏男孩也被炸出来了
-1. 这则征婚视频多少人心动了
-1. 加油站回应停止加油后金额仍涨
-1. 俄公布苏34战机在乌作战画面
-1. 看刘志强野钓有多入迷
-1. 一头抹香鲸在宁波海域搁浅
-1. 本草纲目毽子操挑战
-1. 专家解读搁浅鲸鱼救援难度
-1. 向往的生活导演问螺是什么螺
-1. 全网有多少刘畊宏女孩
-1. 现在的综艺为什么不好笑了
-1. 多镜头记录搁浅鲸鱼援救现场
-1. 潘周聃在线批改作业
-1. 特战荣耀单平台播放量破10亿
-1. 给李庚希出个抖音营业教程吧
-1. 0713口无遮拦男团
-1. 刘畊宏在线批改健身作业
-1. 男子用假钞消费被识破落荒而逃
-1. 原来是小别扇是什么梗
-1. 蓝焰突击消防员牺牲破大防了
-1. C罗龙凤胎儿子夭折
-1. 春天餐桌上的白月光
-1. 2022软科中国大学排名
+1. 鲸鱼被救援队放归深海前喷水
 1. 这几天的女生现状
-1. 警方回应送待产孕妇两警车相撞
-1. 还是菲儿版太想念最上头
-1. 10届快男最火的是任嘉伦
-1. C罗缺席双红会
-1. 马可王丹妮庆儿子一岁照片墙
-1. 水泥不达标30万新房需拆除
-1. 动画版大白喊弟弟做核酸好洗脑
-1. 赵岩昊确诊脑震荡
-1. 老人做核酸发现失踪5年儿子
+1. 张庭夫妇公司名下96套房产被查封
+1. 多镜头记录搁浅鲸鱼援救现场
+1. 上海新增本土死亡病例7例
+1. iPhone14全系建模图曝光
+1. 给李庚希出个抖音营业教程吧
+1. 本草纲目毽子操挑战
+1. 31省区市新增本土确诊2753例
+1. 现在的综艺为什么不好笑了
+1. 0713口无遮拦男团
+1. 潘周聃在线批改作业
+1. 俄公布苏34战机在乌作战画面
+1. 消防员说鲸鱼摆尾像在表达感谢
+1. 这则征婚视频多少人心动了
+1. 专家解读搁浅鲸鱼救援难度
 1. 导演说王俊凯很有爆发力
+1. 轮播照片墙到底有多火
+1. 黑龙江新增本土确诊45例
+1. 2022软科中国大学排名
+1. 刘畊宏拉上岳母一起健身
+1. 10届快男最火的是任嘉伦
+1. 看刘志强野钓有多入迷
 1. 新华网小编也在跟刘畊宏燃脂
-1. 青姬下线
-1. 刘畊宏对粉丝说的话好感人
+1. 潘中单29岁变装挑战
+1. 春天餐桌上的白月光
+1. 特战荣耀单平台播放量破10亿
+1. 刘畊宏在线批改健身作业
+1. 还是菲儿版太想念最上头
+1. 马可王丹妮庆儿子一岁照片墙
+1. 全网有多少刘畊宏女孩
+1. 动画版大白喊弟弟做核酸好洗脑
 1. 胡意旋在线剧透恰似故人归
+1. 刘畊宏对粉丝说的话好感人
 1. Bin着装不规范被处罚
-1. 女子在上海收到家乡物资后哽咽
-1. 好想拥有乡村小乔的同款婆婆
-1. LESSERAFIM出道预告
-1. 孟凡利任深圳市委书记
+1. 水泥不达标30万新房需拆除
+1. 向往的生活导演问螺是什么螺
+1. 蓝焰突击消防员牺牲破大防了
+1. 赵岩昊确诊脑震荡
+1. 加油站回应停止加油后金额仍涨
+1. 青姬下线
+1. 魔兽世界发布会
+1. 利物浦4比0曼联
+1. 街道办回应94岁阿婆被拉去方舱
 
 ## 明星榜
 
@@ -86,11 +86,11 @@
 1. [Peaches - Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/efacc515f7b5454db7244dc1f32a6065) - Justin Bieber
 1. [致00后的预防针（Remix版）]() - 褚晨茜
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
-1. [恋爱频率（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/393670bba3704f17b14bedea4aaec99f) - Hayd
+1. [恋爱频率（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
 1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [神魂颠倒](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
+1. [神魂颠倒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/35bf9a0f55b140cbad2ef9c9fd1c355a) - 邓典
 1. [WAVE（Prod by 张杰峻）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [裹着心的光 30s](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45c466af5a184bc5bd5d537c19b5015e) - 林俊杰
 1. [Sea Shanty Medley](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8a1625c23c7d44679072580628659aaf) - Home Free
@@ -101,7 +101,7 @@
 1. [A Thousand Miles]() - Josh Vietti
 1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [Trust me (心动版)]() - INTO1-米卡
-1. [DO WHATEVER想做就做（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
+1. [DO WHATEVER想做就做（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
 1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [Bet On Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/98e1271b541b43f2a5c97a35a44fc44e) - Walk Off The Earth
 1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
@@ -109,22 +109,22 @@
 1. [Stay With Me](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ab6735b765ca4f68b25d02d4758188b0) - Schnarker
 1. [一吻天荒 (热血版)]() - 阿禹ayy
 1. [好一点（don't emo)]() - 小蓝背心
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [春日漫游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
 1. [小时光 - 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/68518850df1e4bf28e3ec64fc16e6239) - 胡期皓
-1. [Sorrow, lo-fi, chill out, loop(948516)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e5f2ddf96d52484db59cb62c1186288a) - Tsuyoshi_san
-1. [一个俗人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
-1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [Sorrow, lo-fi, chill out, loop(948516)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e5f2ddf96d52484db59cb62c1186288a) - Tsuyoshi_san
+1. [一个俗人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
+1. [exile](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
 1. [たぶん](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ecd7372e41540d4acf77b1692442b08) - YOASOBI
-1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
+1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
 1. [孤勇者]() - 陈奕迅
 1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [哆啦B梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - iLab兴趣实验室
+1. [哆啦B梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - iLab兴趣实验室
 1. [飞花]() - 邓岳章
 1. [愚人戏梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19dbd296fbf64c28867630bd926c813e) - BCD Studio Raquel
-1. [Your Frequency](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7daa1580979648a3933ebc75d0142cd1) - BCD Studio - Natsuki
+1. [Your Frequency](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7daa1580979648a3933ebc75d0142cd1) - BCD Studio - Natsuki
 1. [MI NI MA NI MO（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/370a64c709ac4ecd9fabe01475c32afc) - 巴音汗
 
 ## 品牌榜
