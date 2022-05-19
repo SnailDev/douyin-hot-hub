@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-05-19 22:17:10 +0800`
+`更新时间：2022-05-19 23:28:14 +0800`
 
 ## 抖音热榜
 
 1. 世豪成功求婚麦小登
 1. 520我们在一起
 1. 与病毒昼夜赛跑的疾控人
-1. 520也开始扔花了
+1. 被奶奶珍藏5年的腊肉惊艳了
 1. 朱七七沈浪世纪合体
 1. 乘风破浪卡点变装
-1. 抖音上的爱情故事
-1. 被奶奶珍藏5年的腊肉惊艳了
+1. 当卑微文学遇到520
 1. 看回乡一朱改造老房停不下来
-1. 这个夏天总要下趟江南吧
-1. 00后为什么敢于硬怼老板
-1. 孩子吃糖被卡住爸爸冷静急救
+1. 男生回应被杨丽萍刷抖音选中
+1. 抖音上的爱情故事
+1. 毕业设计能有多走心
+1. 文科生的论文致谢文笔有多好
 1. 杨丽萍又刷抖音在线面试了
-1. 测一测真爱在哪里
-1. 女王救赎转场挑战
+1. 00后为什么敢于硬怼老板
+1. 独行侠违反板凳席规定被罚款
 1. 约翰尼德普模仿挑战
 1. 当真警察连麦遇上真警察
 1. 薛之谦在线评论校园歌手
-1. 刘学州舅妈再发声
+1. 这个夏天总要下趟江南吧
+1. 北京未参加核检病例感到后悔
+1. 乘风破浪官宣主题曲MV
 1. 终于有老师把薛汀哲给整不会了
 1. 临界十缨把办公室恋爱玩明白了
-1. 毕业设计能有多走心
-1. 文科生的论文致谢文笔有多好
-1. 当韩国人看中国男歌手舞台
-1. 北京新增64例本土感染者
+1. 女王救赎转场挑战
+1. 孩子吃糖被卡住爸爸冷静急救
 1. 女生私会男友感染新冠被立案
-1. 男生回应被杨丽萍刷抖音选中
-1. 人类幼崽版体验做明星
-1. 乘风破浪官宣主题曲MV
-1. 人民日报连线武大靖一起健身
-1. 男子行车仪翻出女友暧昧通话
-1. ShowMaker遇EDG冠军皮肤
-1. 这只蛙叫牛奶树蛙
-1. 独行侠违反板凳席规定被罚款
-1. 官方回应河北百亩麦田被强铲
-1. 陆仙人在涠洲岛的夏日少年感
-1. 川渝人的辣系告白
-1. 赵继伟婚礼
-1. 东契奇脸被抓出血痕
-1. 论夏天和瀑布的适配度
-1. 研究称30岁有30万存款较理想
-1. 谁能拒绝穿JK的奥特曼伴娘团
+1. 520也开始扔花了
 1. 维金斯19分
-1. Faker称理解RNG对重赛不满
-1. 给爸爸唱的生日歌也太走心了
-1. 俄方将如何回应芬兰加入北约
+1. 测一测真爱在哪里
+1. 男子行车仪翻出女友暧昧通话
+1. 夏日小花仙上线
+1. 研究称30岁有30万存款较理想
+1. 当韩国人看中国男歌手舞台
+1. 川渝人的辣系告白
+1. 班主任的区别对待
+1. 官方回应河北百亩麦田被强铲
 1. 这首蝴蝶夫人听得起鸡皮疙瘩
-1. 当卑微文学遇到520
-1. 女子举报被医生诱骗发生关系
+1. 论夏天和瀑布的适配度
+1. 法兰克福夺得欧联杯冠军
+1. 这只蛙叫牛奶树蛙
 1. 张艺兴古早综艺最想删除片段
+1. 俄方将如何回应芬兰加入北约
+1. 乌啦啦来银川吃了啥
+1. 东契奇脸被抓出血痕
+1. 给爸爸唱的生日歌也太走心了
+1. 陆仙人在涠洲岛的夏日少年感
+1. 人类幼崽版体验做明星
+1. Faker称理解RNG对重赛不满
+1. 俄乌冲突首例战争罪在乌审判
+1. 袁隆平蜡像揭幕
 
 ## 明星榜
 
@@ -89,43 +89,43 @@
 1. [妈妈的话（剪辑版）]() - Zyboy忠宇
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
 1. [雨天（相遇版）]() - 呆呆破
-1. [愚人戏梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19dbd296fbf64c28867630bd926c813e) - BCD Studio Raquel
+1. [愚人戏梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/19dbd296fbf64c28867630bd926c813e) - BCD Studio Raquel
 1. [青花瓷]() - 周杰伦
 1. [有我 (共青团剪辑版)]() - 周深
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
-1. [有何不可 (钢琴版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7bee6314dd404650b8923035b853e5ee) - 祁念&嘉琪先生
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [落日与晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
+1. [有何不可 (钢琴版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7bee6314dd404650b8923035b853e5ee) - 祁念&嘉琪先生
 1. [哆啦B梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - 桃子鳄了
 1. [加油](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/96dbbe58553a4064a3634d46b641eb39) - 嗨6&小张
 1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [从前说]() - 小阿七
 1. [烟雨人间(DJ沈念版)]() - 海来阿木
 1. [小城夏天]() - LBI利比
-1. [Đi Học Thêm](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/de9efc4791354e0f929a1a010efd76b6) - Sony Tran, Piggy, Gizmo
+1. [Đi Học Thêm](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/de9efc4791354e0f929a1a010efd76b6) - Sony Tran, Piggy, Gizmo
 1. [请你听这首歌 woo]() - 覃晨皓
 1. [所念皆星河（钢琴版）]() - 兮沐
 1. [Monsieur Melody]() - Deep East Music
 1. [本草纲目]() - 周杰伦
 1. [Salt(抖音热播)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e257fa68832a41b5b4fb24ffae3c01cb) - 公豹Music
 1. [Still Falling For You - Laibert Remix]() - Ellie Goulding
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [爱的代价（Live）]() - 葛漂亮/悦悦
 1. [Got It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/52beee96a47f4baa98c0dfd808729654) - Marian Hill
-1. [不可能在一起（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c26fb12d0a9d4d84a701e448b8382532) - 许诺
+1. [不可能在一起（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c26fb12d0a9d4d84a701e448b8382532) - 许诺
 1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8dc7b12856414ddbb0c1c815273bee06) - 李巍V仔
 1. [生活有累也有苦（剪辑版）]() - 彤大王
-1. [FEARLESS](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e15259bccb3d424ba9496149cc8bff43) - LE SSERAFIM
+1. [FEARLESS](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e15259bccb3d424ba9496149cc8bff43) - LE SSERAFIM
 1. [太想念]() - 豆包
 1. [后来的我们]() - 五月天
 1. [Spongebob Tomfoolery - Dante9k Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/54f7eb006fc84958923dd105c98b57b5) - David Snell
-1. [人间烟火（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4cebb1e51fcc4572bebc0cee135924a2) - 程响
+1. [人间烟火（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4cebb1e51fcc4572bebc0cee135924a2) - 程响
 1. [Letting Go]() - 蔡健雅
 1. [芊芊 主歌（强）]() - 阿YueYue
 1. [Bygone Bumps]() - Deep East Music
 1. [神魂颠倒]() - 邓典
-1. [轻音乐](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4d35e6fa6ba47e1b10fad176623e241) - 文劲松
+1. [轻音乐](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a4d35e6fa6ba47e1b10fad176623e241) - 文劲松
 1. [One B-Boy]() - DJ Pablo
-1. [Meet Lime Cookie! - Twintails Edition](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8edbcaeb23ef4630a353bed52fe92f02) - Tsundere Twintails
+1. [Meet Lime Cookie! - Twintails Edition](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8edbcaeb23ef4630a353bed52fe92f02) - Tsundere Twintails
 
 ## 品牌榜
 
