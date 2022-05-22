@@ -11,14 +11,14 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-05-22 12:22:45 +0800`
+`更新时间：2022-05-22 13:16:56 +0800`
 
 ## 抖音热榜
 
 1. 袁隆平逝世一周年
 1. 北京新增52例确诊9例无症状
 1. 上海绥宁路方舱医院正式休舱
-1. 理发师还记着和袁老的约定
+1. 帅农鸟哥稻田里刷墙画纪念袁老
 1. 上海记者现场电话连线疫情求助者
 1. 奥迪小满广告被指抄袭
 1. 上海新增52例确诊无症状570例
@@ -28,28 +28,28 @@
 1. 一稻济天下肝胆两昆仑
 1. 日本女性买堕胎药或需配偶同意
 1. 上海新增本土死亡3例
-1. 巴特勒G3伤退
+1. 萧北辰林杭景误会终于解开
 1. 孩子玩耍引燃不明液体严重烧伤
 1. 热火vs凯尔特人
-1. 禾下乘凉梦正在接力完成
 1. 天津新增36例确诊20例无症状
-1. 副院长工作群发不雅信息被停职
 1. 洛国富入籍只考虑了10分钟
-1. 萧北辰林杭景误会终于解开
-1. 求萧北辰林杭景别虐了
-1. RNG击败T1
-1. 今年以来刚果金千余人疑似感染猴痘
-1. 2022王者之战A组开赛
+1. 理发师还记着和袁老的约定
+1. 副院长工作群发不雅信息被停职
+1. 可口可乐推出不会掉的瓶盖
+1. 易烊千玺歌唱种子精神
 1. 这首三生三幸越听越上头
-1. 霄贤小邋遢烫嘴solo直拍
 1. 男子送情人8套房每月留5000给妻子
+1. RNG击败T1
+1. 巴特勒G3伤退
+1. 奥迪删除被指抄袭广告
+1. 今年以来刚果金千余人疑似感染猴痘
 1. 姆巴佩确认留队
 1. 河北本土无新增
 1. 徐梦桃是来浪姐度假的吧
 1. 杜兰特谈退役计划
-1. 拜登父子被俄永久禁止入境
-1. 动画还原大白被小狗吓到狂奔
 1. 胡彦斌叶琼琳对唱你的轮廓
+1. 动画还原大白被小狗吓到狂奔
+1. 西安一小区单元临时封闭管理
 1. 张同学表白社死现场
 1. 美政府已订购数百万剂猴痘疫苗
 1. 吴孟超逝世一周年
@@ -57,14 +57,14 @@
 1. 袁老写的词被谱成了歌
 1. 安徽新增无症状感染者4例
 1. 梅西射门被机器人门将扑出
-1. 可口可乐推出不会掉的瓶盖
+1. 拜登父子被俄永久禁止入境
 1. 关晓彤回忆爷爷泡的茶
+1. 可达鸭的多种使用方法
+1. 2022王者之战比赛有多激烈
 1. 31省区市新增本土确诊157例
-1. 曝腾讯裁员范围扩大
-1. 奥迪删除被指抄袭广告
-1. 西安一小区单元临时封闭管理
 1. 法医秦明之读心者是科普片吧
-1. 猴痘病毒如何传播
+1. 中学教师被曝课堂上殴打学生
+1. 曝腾讯裁员范围扩大
 
 ## 明星榜
 
@@ -78,16 +78,16 @@
 
 1. [麦浪（吃可爱多版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [就忘了吧（DJ Ah版）]() - 1k
-1. [爱都爱了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
+1. [爱都爱了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
 1. [爱怎么了-part1]() - 陈村长
 1. [雨天（相遇版）]() - 呆呆破
 1. [你过得好吗]() - 刘大拿
 1. [爷爷泡的茶]() - 周杰伦
 1. [想到你（剪辑版）]() - 朴宰范/pH-1/李大奔
-1. [Meet Lime Cookie! - Twintails Edition](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8edbcaeb23ef4630a353bed52fe92f02) - Tsundere Twintails
+1. [Meet Lime Cookie! - Twintails Edition](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8edbcaeb23ef4630a353bed52fe92f02) - Tsundere Twintails
 1. [呆我眼睛里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec5dbd0ccec4f0581e9c2b2a25efc4d) - 张天枢
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [烟雨人间(DJ沈念版)]() - 海来阿木
 1. [《玫瑰少年》小提琴治愈版 (Cover 五月天)（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e329f4772704c0cb54a4c4e746f0e3a) - Strictlyviolin 荀博
 1. [青花瓷]() - 周杰伦
@@ -97,13 +97,13 @@
 1. [So Far Away - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
 1. [愉快 轻快 放松]() - Lance
 1. [妈妈的话（剪辑版）]() - Zyboy忠宇
-1. [心跳(念白版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a57e8cac11fe46e8932f59ddd8a7c03e) - 小蓝背心
+1. [心跳(念白版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a57e8cac11fe46e8932f59ddd8a7c03e) - 小蓝背心
 1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [夏天的风]() - INTO1-刘宇
 1. [最美的瞬间（女版）已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
 1. [妈妈说过的话]() - 程佳佳
 1. [请你听这首歌 woo]() - 覃晨皓
-1. [篇章](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
+1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
 1. [Salt(抖音热播)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e257fa68832a41b5b4fb24ffae3c01cb) - 公豹Music
 1. [所念皆星河（钢琴版）]() - 兮沐
 1. [沈以诚-雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
@@ -118,12 +118,12 @@
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [飞花（热播版）]() - 假面曲神
 1. [小桥流水（纯音乐）]() - dBMusic
-1. [多喝热水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70d18bcd2b704bc4a6d83542e63182d9) - 丛琳潼elf
+1. [多喝热水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70d18bcd2b704bc4a6d83542e63182d9) - 丛琳潼elf
 1. [梦旅人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2a6ea4b1800145fdafcc373694247ef3) - 于贞
-1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [Still Falling For You - Laibert Remix]() - Ellie Goulding
-1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [No jack](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/06a6ddb6dd1d44e8a58a788e2508278a) - 斌杨Remix
+1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [No jack](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/06a6ddb6dd1d44e8a58a788e2508278a) - 斌杨Remix
 1. [Happy People]() - Inspired
 1. [In The Shadow Of The Sun]() - Professor Green
 
