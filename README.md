@@ -11,24 +11,24 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-01 21:48:19 +0800`
+`更新时间：2022-06-01 22:25:00 +0800`
 
 ## 抖音热榜
 
 1. 四川雅安地震已致4死14伤
 1. 上海人复工的正确打开方式
 1. 藏在论文致谢里的感动
-1. 13岁初中生午休时间看刑法
-1. 主播直播时突遇地震桌椅摇晃
 1. 妈妈给儿子买笔觉得包装辣眼睛
-1. 出版社回应教材用日军背老太配图
+1. 主播直播时突遇地震桌椅摇晃
+1. 13岁初中生午休时间看刑法
+1. 四川学生遇地震全班1秒钟避险
 1. 云南洱源发生3.8级地震
 1. 雅安市民收到电视弹窗预警
-1. 妈妈用老虎钳硬核拔牙吓哭儿子
+1. 苹果回应系统偷跑流量
 1. 刘畊宏vivi外出感受复苏的上海
-1. 昆明一外卖员拖拽殴打店员
+1. 牺牲民警女儿遇警车立正敬礼
+1. 明星现场清唱实力
 1. 四川雅安芦山县发生6.1级地震
-1. 上海市发表致全市人民感谢信
 1. 六一儿童节文案好暖
 1. 六一就是要快乐呀
 1. 长沙一早餐店发生燃爆事故
@@ -42,29 +42,29 @@
 1. 四川多地震感强烈
 1. 明星集体变三岁
 1. 男子因女儿买零食掌掴收银员
+1. 出版社回应教材用日军背老太配图
 1. 雅安周边各地消防集结支援
 1. 北京新增7例本土感染者
 1. 芦山6.1级地震为2013年地震余震
 1. 北京新增社会面病例为一对夫妻
-1. 女子给女儿取姐夫姓遭前夫起诉
+1. 昆明一外卖员拖拽殴打店员
 1. 沉香如屑原声台词
-1. 霍华德：詹姆斯让我260万留队
-1. 00后看不懂的回忆杀
-1. 长沙燃爆事故牺牲消防员年仅22岁
-1. 苹果回应系统偷跑流量
-1. 李易峰暗夜行者用肢体区分角色
-1. 牺牲民警女儿遇警车立正敬礼
 1. 赵立坚送儿童节祝福
-1. 上海一小吃店遇市民报复性消费
-1. 美英雇佣兵乌克兰参战视频曝光
+1. 00后看不懂的回忆杀
+1. 妈妈用老虎钳硬核拔牙吓哭儿子
+1. 李易峰暗夜行者用肢体区分角色
 1. 传家三姐妹联手解决危机
+1. 长沙燃爆事故牺牲消防员年仅22岁
+1. 美英雇佣兵乌克兰参战视频曝光
+1. 霍华德：詹姆斯让我260万留队
 1. 小女孩上台演节目睡着
-1. 东部战区在台岛周边战备警巡
-1. 此条内容仅小朋友可见
-1. 深圳原市长陈如桂被查
-1. 四川学生遇地震全班1秒钟避险
-1. 今天的抖音是少儿频道
 1. 辅警宣传反诈顺便救了1名幼童
+1. 上海一小吃店遇市民报复性消费
+1. 此条内容仅小朋友可见
+1. 东部战区在台岛周边战备警巡
+1. 深圳原市长陈如桂被查
+1. 中国天眼开放1%观测时间给青少年
+1. 今天的抖音是少儿频道
 
 ## 明星榜
 
@@ -85,7 +85,7 @@
 1. [So Far Away - Acoustic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
 1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [想到你]() - 朴宰范/pH-1/李大奔
-1. [One of a Kind](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
+1. [One of a Kind](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
 1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [恋爱频率（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5fe5fbbb62d9433798e07a2fddb2213d) - Sasablue
@@ -98,33 +98,33 @@
 1. [我是如此相信]() - 周杰伦
 1. [瞄准- 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60322e184ec342de8d8e17e247214139) - 邓典
 1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [最美的瞬间（女版）已上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
+1. [最美的瞬间（女版）已上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
 1. [请你听这首歌 woo]() - 覃晨皓
 1. [A Thousand Miles]() - Josh Vietti
 1. [多喝热水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70d18bcd2b704bc4a6d83542e63182d9) - 丛琳潼elf
 1. [夕 HOOK](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e3663065e34ff28df73363b030f1c7) - 龙楠林
-1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [孤勇者]() - 陈奕迅
-1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec5dbd0ccec4f0581e9c2b2a25efc4d) - 张天枢
-1. [时光背面的我（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳 & 韩瞳
-1. [哆啦B梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - 桃子鳄了
+1. [呆我眼睛里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec5dbd0ccec4f0581e9c2b2a25efc4d) - 张天枢
+1. [时光背面的我（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳 & 韩瞳
+1. [哆啦B梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - 桃子鳄了
 1. [所念皆星河（钢琴版）]() - 兮沐
 1. [oh my god 你也太美了吧]() - Y2002
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [帶我去找夜生活]() - 告五人
 1. [Bygone Bumps]() - Deep East Music
 1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
-1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
 1. [Monsieur Melody]() - Deep East Music
 1. [Meet Lime Cookie! - Twintails Edition](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8edbcaeb23ef4630a353bed52fe92f02) - Tsundere Twintails
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [夏天]() - 刘瑞琦
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [Still Falling For You - Laibert Remix]() - Ellie Goulding
 1. [滑稽搞笑（纯音乐）]() - PL Music
-1. [我爱你就像-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b1fbd2903c3421195391d016a175dc3) - 李承铉
+1. [我爱你就像-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b1fbd2903c3421195391d016a175dc3) - 李承铉
 1. [就忘了吧-part1]() - 1k
 
 ## 品牌榜
