@@ -11,28 +11,27 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-10 14:20:55 +0800`
+`更新时间：2022-06-10 15:17:54 +0800`
 
 ## 抖音热榜
 
-1. 从没想过能在带货直播间学英语
-1. 杭州2名消防员在火灾扑救中牺牲
+1. FIFA：中国足协需13日前做决定
+1. 民航局回应东航事故最新进展
 1. 拼过的你就是最棒的
-1. 公安部A级通缉12名电诈头目骨干
+1. 微博CEO收千元到付包裹质问顺丰
 1. 官方介绍D2809次动车脱线原因
 1. 易烊千玺获百花男主男配候选
-1. 交警护送学生途中意外摔倒
+1. 实验猴价格飙涨20倍
 1. 内蒙古新增15例本土确诊病例
-1. 沈阳外卖小哥高考结束
-1. 当东北人认真搞起港风民乐
-1. 印尼男子嘲弄猩猩遭反攻
-1. 葡萄牙2比0捷克
-1. 全球猴痘确诊病例超千例
-1. 李雪琴金志文隔空合唱乘风破浪
-1. 杭州临平火灾4人抢救无效死亡
-1. 北京新增7例确诊1例无症状
 1. 詹姆斯想拥有一支球队
+1. 杭州2名消防员在火灾扑救中牺牲
+1. 印尼男子嘲弄猩猩遭反攻
+1. 交警护送学生途中意外摔倒
+1. 全球猴痘确诊病例超千例
 1. 工行融e购将停止服务
+1. 广西北流泥石流致7死1失联
+1. 沈阳外卖小哥高考结束
+1. 北京新增7例确诊1例无症状
 1. 警察荣誉卓大夫下线
 1. 31省区市新增本土确诊30例
 1. 云顶之弈S7新版本教程
@@ -46,25 +45,26 @@
 1. 王心凌说30岁之后才懂得平衡
 1. 这猫多少有点洁癖了
 1. 四川阿坝震了一夜
-1. 海贼王1052话情报
 1. 防走光课堂开课了
 1. 专家谈歼7失事
-1. 郑恺蔡徐坤体验畲族婚嫁龙凤行
+1. 当东北人认真搞起港风民乐
 1. 上海回应核酸采样时段封闭管理
-1. 张靓颖薛之谦合唱挑战
+1. 郑恺蔡徐坤体验畲族婚嫁龙凤行
+1. 北京通州门头沟新增病例均涉酒吧
+1. 杭州临平火灾4人抢救无效死亡
+1. 从没想过能在带货直播间学英语
+1. 日本自卫队发生集体食物中毒
+1. 上海新增6例确诊5例无症状
 1. 小伙签名被作假背贷款状告银行
-1. 民航局回应东航事故最新进展
-1. 喜茶呼吁行业使用真奶
-1. 云南失踪男童家属悬赏10万寻人
-1. 网络主播帝师就偷逃税致歉
-1. 实验猴价格飙涨20倍
-1. 这下冯巩老师亏大了
+1. 宁静让于文文注意语言组织
+1. 葡萄牙2比0捷克
+1. 俄称乌正继续招募外国雇佣兵
 1. 四川阿坝启动地震二级应急响应
-1. 广西北流泥石流致7死1失联
-1. 想说给00后的毕业祝福
+1. 网络主播帝师偷逃税被罚
+1. 云南失踪男童家属悬赏10万寻人
 1. 高考前后伙食的变化
-1. 普京称西方对俄限制是作茧自缚
-1. 云南回应2岁男童走失事件
+1. 62岁妈妈陪考给儿子送奶茶
+1. 公安部A级通缉12名电诈头目骨干
 
 ## 明星榜
 
@@ -76,16 +76,16 @@
 
 ## 音乐榜
 
-1. [你曾是少年](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ad035fd0d9342e9a3458a5fcaac2360) - S.H.E
+1. [你曾是少年](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ad035fd0d9342e9a3458a5fcaac2360) - S.H.E
 1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [就忘了吧（DJ Ah版）]() - 1k
 1. [最美好的时光 - Official Live]() - 陈娴静, 范例三, 山姆Someshit, 桃子A1J, AndyShow安迪秀, KEYNO
-1. [Mood (feat. iann dior)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/297dec6cc7874c9ba0386bae496f82a5) - 24kGoldn
+1. [Mood (feat. iann dior)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/297dec6cc7874c9ba0386bae496f82a5) - 24kGoldn
 1. [诛心-part3]() - 秦海清
 1. [白月光与朱砂痣]() - 大籽
-1. [One of a Kind](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
+1. [One of a Kind](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
 1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
-1. [落日与晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
+1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
 1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [So Far Away - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
 1. [愉快 轻快 放松]() - Lance
@@ -93,10 +93,10 @@
 1. [三生三幸]() - 海来阿木
 1. [A Thousand Miles]() - Josh Vietti
 1. [最美的瞬间（女版）已上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/527ce7f66142422e8d0727588b4f7c73) - 弹棉花的小花
-1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [小城夏天]() - LBI利比
 1. [彩虹的微笑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15a6bbfb1b4c4bc1bf518daf2768b2b9) - 王心凌
-1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [孤勇者]() - 陈奕迅
 1. [悠长假期]() - 旅行团乐队
 1. [帶我去找夜生活]() - 告五人
@@ -113,7 +113,7 @@
 1. [我是如此相信]() - 周杰伦
 1. [执迷不悟]() - 王贰浪
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
-1. [哆啦B梦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - 桃子鳄了
+1. [哆啦B梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/11d91e597d504e8888820e5a70a9f69f) - 桃子鳄了
 1. [爱你（情话多说一点）剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c90e07cc3b804f3fbae1208bcb7f998f) - 叶琼琳/董唧唧
 1. [Pokerface]() - Madagascar 5
 1. [Happy People]() - Inspired
@@ -122,10 +122,10 @@
 1. [微风吹（剪辑版）]() - 李润祺
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [所念皆星河（钢琴版）]() - 兮沐
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [端午节(纯音乐)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bcc51e4a315479a88f0f6c558fd7384) - Mr.music
-1. [帅帅的小男孩（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dd4c9a1fe6254ffba9a7db4eefd61def) - 优秀少年好好
-1. [热恋冰淇淋（律动版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [端午节(纯音乐)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8bcc51e4a315479a88f0f6c558fd7384) - Mr.music
+1. [帅帅的小男孩（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dd4c9a1fe6254ffba9a7db4eefd61def) - 优秀少年好好
+1. [热恋冰淇淋（律动版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
 
 ## 品牌榜
 
