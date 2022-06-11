@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-11 07:17:45 +0800`
+`更新时间：2022-06-11 09:20:36 +0800`
 
 ## 抖音热榜
 
@@ -19,52 +19,52 @@
 1. 人民日报评女子被群殴事件
 1. 想说给00后的毕业祝福
 1. 吴亦凡案一审开庭
-1. 唐山2名被围殴女性无生命危险
+1. 警方赴外省追捕其余4名涉案人员
 1. 女子被围殴事件为何引众怒
-1. 如果有人敢分裂台湾中国不惜一战
+1. 扫黑除恶绝不能有盲区
+1. 北京新增36例确诊25例无症状
 1. 爱奇艺回应区别对待苹果安卓手机
-1. 罗永浩称仍要收购苹果
-1. 冯远征演司马迁演出腹肌
+1. 31省区市新增本土确诊65例
 1. 吴亦凡案择期宣判
 1. 女子烧烤店内反抗骚扰遭围殴
-1. 赵立坚谈美国国会大厦受冲击事件
-1. 当英国人听了漏漏漏之歌
-1. 北京酒吧聚集疫情已致29人感染
-1. 志扬越心真的领证了
 1. 严惩唐山烧烤店打人事件狂徒
+1. 冯远征演司马迁演出腹肌
+1. 上海新增7例确诊9例无症状
+1. 志扬越心真的领证了
+1. 彭昱畅张子枫节目洒水造彩虹
+1. 唐山2名被围殴女性无生命危险
+1. 当英国人听了漏漏漏之歌
+1. 向往的生活张艺兴老大爷坐姿
+1. 如果有人敢分裂台湾中国不惜一战
 1. 北京见义勇为考生加20分系误读
-1. 周深秦霄贤你画我猜爆笑现场
-1. 应急管理部工作组赴四川马尔康
-1. 社会戾气必须依法制止
-1. 狗子眼睁睁看着狗窝被风吹跑
-1. 弟弟高考后带10个男同学来家中
-1. 吴谨言送吴莫愁吴有才母子装
+1. 赵立坚谈美国国会大厦受冲击事件
 1. 男子酒后抢劫5元被判刑3年
-1. 不识字的孩子把主持稿画出来
+1. 周深秦霄贤你画我猜爆笑现场
 1. 谭维维节目上对尚雯婕说好久不见
-1. 奔跑吧跳茭白环节太好笑了
-1. 新华网小编也听00后民乐乐队
-1. 成都涉事幼儿园被曝无资质
 1. 奔跑吧蔡徐坤被追着击掌
-1. 今天的快乐是英子给的
-1. 婚礼上姐姐的歌声有多让人感动
+1. 唐山打人者之一疑数次成老赖
+1. 中国成世界运输最繁忙国家之一
+1. 北京环球度假区3名员工感染
+1. 奔跑吧跳茭白环节太好笑了
+1. 印度一车主因超速被罚大闹街头
+1. 弟弟高考后带10个男同学来家中
+1. 武大靖用榨菜做三明治
+1. 吴谨言送吴莫愁吴有才母子装
+1. 上海中环发生多车相撞事故
+1. 狗子眼睁睁看着狗窝被风吹跑
+1. 俄将取消日在南千岛群岛捕鱼权
+1. 俄罗斯粮食产量将突破1.3亿吨
+1. 美国现一例波瓦桑病毒死亡病例
+1. 不识字的孩子把主持稿画出来
 1. 奔跑吧李晨无效叠加幸运buff
-1. 高校回应女生宿舍产子装塑料袋
-1. 第28届上海电视节顺延至明年举办
-1. 账号已注销评论区破防了
+1. 今天的快乐是英子给的
+1. 韩国数千司机大罢工威胁供应链
+1. 新华网小编也听00后民乐乐队
 1. Wellerman翻唱
-1. 警方通报网传男幼师猥亵女童
 1. 雪糕为何越来越贵
-1. 张蔷因为打麻将和朋友疏远
-1. 全新宝马X1实车图曝光
-1. 台湾渔船撞翻基里巴斯渔船
-1. 借乌问题损害中方利益 必将反制
-1. 修饰睫毛小技巧
-1. 小伙淤泥中潜水救出被困司机
-1. 金龙鱼食用油将第三次调价
-1. 超1.5万亿元退税款退到纳税人账户
-1. 宁静让于文文注意语言组织
-1. 广州荔湾区一创意园突发大火
+1. 警方通报网传男幼师猥亵女童
+1. 婚礼上姐姐的歌声有多让人感动
+1. 直击红玫瑰美容院
 
 ## 明星榜
 
@@ -81,41 +81,41 @@
 1. [单人券]() - 张齐山DanieL
 1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [小城夏天]() - LBI利比
-1. [One of a Kind](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
+1. [One of a Kind](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
 1. [最美好的时光 - Official Live]() - 陈娴静, 范例三, 山姆Someshit, 桃子A1J, AndyShow安迪秀, KEYNO
 1. [白月光与朱砂痣]() - 大籽
-1. [快乐是什么(海绵宝宝)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c4bb2c16b7f24d34af3edcfb56be2d66) - 耀温顺
-1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
+1. [快乐是什么(海绵宝宝)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c4bb2c16b7f24d34af3edcfb56be2d66) - 耀温顺
+1. [Afterthought](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [须尽欢（降调版）]() - 郑浩
 1. [年轮]() - 张碧晨
 1. [诛心-part3]() - 秦海清
-1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [三生三幸]() - 海来阿木
 1. [帶我去找夜生活]() - 告五人
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [孤勇者]() - 陈奕迅
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [爱你（情话多说一点）剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c90e07cc3b804f3fbae1208bcb7f998f) - 叶琼琳/董唧唧
 1. [愉快 轻快 放松]() - Lance
-1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
 1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [A Thousand Miles]() - Josh Vietti
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [Mood (feat. iann dior)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/297dec6cc7874c9ba0386bae496f82a5) - 24kGoldn
 1. [oh my god 你也太美了吧]() - Y2002
-1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
+1. [篇章](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
 1. [你过得好吗]() - 刘大拿
 1. [夏天]() - 刘瑞琦
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [端午节](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad3e542709d542d9aca92d558c10dde6) - 千里西
 1. [Everytime We Touch](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c75ab010a32d4437a8c98ef5c7b40478) - Veronica Bravo & lost. & Pop Mage
 1. [星河漫步(Baby 321)（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64bc0f8a5e5c427381b2957304d65be5) - 郑俊树J.SHU
-1. [端午节粽子香（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5ebf40ce46b344a6968b709c31a66910) - 锦萍
+1. [端午节粽子香（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5ebf40ce46b344a6968b709c31a66910) - 锦萍
 1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
 1. [11]() - INTO1-米卡
 1. [雨天（相遇版）]() - 呆呆破
-1. [Melô de Lana Del Rey - Reggae Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
+1. [Melô de Lana Del Rey - Reggae Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
 1. [微风吹（剪辑版）]() - 李润祺
 1. [帅帅的小男孩（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dd4c9a1fe6254ffba9a7db4eefd61def) - 优秀少年好好
 1. [爷爷泡的茶]() - 周杰伦
