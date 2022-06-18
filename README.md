@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-18 17:15:25 +0800`
+`更新时间：2022-06-18 18:17:35 +0800`
 
 ## 抖音热榜
 
 1. 唐山要求不漏一人一案彻查严惩
 1. 国际油价下跌
-1. 唐三剥魂环复活小舞
 1. 杜兰特回应勇士夺冠
-1. 河南村镇银行案一批嫌疑人被抓
 1. 赤峰派出所被打砸事件属实
-1. 萌探Angelababy回应拍戏假吃
+1. 河南村镇银行案一批嫌疑人被抓
 1. 女子路边偶遇白狐
-1. 物理老师又开始讲英语了
+1. 父亲节文案
+1. 萌探Angelababy回应拍戏假吃
 1. 奔跑吧李晨偷题都没偷对
+1. 浓眉加盟电竞战队
 1. 上海石化火灾已致1人死亡
 1. 我国第三艘航母下水
 1. 法国演员特兰蒂尼昂去世
 1. 假如我们有小孩
 1. 张子枫放生籽母蟹
 1. 北京新增1例本土感染者
-1. 上海6月18日疫情发布会直播
-1. 宁静于文文相处像极了我妈怼我
-1. 天元邓刚终于被老板盘了
 1. 医院否认唐山被打女子去世传言
 1. 于欢发抖音宣布订婚
+1. 原副市长谈深圳出口被越南超越
 1. 北京天堂酒吧疫情传播基本阻断
 1. 年下姐狗的正确打开方式
-1. 浓眉加盟电竞战队
+1. 女子遭偷拍路人竟称这是看得起你
+1. 青岛大学毕业歌会有多甜
 1. 王心凌 摇滚甜心
 1. 餐馆女老板被男子殴打连扇耳光
 1. NASA在火星上发现金属薄片
 1. 华晨宇萌探2中回应谣言好敢说
-1. 梅志强一家终于吃了团圆饭
+1. 勇士抵达湾区
+1. 上海已成立石化火灾事故调查组
 1. 北京地铁封闭车站恢复运营
 1. 张伟丽谈唐山烧烤店打人事件
-1. 爱情应该有的样子乔振宇人设
-1. 青岛大学毕业歌会有多甜
-1. 奔跑吧白鹿说不可以输给秦霄贤
-1. 勇士抵达湾区
+1. 梅志强一家终于吃了团圆饭
+1. 物理老师又开始讲英语了
 1. 董宇辉解释知识付费4袋大米
-1. 克莱发抖音晒夺冠激动到跳舞
-1. 蔡徐坤用玩具键盘创作HOME
 1. 景德镇消防寻就餐帮买单大哥
-1. 花少赵今麦的镜头好像偶像剧
-1. 上海新增1例确诊6例无症状
+1. 克莱发抖音晒夺冠激动到跳舞
+1. 天元邓刚终于被老板盘了
+1. 蔡徐坤用玩具键盘创作HOME
 1. 应急管理部工作组赴上海火灾现场
-1. 李荣浩要求王靖雯必须唱原创
-1. 女子遭偷拍路人竟称这是看得起你
+1. 奔跑吧白鹿说不可以输给秦霄贤
+1. 巴菲特午餐1900万美元成交
+1. 花少赵今麦的镜头好像偶像剧
 1. 新东方在线股价暴涨超600%
+1. 李荣浩要求王靖雯必须唱原创
+1. 谷歌创始人布林宣布申请离婚
 1. 回廊亭是回家的诱惑进阶版吧
 1. 广西村民记录山洪爆发瞬间
-1. 上海石化火灾现外卖员疏散群众
-1. 新郎母亲教科书式致辞
 1. 董宇辉经典语录
+1. 兰州爆炸事故6名失联人员遇难
+1. 上海石化火灾现外卖员疏散群众
 
 ## 明星榜
 
@@ -80,7 +80,7 @@
 1. [小城夏天]() - LBI利比
 1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [单人券]() - 张齐山DanieL
-1. [Afterthought](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
+1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [最远的你是我最近的爱 ]() - 金润吉
 1. [须尽欢（降调版）]() - 郑浩
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
@@ -90,7 +90,7 @@
 1. [你过得好吗]() - 刘大拿
 1. [可（剪辑版）]() - 薛之谦/张靓颖
 1. [孤勇者]() - 陈奕迅
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [年轮]() - 张碧晨
 1. [好一点（don't emo)]() - 小蓝背心
 1. [我是如此相信]() - 周杰伦
@@ -102,12 +102,12 @@
 1. [微风吹（剪辑版）]() - 李润祺
 1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97b52b90d39643a192d08ab8c9b08678) - G-Dragon
 1. [Of her eyes]() - 覃晨皓
-1. [爱都爱了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
-1. [沈以诚-雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
+1. [爱都爱了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
+1. [沈以诚-雨](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
 1. [Wake (Live)]() - Hillsong Young & Free & TAYA
 1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
 1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
-1. [Melô de Lana Del Rey - Reggae Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
+1. [Melô de Lana Del Rey - Reggae Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
 1. [Young and Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
 1. [爱怎么了-part1]() - 陈村长
 1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
@@ -119,11 +119,11 @@
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [一样的月光]() - 徐佳莹
 1. [Monsieur Melody]() - Deep East Music
-1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
+1. [满目星辰皆是你（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [我太笨（伤感版 JIYEYILANG）]() - 吉野一郎
-1. [我惊了！！](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ed69e350acd4332ae6e3f6e2a7856ce) - BCD Studio - Oran
+1. [我惊了！！](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ed69e350acd4332ae6e3f6e2a7856ce) - BCD Studio - Oran
 1. [呓语]() - 毛不易
-1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
+1. [落日与晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
 1. [目及皆是你（心跳版）（剪辑版）]() - 小蓝背心
 1. [落空](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ab7e60e92a0457698fa2e39f0c0ccae) - 印子月
 
