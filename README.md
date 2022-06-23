@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-23 21:39:33 +0800`
+`更新时间：2022-06-23 22:15:54 +0800`
 
 ## 抖音热榜
 
 1. 2022年高考分数线
-1. 刘强东两月套现22亿元
+1. 梁实高考成绩
 1. 遥感三十五号02组卫星发射成功
 1. 蔚来汽车坠楼两名试车员身亡
 1. iPhone14古铜色
 1. 刘畊宏终于对孤勇者下手了
-1. 警方通报父女黄码看病闯卡袭警
+1. 刘强东两月套现22亿元
 1. 白棕先生告别敦敦
-1. 山东高考成绩26日前公布
+1. 丹东回应父女看病袭警事件
 1. 四川高考分数线公布
 1. 91岁默多克被曝将第四次离婚
 1. 官方回应男子大桥上跳车后跳江
-1. 梁实直播高考查分瞬间
-1. 丹东回应父女看病袭警事件
-1. 北京今日新增2例本土无症状
-1. 广东这次洪涝灾害为何这么严重
-1. 银行储蓄员携200万巨款潜逃20年
-1. 可乐cp三分钟连亲8次
 1. 日本陷入印度高铁困局
-1. 千万别跟00后客套
-1. 传迪拜王子CSGO顶级库存被盗
 1. 高考生凌晨查分激动到尖叫
+1. 中国神秘女富豪5.6亿买欧洲豪宅
+1. 女生去校医院拔牙报销后付1元
+1. 广东这次洪涝灾害为何这么严重
+1. 可乐cp三分钟连亲8次
+1. 丹东持黄码看病被拦女子发声
 1. 云南高考分数线公布
-1. 董宇辉说驴也有休息的时候
+1. 郑州明后天或再冲击40度
+1. 江西高招录取分数线公布
 1. 陕西一男生课间暴打女生
 1. 曝欧文詹姆斯近期有过接触
-1. 江西高招录取分数线公布
-1. 郑州明后天或再冲击40度
+1. 山东高考成绩26日前公布
+1. 千万别跟00后客套
+1. 银行储蓄员携200万巨款潜逃20年
+1. 曝维金斯想要顶薪续约
 1. 欧阳娜娜出现在痞幼抖音里
 1. 南京警方连麦潘周聃聊高考反诈
-1. 伦敦发现脊髓灰质炎病毒
+1. 警方通报父女黄码看病闯卡袭警
 1. 2022年吉林高考分数线
-1. 这狗子还挺会找遮阳的地方
+1. 董宇辉说驴也有休息的时候
 1. 辽宁高考成绩今日出分
-1. 女子告前夫投毒案嫌疑人被批捕
+1. 传迪拜王子CSGO顶级库存被盗
 1. 第一批00后毕业了
 1. 曝湖人被认为是签走欧文最大威胁
-1. 一诺鲁班七号三连决胜
-1. 丹东持黄码看病被拦女子发声
-1. 31省区市新增本土确诊病例13例
-1. 秦霄贤跳爱你
 1. 当外国人遇到雪糕刺客
+1. 伦敦发现脊髓灰质炎病毒
+1. 一诺鲁班七号三连决胜
+1. 秦霄贤跳爱你
+1. 北京今日新增2例本土无症状
+1. 女子告前夫投毒案嫌疑人被批捕
+1. 31省区市新增本土确诊病例13例
 1. 渔民放生甲鱼疑为有害外来物种
-1. 内蒙古高考成绩公布
 1. 男孩高考查分后盯手机面无表情
+1. 内蒙古高考成绩公布
+1. 这狗子还挺会找遮阳的地方
 1. 贵的雪糕和便宜雪糕能一样吗
 1. 直击全国各地高校毕业典礼
-1. 雪糕刺客是什么梗
-1. 4天工作制离我们有多远
-1. 曝维金斯想要顶薪续约
 
 ## 明星榜
 
@@ -78,13 +78,13 @@
 
 1. [就忘了吧（刘大拿DJ版）]() - 刘大拿
 1. [小城夏天]() - LBI利比
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [单人券]() - 张齐山DanieL
-1. [Afterthought](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
+1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [最远的你是我最近的爱 ]() - 金润吉
 1. [须尽欢（降调版）]() - 郑浩
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
-1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [Classic soccer song "Triumphal March" weakness arrangement(790711)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7881e2ee1b664fe9ae8d0b4e47c46751) - yo suzuki(akisai)
 1. [帶我去找夜生活]() - 告五人
 1. [Go Around](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1a48011be7d94d03931c3f9658371558) - Saino Freedoni
 1. [你过得好吗]() - 刘大拿
@@ -94,7 +94,7 @@
 1. [年轮]() - 张碧晨
 1. [好一点（don't emo)]() - 小蓝背心
 1. [我是如此相信]() - 周杰伦
-1. [热恋冰淇淋（律动版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
+1. [热恋冰淇淋（律动版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
 1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [oh my god 你也太美了吧]() - Y2002
 1. [试着断了联系 ]() - 王超然
@@ -106,9 +106,9 @@
 1. [沈以诚-雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
 1. [Wake (Live)]() - Hillsong Young & Free & TAYA
 1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
-1. [篇章](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
-1. [Melô de Lana Del Rey - Reggae Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
-1. [Young and Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
+1. [篇章](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6cd3e3ba67254449ae2883146305ac06) - 张韶涵/王赫野
+1. [Melô de Lana Del Rey - Reggae Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
+1. [Young and Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
 1. [爱怎么了-part1]() - 陈村长
 1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c75ab010a32d4437a8c98ef5c7b40478) - Veronica Bravo & lost. & Pop Mage
