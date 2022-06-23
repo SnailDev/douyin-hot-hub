@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-06-23 09:23:12 +0800`
+`更新时间：2022-06-23 11:37:09 +0800`
 
 ## 抖音热榜
 
 1. 高考成绩陆续公布
-1. 王者荣耀S28赛季将开启
+1. 宁夏高考录取分数线出炉
 1. 香港的机遇是无限的
-1. 渔民放生甲鱼疑为有害外来物种
+1. 警方通报父女黄码看病闯卡袭警
+1. 云南高考分数线公布
 1. 支付宝回应账户46万不能取出
-1. 郑州赋红码事件多名干部被处分
-1. 河南高温暴雨无缝切换
-1. 76人计划3年3000万追塔克
+1. 中国卫星拍摄美军航母基地
+1. 可乐cp三分钟连亲8次
 1. 爱情应该有的样子配角心酸恋爱
 1. 31省区市新增本土确诊病例13例
-1. 俄失踪飞机已找到乘客全部生还
-1. 中国卫星拍摄美军航母基地
-1. 上海新增本土确诊病例9例
+1. 江西高招录取分数线公布
+1. 王者荣耀S28赛季将开启
+1. 孕妇跳河被救起后撕心痛哭
+1. 俄军称击退乌军对蛇岛进攻
+1. 内蒙古高考成绩公布
+1. 回廊亭姜远星程成同居好甜
 1. 救狗溺亡男孩遗体已打捞上岸
-1. 吴彦祖一家出席西部世界首映礼
-1. 卖瓜救孙女的7旬老人哭了
-1. 猴痘病例已输入亚洲
-1. 网民恶意攻击IU被判刑8个月
-1. 女子捡了只小狗养大后竟是貉
+1. 76人计划3年3000万追塔克
+1. 渔民放生甲鱼疑为有害外来物种
 1. 北京新增本土确诊3例
+1. 郑州赋红码事件多名干部被处分
+1. 2022年中国传媒大学毕业典礼
+1. 吴彦祖一家出席西部世界首映礼
 1. 库里躲开女球迷亲吻
 1. 喜欢你我也是3大结局
-1. 患者接受120万一针抗癌治疗出院
-1. TheShy通宵Rank
-1. 董宇辉谈热度下降
-1. 可乐cp三分钟连亲8次
-1. 孕妇跳河被救起后撕心痛哭
-1. 可南变回河南
-1. 欧阳娜娜出现在痞幼抖音里
-1. 俄军称击退乌军对蛇岛进攻
-1. 女子无端被赋黄码起诉河南卫健委
+1. 网民恶意攻击IU被判刑8个月
 1. 当外国人遇到雪糕刺客
-1. 阿里女员工案嫌犯被判一年半
-1. 火星合月上演
+1. 河南高温暴雨无缝切换
+1. 欧阳娜娜出现在痞幼抖音里
+1. 直击全国各地高校毕业典礼
+1. 上海新增本土确诊病例9例
+1. 女子无端被赋黄码起诉河南卫健委
+1. 董宇辉谈热度下降
+1. TheShy通宵Rank
+1. 敦敦走了
 1. 警方通报幼童遭早教机构体罚身亡
-1. 女生同时被5所世界名校录取
-1. 河南中考作文题出炉
-1. 深圳街头一小鸟袭击路人
-1. 阿富汗地震已致上千人死亡
-1. 非洲十年的小助理要回归了吗
-1. 秦霄贤跳爱你
-1. 内蒙古孩子真的上射箭课
-1. 警方通报河北一男子砍伤妻子
-1. 60个电影名场面致敬周星驰
-1. 女生拍毕业照跳跃落下踩翻地砖
+1. 女子捡了只小狗养大后竟是貉
 1. 贵的雪糕和便宜雪糕能一样吗
-1. 老人偷拍女性裙底被当场控制
-1. 4天工作制离我们有多远
+1. 河南中考作文题出炉
+1. 警方通报河北一男子砍伤妻子
+1. 秦霄贤跳爱你
+1. 可南变回河南
+1. 非洲十年的小助理要回归了吗
+1. 阿富汗地震已致上千人死亡
+1. 60个电影名场面致敬周星驰
 1. 雪糕刺客是什么梗
-1. 曝比尔拒执行球员选项
+1. 4天工作制离我们有多远
+1. 老人偷拍女性裙底被当场控制
+1. 俄失踪飞机已找到 乘客全部生还
+1. 核酸采样员供过于求
 
 ## 明星榜
 
@@ -78,7 +78,7 @@
 
 1. [就忘了吧（刘大拿DJ版）]() - 刘大拿
 1. [小城夏天]() - LBI利比
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [单人券]() - 张齐山DanieL
 1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [最远的你是我最近的爱 ]() - 金润吉
@@ -100,9 +100,9 @@
 1. [试着断了联系 ]() - 王超然
 1. [起风了]() - 吴青峰
 1. [微风吹（剪辑版）]() - 李润祺
-1. [Black (Feat. 제니 of BLACKPINK)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97b52b90d39643a192d08ab8c9b08678) - G-Dragon
+1. [Black (Feat. 제니 of BLACKPINK)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/97b52b90d39643a192d08ab8c9b08678) - G-Dragon
 1. [Of her eyes]() - 覃晨皓
-1. [爱都爱了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
+1. [爱都爱了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
 1. [沈以诚-雨](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/12ca00e82fc34bd4880d181c2afaff1d) - 沈以诚
 1. [Wake (Live)]() - Hillsong Young & Free & TAYA
 1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
@@ -110,7 +110,7 @@
 1. [Melô de Lana Del Rey - Reggae Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
 1. [Young and Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/49bd7f88437f4d86982fa511270b36fd) - Aylin my moon
 1. [爱怎么了-part1]() - 陈村长
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [Everytime We Touch](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c75ab010a32d4437a8c98ef5c7b40478) - Veronica Bravo & lost. & Pop Mage
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
@@ -119,7 +119,7 @@
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [一样的月光]() - 徐佳莹
 1. [Monsieur Melody]() - Deep East Music
-1. [满目星辰皆是你（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
+1. [满目星辰皆是你（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f750c9d3284c45dd99ebf8d39f9dbe68) - LKer林柯
 1. [我太笨（伤感版 JIYEYILANG）]() - 吉野一郎
 1. [我惊了！！](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ed69e350acd4332ae6e3f6e2a7856ce) - BCD Studio - Oran
 1. [呓语]() - 毛不易
