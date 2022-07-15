@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-07-15 13:05:35 +0800`
+`更新时间：2022-07-15 14:22:09 +0800`
 
 ## 抖音热榜
 
 1. 中国上半年GDP同比增长2.5%
 1. 靳东当选民盟北京市委副主委
 1. 武警战士高温下全副武装训练
-1. 白象方便面吃出混色面饼和异物
-1. 安徽怀远实施封闭管理
-1. 何幸福成立旅游合作社
-1. 红颜如霜中国风YYDS
+1. 波兰发现十多吨人类骨灰
+1. iPhone15或采用潜望式摄像头
 1. 印度霍乱疫情181人感染5人死亡
+1. 领证当天睡过头是什么体验
+1. 到了三里屯才知道我多土
 1. 周杰伦新专辑
 1. 当事人回应疑用噬人鲨做美食
-1. 上半年国民经济运行情况
 1. 问老板要剩汤的老奶奶找到了
+1. 红颜如霜中国风YYDS
 1. 王者荣耀辟谣停止运营公告
+1. 演员孙滨逝世
 1. 特朗普第一任妻子去世
 1. 曝iPhone14镜头比2枚硬币还厚
 1. 广西新增本土无症状165例
+1. 安徽怀远实施封闭管理
 1. 智利渔民捕获近5米长皇带鱼
 1. 原来马小跳就是吴磊
-1. 秀玉被偷走的十年
 1. 蒙牛漏交5元诉讼费被强制执行
 1. 二季度GDP同比增长0.4%
 1. 广东新增本土17+39
-1. 上海新增本土6+39
 1. 赵丽颖起诉母婴店获赔30万
 1. 兰州本轮疫情感染者超190例
 1. 被夕阳下货车上小女孩后续暖到了
 1. 武汉检出甲鱼样本霍乱弧菌阳性
+1. 白象方便面吃出混色面饼和异物
+1. 何幸福成立旅游合作社
 1. 蔡徐坤高亭宇跳高battle
-1. 到了三里屯才知道我多土
-1. 秀玉：我只要上大学
-1. 动物园回应女子园内下车喂鹿被踢
+1. 杨迪听了都得愣几秒
 1. 致勇敢的你现实霸总文学
 1. 李亚鹏欠债4000万案终审败诉
 1. 东方甄选CEO：董宇辉是总裁级主播
 1. 如何看待职业伴郎伴娘现象
-1. 魔女2上线
-1. 日本政府将为安倍晋三举行国葬
-1. 张小泉回应断刀：将给消费者退款
-1. Uzi账号疑因经纪纠纷被封禁
-1. 银保监会回应停贷事件
-1. 嗯哼也对上了孤勇者暗号
-1. BA.5毒株致日本疫情急速蔓延
-1. 演员孙滨逝世
 1. 街道回应老人为瘫痪儿子要剩汤
-1. 霍建华剧版白子画
-1. 陈伟霆彭昱畅能在密逃常驻吗
-1. 顾全准绝杀助中国男篮取首胜
-1. 还在流浪MV抖音上线
 1. 河南村镇银行垫付资金来源公布
+1. 秀玉被偷走的十年
+1. Uzi账号疑因经纪纠纷被封禁
+1. 秀玉：我只要上大学
+1. 上半年国民经济运行情况
+1. 银保监会回应停贷事件
+1. 陈伟霆彭昱畅能在密逃常驻吗
+1. 专家解释今年为何这么热
+1. 顾全准绝杀助中国男篮取首胜
+1. 女子每天跳绳4千下致半月板撕裂
 1. 河南新增本土1+51
+1. 杜锋不满男篮发挥
+1. 还在流浪MV抖音上线
+1. 动物园回应女子园内下车喂鹿被踢
 
 ## 明星榜
 
@@ -78,25 +78,25 @@
 
 1. [小城夏天]() - LBI利比
 1. [等不来花开]() - pro
-1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/301481e082f64064adeb6285740d54eb) - Hoang Thuy Linh
-1. [给你一瓶魔法药水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
-1. [Upupu（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
+1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/301481e082f64064adeb6285740d54eb) - Hoang Thuy Linh
+1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
+1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
 1. [江湖之间]() - 曹雨航+朝歌夜弦
 1. [落日与晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c0df4d955e5e4cda94db402d63b71b53) - IN-K/王忻辰/苏星婕
 1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
-1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
-1. [爱都爱了（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
+1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [爱都爱了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ea838a8eccd2486f8d7aa26551f04225) - 小洲
 1. [02（剪辑版）]() - Zyboy忠宇
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [孤勇者]() - 陈奕迅
 1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
-1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [Legend Of Wong Fei Hung: Rebirth](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f5904756b8d74a12af94fe544a8f5d9c) - WUKONG
 1. [So Far Away - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
 1. [剑魂-鱼多余DJ版正式上线]() - 鱼多余
 1. [Afterthought](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5b832cdf45494148ba3c17fc04eec659) - Joji & BENEE
 1. [LOVE (feat. Trippie Redd)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ef24f2a301734ccebd5a4822849eabef) - Shordie Shordie & Murda Beatz
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [总以为来日方长(剪辑版)]() - 梅朵
 1. [One of a Kind](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a47d1d2ff5d47ccb42b56567de4456f) - Sam Ock
 1. [好烦噢 (DJ旭@S.Bt林子豪)]() - 穆傲寒
@@ -106,26 +106,26 @@
 1. [In The Shadow Of The Sun]() - Professor Green
 1. [三生三幸]() - 海来阿木
 1. [Happy People]() - Inspired
-1. [桃花笑](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8fd173995a3d41a3bdf21cfad17477e7) - 原来是萝卜丫
+1. [桃花笑](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8fd173995a3d41a3bdf21cfad17477e7) - 原来是萝卜丫
 1. [我是如此相信]() - 周杰伦
-1. [Melô de Lana Del Rey - Reggae Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
+1. [Melô de Lana Del Rey - Reggae Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ee0eb2f5e704f54a7bf3dc9d3253032) - Luciano CDs
 1. [夏天]() - 刘瑞琦
 1. [妈妈的话（女版）]() - 苏星婕
-1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [最美好的时光 - Official Live]() - 陈娴静, 范例三, 山姆Someshit, 桃子A1J, AndyShow安迪秀, KEYNO
-1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
+1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [一个像夏天一个像秋天（房猫剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5a649d88ef0437b918efc8be7005a59) - 房东的猫
-1. [浪漫（纯音乐）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c50a027cb64cbbb33a8eb5afce567e) - 闫天午
-1. [我多想拥抱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/601276524daf4768a0fdde770c5b2e63) - 黑屋乐队
+1. [浪漫（纯音乐）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c50a027cb64cbbb33a8eb5afce567e) - 闫天午
+1. [我多想拥抱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/601276524daf4768a0fdde770c5b2e63) - 黑屋乐队
 1. [夕 HOOK](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e3663065e34ff28df73363b030f1c7) - 龙楠林
-1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [白月光与朱砂痣]() - 大籽
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [须尽欢（降调版）]() - 郑浩
-1. [热恋冰淇淋（律动版）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
+1. [热恋冰淇淋（律动版）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f1d2a591fa43439b995217ebd60b28d8) - yihuik苡慧
 1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
-1. [下一个天亮 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8c306cce80bf46c6ad2cfd1400d231a2) - 颜人中
+1. [下一个天亮 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8c306cce80bf46c6ad2cfd1400d231a2) - 颜人中
 
 ## 品牌榜
 
@@ -148,7 +148,7 @@
 | [奇瑞](https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E) | [中兴](https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4) | [媞妃特](https://www.baidu.com/s?wd=%E5%AA%9E%E5%A6%83%E7%89%B9) | [爱彼](https://www.baidu.com/s?wd=%E7%88%B1%E5%BD%BC) | [连咖啡](https://www.baidu.com/s?wd=%E8%BF%9E%E5%92%96%E5%95%A1) | [追觅](https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85) | [耐克](https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B) | [海龟爸爸](https://www.baidu.com/s?wd=%E6%B5%B7%E9%BE%9F%E7%88%B8%E7%88%B8) | [阿道夫](https://www.baidu.com/s?wd=%E9%98%BF%E9%81%93%E5%A4%AB) | [天使之战](https://www.baidu.com/s?wd=%E5%A4%A9%E4%BD%BF%E4%B9%8B%E6%88%98) |
 | [沃尔沃](https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E6%B2%83) | [柔宇](https://www.baidu.com/s?wd=%E6%9F%94%E5%AE%87) | [逐本](https://www.baidu.com/s?wd=%E9%80%90%E6%9C%AC) | [蒂芙尼](https://www.baidu.com/s?wd=%E8%92%82%E8%8A%99%E5%B0%BC) | [王小卤](https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E5%8D%A4) | [AMIRO](https://www.baidu.com/s?wd=AMIRO) | [特步](https://www.baidu.com/s?wd=%E7%89%B9%E6%AD%A5) | [宜婴](https://www.baidu.com/s?wd=%E5%AE%9C%E5%A9%B4) | [珍视明](https://www.baidu.com/s?wd=%E7%8F%8D%E8%A7%86%E6%98%8E) | [魔兽世界](https://www.baidu.com/s?wd=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C) |
 | [哈弗](https://www.baidu.com/s?wd=%E5%93%88%E5%BC%97) | - | [HBN](https://www.baidu.com/s?wd=HBN) | [劳力士](https://www.baidu.com/s?wd=%E5%8A%B3%E5%8A%9B%E5%A3%AB) | [满小饱](https://www.baidu.com/s?wd=%E6%BB%A1%E5%B0%8F%E9%A5%B1) | [有色](https://www.baidu.com/s?wd=%E6%9C%89%E8%89%B2) | [卡西欧](https://www.baidu.com/s?wd=%E5%8D%A1%E8%A5%BF%E6%AC%A7) | [奥迪双钻](https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%AA%E5%8F%8C%E9%92%BB) | [沙宣](https://www.baidu.com/s?wd=%E6%B2%99%E5%AE%A3) | [闪烁之光](https://www.baidu.com/s?wd=%E9%97%AA%E7%83%81%E4%B9%8B%E5%85%89) |
-| [宝骏](https://www.baidu.com/s?wd=%E5%AE%9D%E9%AA%8F) | - | [自然堂](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%B6%E5%A0%82) | [珞拉芮丝](https://www.baidu.com/s?wd=%E7%8F%9E%E6%8B%89%E8%8A%AE%E4%B8%9D) | [三只松鼠](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0) | [戴森](https://www.baidu.com/s?wd=%E6%88%B4%E6%A3%AE) | [拇指白小T](https://www.baidu.com/s?wd=%E6%8B%87%E6%8C%87%E7%99%BD%E5%B0%8FT) | [美素佳儿](https://www.baidu.com/s?wd=%E7%BE%8E%E7%B4%A0%E4%BD%B3%E5%84%BF) | [力士](https://www.baidu.com/s?wd=%E5%8A%9B%E5%A3%AB) | [万国觉醒](https://www.baidu.com/s?wd=%E4%B8%87%E5%9B%BD%E8%A7%89%E9%86%92) |
+| [宝骏](https://www.baidu.com/s?wd=%E5%AE%9D%E9%AA%8F) | - | [自然堂](https://www.baidu.com/s?wd=%E8%87%AA%E7%84%B6%E5%A0%82) | [罗拉玫瑰](https://www.baidu.com/s?wd=%E7%BD%97%E6%8B%89%E7%8E%AB%E7%91%B0) | [三只松鼠](https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0) | [戴森](https://www.baidu.com/s?wd=%E6%88%B4%E6%A3%AE) | [拇指白小T](https://www.baidu.com/s?wd=%E6%8B%87%E6%8C%87%E7%99%BD%E5%B0%8FT) | [美素佳儿](https://www.baidu.com/s?wd=%E7%BE%8E%E7%B4%A0%E4%BD%B3%E5%84%BF) | [力士](https://www.baidu.com/s?wd=%E5%8A%9B%E5%A3%AB) | [万国觉醒](https://www.baidu.com/s?wd=%E4%B8%87%E5%9B%BD%E8%A7%89%E9%86%92) |
 | [一汽丰田](https://www.baidu.com/s?wd=%E4%B8%80%E6%B1%BD%E4%B8%B0%E7%94%B0) | - | [奕沃](https://www.baidu.com/s?wd=%E5%A5%95%E6%B2%83) | [华伦天奴](https://www.baidu.com/s?wd=%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4) | [青岛啤酒](https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92) | [创维](https://www.baidu.com/s?wd=%E5%88%9B%E7%BB%B4) | [乐町](https://www.baidu.com/s?wd=%E4%B9%90%E7%94%BA) | [怡芽](https://www.baidu.com/s?wd=%E6%80%A1%E8%8A%BD) | [薇婷](https://www.baidu.com/s?wd=%E8%96%87%E5%A9%B7) | [率土之滨](https://www.baidu.com/s?wd=%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BB%A8) |
 | [长城](https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E) | - | [欧诗漫](https://www.baidu.com/s?wd=%E6%AC%A7%E8%AF%97%E6%BC%AB) | [BOSS](https://www.baidu.com/s?wd=BOSS) | [姿美堂](https://www.baidu.com/s?wd=%E5%A7%BF%E7%BE%8E%E5%A0%82) | [SKG](https://www.baidu.com/s?wd=SKG) | [内外](https://www.baidu.com/s?wd=%E5%86%85%E5%A4%96) | [德佑](https://www.baidu.com/s?wd=%E5%BE%B7%E4%BD%91) | [植护](https://www.baidu.com/s?wd=%E6%A4%8D%E6%8A%A4) | [热血合击](https://www.baidu.com/s?wd=%E7%83%AD%E8%A1%80%E5%90%88%E5%87%BB) |
 | [广汽传祺](https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E4%BC%A0%E7%A5%BA) | - | [肌先知](https://www.baidu.com/s?wd=%E8%82%8C%E5%85%88%E7%9F%A5) | [爱马仕](https://www.baidu.com/s?wd=%E7%88%B1%E9%A9%AC%E4%BB%95) | [好望水](https://www.baidu.com/s?wd=%E5%A5%BD%E6%9C%9B%E6%B0%B4) | [松下](https://www.baidu.com/s?wd=%E6%9D%BE%E4%B8%8B) | [幸棉](https://www.baidu.com/s?wd=%E5%B9%B8%E6%A3%89) | [优萃](https://www.baidu.com/s?wd=%E4%BC%98%E8%90%83) | [艾斯迷](https://www.baidu.com/s?wd=%E8%89%BE%E6%96%AF%E8%BF%B7) | [幻塔](https://www.baidu.com/s?wd=%E5%B9%BB%E5%A1%94) |
