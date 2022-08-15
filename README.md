@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-08-15 11:58:00 +0800`
+`更新时间：2022-08-15 13:06:04 +0800`
 
 ## 抖音热榜
 
 1. 31省区市新增692+1620
-1. 男孩发现博物馆八卦图错误
+1. 惠英红细节之间充满演技
 1. 中国空间站凌月超清画面
-1. 李梓睿30分
-1. 东部战区或反制美议员窜台
 1. 找张年轻时的照片配上炙热的歌
-1. 被冲走前父亲试图将孩子抛上岸
-1. 三亚昨日新增306+472
-1. 日本投降77周年
+1. 东部战区或反制美议员窜台
 1. RNG痛失复活甲
+1. 李梓睿30分
+1. 三亚昨日新增306+472
+1. 广东调查省运会涉嫌假球事件
+1. 日本投降77周年
 1. 义乌上演18分钟生死救援
-1. 男生祖孙三代全上清华
+1. 大陆22架次军机巡台
 1. 邓紫棋唱泡沫自证清白
 1. 狗狗追着洒水车撒欢
 1. 高温还要持续多久
 1. 男子带人殴打岳父致死
+1. 警方通报驾校发现疑似冲锋枪
 1. 女生没考好跪孔子像前忏悔
-1. 河南新增本土1+1
-1. 义乌新增11例阳性
-1. 三伏天最后一伏来了
-1. LGD战胜RNG
-1. 海南就防疫不力问责
-1. 长沙所有初中新生暂停军训
-1. 江西新增本土1+52
-1. 新疆新增本土1+343
-1. 切尔西2比2热刺
 1. 苍兰诀用手演出救赎文学
-1. 厦门新增本土确诊6例
-1. 7个月大的宝宝第一次喊妈妈
-1. 中国男排亚洲杯夺冠
-1. 凡人修仙传新篇章
+1. 男孩发现博物馆八卦图错误
+1. 开车碾压草原的游客道歉
+1. 三伏天最后一伏来了
+1. 斗破苍穹国漫之光
+1. 河南新增本土1+1
+1. 新疆新增本土1+343
+1. 四川多地水域疑似出现龙线虫
+1. 切尔西2比2热刺
+1. 义乌新增11例阳性
+1. 石家庄调整疫情风险区域
+1. 海南就防疫不力问责
 1. 李若彤重现小龙女睡绳子
 1. 苍兰诀人 诀症
 1. 避免战争发生是一个哲学问题
-1. 大陆22架次军机巡台
+1. 被冲走前父亲试图将孩子抛上岸
+1. 山洪中两人紧抱死里逃生
 1. 上海新增本土1+5
-1. 东方大强霸总告白小兰花
-1. VaVa说唱巅峰freestyle
-1. 湖北十堰新增5例无症状
-1. 广东调查省运会涉嫌假球事件
+1. 厦门新增本土确诊6例
+1. 江西新增本土1+52
+1. 新疆进一步明确离疆政策
+1. 彭州山洪7死8伤
 1. 苍兰诀亲亲抱抱拉手手
-1. 孕妇每天喝奶茶喝成奶茶血
-1. 维拉蒂：姆巴佩生气是好事
-1. 义乌保障基本生活物资需求
-1. 河北新增4例无症状
-1. 早安freestyle喝了喝了
-1. 四川新增本土2+6
-1. 村民称彭州山洪二十年一遇
+1. 6艘船获授权赴乌克兰运粮
+1. 云南新增本土无症状1例
+1. 中国男排亚洲杯夺冠
 1. 蒋正全家人收到爱心捐款
-1. WE十六连败
+1. LGD战胜RNG
+1. 维拉蒂：姆巴佩生气是好事
+1. 长沙所有初中新生暂停军训
+1. 四川新增本土2+6
+1. 7个月大的宝宝第一次喊妈妈
 
 ## 明星榜
 
@@ -89,8 +89,8 @@
 1. [我的月亮（剪辑版）]() - 苏星婕
 1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
 1. [粉色海洋]() - 周杰伦
-1. [千千阕歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ec5175dc85cf45cc9d893b377e82bc9d) - 陈慧娴
-1. [西楼别序](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
+1. [千千阕歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ec5175dc85cf45cc9d893b377e82bc9d) - 陈慧娴
+1. [西楼别序](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
 1. [孤勇者]() - 陈奕迅
 1. [在树上唱歌（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a447721c8f964b66a678f719c43db2af) - 阿肆
 1. [花](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb88339dda81426da112c3ded18e6477) - 宋佳
@@ -100,23 +100,23 @@
 1. [如果可以 (旅行版)]() - 赖仔Morris
 1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [In The Shadow Of The Sun]() - Professor Green
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [누가 봐도 우린 (Be My Love)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
 1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [你一出现]() - 范芽芽
-1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
+1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
 1. [秋天的第一杯奶茶]() - 伯远
 1. [我要我要-主歌片段]() - 潇公子（刘潇）
-1. [See Tình - Speedup Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f50ede6a11b3422d9eb4f1975d05f055) - Hoang Thuy Linh
+1. [See Tình - Speedup Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f50ede6a11b3422d9eb4f1975d05f055) - Hoang Thuy Linh
 1. [如风过耳 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2fea2fc5edb54954a79e94c07d3900b4) - 少囧
-1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
+1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [后来的你在哪 (女声版)]() - 范茹
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
-1. [吉他初恋](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b50aa97a4d34f55b12f9ae0a4279a4b) - 刘大壮
+1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b50aa97a4d34f55b12f9ae0a4279a4b) - 刘大壮
 1. [夏天]() - 刘瑞琦
-1. [โต๊ะริม - Melt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
-1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
+1. [โต๊ะริม - Melt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
+1. [下一个天亮-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
 1. [妈妈的话（女版）]() - 苏星婕
 1. [最远的你是我最近的爱 ]() - 金润吉
 1. [Hug me(抱我)]() - 蔡徐坤
