@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-08-16 09:50:32 +0800`
+`更新时间：2022-08-16 11:47:07 +0800`
 
 ## 抖音热榜
 
-1. 荷兰11月宣判马航被击落案
-1. 周杰伦粉色海洋MV
-1. 千里江山图不是写意而是写实
-1. 顾客未给钱摊主追赶摔倒身亡
+1. 马思纯道歉
+1. 女子高温天买活虾到家熟透6只
+1. 三星堆发现第一件带翅膀神兽
+1. 被支持古天乐的网友感动
 1. 北京交警通报马思纯驾车逆行
+1. 苍兰诀剧照vs剧情
+1. 俄称英国侦察机侵犯领空
+1. 陈若仪晒与林志颖握手照
+1. 特朗普就被搜查发声
+1. 一批台独顽固分子被实施制裁
+1. 周杰伦粉色海洋MV
+1. 苍兰诀容昊 疯批
 1. 鹿晗唱我们的明天DNA动了
-1. FBI警告美国有爆发内战的威胁
-1. 杭州回应30万可买人才身份
-1. 库里塔图姆出席格林婚礼
-1. 台称军演期间少收180万过路费
 1. 四川电力供需紧张让电于民
 1. 海南新增本土426+785
 1. 三亚新增291+492
+1. 千里江山图不是写意而是写实
 1. 李雪健出演流浪地球2
-1. 31省市区新增本土530+1838
-1. 男子吃冰西瓜腹泻数日致尿毒症
-1. 苍兰诀剧照vs苍兰诀剧情
+1. 31省市区新增530+1838
+1. 库里塔图姆出席格林婚礼
 1. 苏州新增本土无症状4例
-1. 海口延长重点区域静态管理时间
-1. 乌鲁木齐基本阻断跨区域传播
-1. 韩国首尔爆发大规模反美集会
+1. 小伙卖冰块日入过万
+1. 韩国爆发大规模反美集会
+1. 抖音共创来了
 1. 胡锡进：苏州应容下一身和服
 1. 女子街头穿和服拍照被警方带走
-1. 曝墨尔本联已向赵睿提交报价
-1. 沉香如屑嗑糖细节
+1. 昆明新增1例确诊2例无症状
 1. 北京新增本土3+1
-1. 男子背84斤硬币给哥们随礼
-1. 国防部回应美议员窜访台湾
-1. 湖北十堰解除临时性管控措施
+1. 荷兰11月宣判马航被击落案
+1. 台因围岛演练少收180万过路费
+1. 张家口全域临时性管控
+1. FBI：有人公开煽动内战
 1. 东部战区继续实战化演练
 1. 彭州山洪被困父子父亲获救
-1. 河南2所大学入围全球1000强
 1. 上海新增本土无症状3例
-1. 找张年轻时的照片配上炙热的歌
-1. 成都的热是魔法攻击
-1. 三星堆发现第一件带翅膀神兽
+1. 沉香如屑嗑糖细节
+1. 福建本土新增11+1
 1. 猴痘病毒出现人传狗
 1. 北京一病例隐瞒行程被立案
 1. iPhone未来或采用陶瓷机身
+1. 男子吃冰西瓜腹泻数日致尿毒症
 1. 虞书欣和王鹤棣学四川话
 1. 台军方：30架次解放军军机巡台
 1. 印度欲25年内成发达国家
 1. 官方回应多地疑现龙线虫
-1. 厦门多校暂缓新高一入学考试
 1. 开车碾压草原的游客道歉
-1. 空军飞行员俯瞰澎湖列岛
-1. 苍兰诀这集关系要素过多
-1. 西安一市民开直播堵抓偷车者
-1. 苍兰诀小兰花有效沟通
-1. 河南将有强降雨雷暴大风
+1. 厦门四地调整为低风险区
+1. 新疆新增12+248
+1. 姜十七短剧不会开虐了吧
+1. 栓Q哥撞脸旺仔
 
 ## 明星榜
 
@@ -76,56 +76,56 @@
 
 ## 音乐榜
 
-1. [给你一瓶魔法药水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
+1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [小城夏天]() - LBI利比
-1. [隆里电丝（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
+1. [隆里电丝（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
 1. [对你说（片段）]() - Li敖
 1. [帶我去找夜生活]() - 告五人
-1. [Upupu](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/100d73f889714d60b9d6979fb5a05e26) - 刘大拿
+1. [Upupu](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/100d73f889714d60b9d6979fb5a05e26) - 刘大拿
 1. [爱都爱了 (片段)]() - 小洲
-1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
-1. [如果的事（七夕版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
+1. [Upupu（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
+1. [如果的事（七夕版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
 1. [雨赶走云彩]() - pro/傅梦彤
 1. [我的月亮（剪辑版）]() - 苏星婕
-1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
+1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/956433a3bed543cc83d1cb4d719d7580) - Peaceful Melody & soave lofi
 1. [粉色海洋]() - 周杰伦
 1. [千千阕歌](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ec5175dc85cf45cc9d893b377e82bc9d) - 陈慧娴
 1. [西楼别序](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
 1. [孤勇者]() - 陈奕迅
-1. [在树上唱歌（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a447721c8f964b66a678f719c43db2af) - 阿肆
+1. [在树上唱歌（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a447721c8f964b66a678f719c43db2af) - 阿肆
 1. [花](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb88339dda81426da112c3ded18e6477) - 宋佳
 1. [江湖之间]() - 曹雨航+朝歌夜弦
-1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [如果可以 (旅行版)]() - 赖仔Morris
 1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [In The Shadow Of The Sun]() - Professor Green
 1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [누가 봐도 우린 (Be My Love)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [누가 봐도 우린 (Be My Love)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [你一出现]() - 范芽芽
 1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
 1. [秋天的第一杯奶茶]() - 伯远
 1. [我要我要-主歌片段]() - 潇公子（刘潇）
 1. [See Tình - Speedup Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f50ede6a11b3422d9eb4f1975d05f055) - Hoang Thuy Linh
 1. [如风过耳 剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2fea2fc5edb54954a79e94c07d3900b4) - 少囧
-1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
+1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [后来的你在哪 (女声版)]() - 范茹
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
-1. [吉他初恋](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b50aa97a4d34f55b12f9ae0a4279a4b) - 刘大壮
+1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b50aa97a4d34f55b12f9ae0a4279a4b) - 刘大壮
 1. [夏天]() - 刘瑞琦
-1. [โต๊ะริม - Melt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
-1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
+1. [โต๊ะริม - Melt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
+1. [下一个天亮-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
 1. [妈妈的话（女版）]() - 苏星婕
 1. [最远的你是我最近的爱 ]() - 金润吉
 1. [Hug me(抱我)]() - 蔡徐坤
 1. [特别的人]() - 方大同
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [雨天（相遇版）]() - 呆呆破
-1. [风吹一夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [未出现传闻]() - 胡66
-1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 
 ## 品牌榜
 
