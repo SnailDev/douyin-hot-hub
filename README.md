@@ -11,58 +11,58 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-08-21 20:29:53 +0800`
+`更新时间：2022-08-21 21:28:38 +0800`
 
 ## 抖音热榜
 
-1. 邓刚不再参加任何钓鱼比赛
-1. 古天乐连麦连错人好可爱
+1. 苍兰诀伏笔真的好牛
+1. 刘畊宏体验苏州非遗香山石锁
 1. 世界机器人大会在京开幕
 1. 四川泸县突发山火
-1. 上海暂停外滩等地景观照明
+1. 邓刚不再参加任何钓鱼比赛
 1. 男子强行打包他人螺蛳粉后续
 1. 东京涩谷发生持刀伤人事件
-1. 苍兰诀这段直接封神
-1. 东映动画入驻抖音
+1. 张镇麟与杜兰特欧文合练
+1. 爱德华兹KO乌斯曼
 1. 岸田文雄感染新冠病毒
 1. 邓刚或退出王者之战总决赛
+1. 古天乐连麦连错人好可爱
+1. 黑话律师硕鼠是个组织吧
+1. 俄思想家杜金之女爆炸中丧生
+1. 重庆巴南突发山火
+1. 小兰花东方青苍月光吻
 1. 张家辉为明日战记争取排片
 1. 刘雨昕错用收款码付款
-1. 俄思想家杜金之女爆炸中丧生
-1. 京津冀不明黑虫是中华婪步甲
-1. 重庆巴南突发山火
 1. 韩剧还魂
-1. 生父性侵女子案开庭
-1. 刘畊宏体验苏州非遗香山石锁
 1. 西宁山洪已致26人遇难
-1. 爱德华兹KO乌斯曼
-1. 虞书欣王鹤棣含血吻花絮
-1. 张镇麟与杜兰特欧文合练
-1. 王一博 97年就说自己老了
+1. 苍兰诀这段直接封神
+1. 黑话律师一集八百个反转
+1. 俄称乌动用化学武器
 1. 安徽怀宁发现5例阳性
-1. 曝李景亮9月11日对阵夜魔
-1. 黑话律师硕鼠是个组织吧
-1. 邓紫棋直播聊新歌
-1. 披荆斩棘谁会是下一个王心凌
-1. 成都今日最高温达43.4°C
-1. 重庆大足区山火燃烧一夜
-1. 四川新增本土12+2
-1. 长沙雨花区发现1例确诊
 1. 重庆电力辟谣城区将大面积停电
+1. 东映动画入驻抖音
+1. 曝李景亮9月11日对阵夜魔
 1. 土耳其1天2起车祸致至少32死
+1. 内维尔批C罗
+1. 成都今日最高温达43.4°C
+1. 长沙雨花区发现1例确诊
+1. 重庆大足区山火燃烧一夜
+1. 重庆昨日新增本土2+10
+1. 京津冀不明黑虫是中华婪步甲
+1. 王一博 97年就说自己老了
 1. 番茄烤鸡做法
-1. 西安两风险区降级
+1. 四川新增本土12+2
 1. 刘恺威不敢看镜头
 1. 哈妮克孜飞车漂移吓坏秦霄贤
-1. 陈奕迅清唱小学生版孤勇者
 1. 乐山大佛真身全部露出
-1. 水滴筹
-1. 河南新增本土1+11
-1. 篮球少女辣妹大片
-1. 但凡应渊跟他爹学一学
+1. 披荆斩棘谁会是下一个王心凌
 1. 山西新增本土5+1
-1. 内维尔批C罗
+1. 河南新增本土1+11
+1. 西安两风险区降级
 1. 勇士官方晒维金斯照片
+1. 但凡应渊跟他爹学一学
+1. 水滴筹
+1. 篮球少女辣妹大片
 1. 詹姆斯赛前扣篮训练
 1. 黑龙江新增8例本土无症状
 
@@ -85,7 +85,7 @@
 1. [如果的事（七夕版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
 1. [孤勇者]() - 陈奕迅
 1. [如果可以 (旅行版)]() - 赖仔Morris
-1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
+1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
 1. [Upupu](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/100d73f889714d60b9d6979fb5a05e26) - 刘大拿
 1. [风雨飘洒 (剪辑版)]() - 咖菲
 1. [西楼别序](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
@@ -94,24 +94,24 @@
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
 1. [江湖之间]() - 曹雨航+朝歌夜弦
 1. [我是如此相信]() - 周杰伦
-1. [Tiktok Baby (剪辑版2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
+1. [Tiktok Baby (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [Sunroof](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
 1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
-1. [Kiss Me More (feat. SZA)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
-1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [Kiss Me More (feat. SZA)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
+1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
 1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
 1. [须尽欢（降调版）]() - 郑浩
-1. [peppermint](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90657d0098b34559bd367fd1488a19e6) - Tommy Genesis
-1. [夕 HOOK](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e3663065e34ff28df73363b030f1c7) - 龙楠林
+1. [peppermint](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90657d0098b34559bd367fd1488a19e6) - Tommy Genesis
+1. [夕 HOOK](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e3663065e34ff28df73363b030f1c7) - 龙楠林
 1. [等你归来（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e4e9a639694b44ddb269a82fe57b96f5) - 程响
-1. [诀爱 (电视剧《苍兰诀》燃爱主题曲)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9e4bf7b46341f9b61fa147bbc0b56e) - 詹雯婷Faye
+1. [诀爱 (电视剧《苍兰诀》燃爱主题曲)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9e4bf7b46341f9b61fa147bbc0b56e) - 詹雯婷Faye
 1. [风吹一夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
+1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
 1. [三生三幸]() - 海来阿木
 1. [最远的你是我最近的爱 ]() - 金润吉
 1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
@@ -125,7 +125,7 @@
 1. [隆里电丝（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
 1. [我和你]() - 皮卡丘多多
 1. [记录你所给我的一切]() - 王俊凯
-1. [Winter is coming](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
+1. [Winter is coming](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a6c12efb2d84f2ba9a243d4e1eebb4e) - 한수지 & Various Artists
 
 ## 品牌榜
 
