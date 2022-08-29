@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-08-29 16:23:13 +0800`
+`更新时间：2022-08-29 17:18:30 +0800`
 
 ## 抖音热榜
 
 1. 唐山打人案主犯审讯视频曝光
-1. 苍兰诀大结局
-1. 4K视频看运20歼20有多炫
 1. 青海一山体移动群众安全撤离
+1. 4K视频看运20歼20有多炫
+1. 苍兰诀大结局
 1. 唐山被打女子回忆事件经过
-1. 女生自述坐硬卧疑遭骚扰
-1. 消失的孩子开播
 1. 曹芳为直播言论道歉
-1. 骨兰变成了东方青苍
-1. 延时看重庆以火灭火全过程
+1. 别惹前女友开播
+1. 全员加速中回归
+1. 杭州西湖出现丁达尔效应
+1. 明日战记票房破6亿
 1. 央视梳理唐山打人案始末
-1. iPhone14ProMax或9999起
-1. 唐山受害者曾被威胁不许报警
-1. 曝安东尼加盟曼联
-1. 王鹤棣密逃路透
+1. 家长当俩孩子的面偷东西
+1. 大连要求坐公交地铁戴N95
+1. 消失的孩子开播
+1. 退伍老兵和战友山火现场重逢
 1. 唐山打人案审查起诉情况通报
 1. 莲花楼剧组致歉声明
 1. 我老公是外国人
 1. 何炅网购滑板余额不足
-1. 大连要求坐公交地铁戴N95
-1. 篮网签下渡边雄太
+1. 中国无人机中国领土飞一飞
+1. 女生自述坐硬卧疑遭骚扰
 1. 韩国演员刘珠恩去世
-1. 重庆新增10例本土确诊
-1. 江苏新增本土1+6
-1. 倪萍点赞董宇辉
-1. 陈某志等背后保护伞被查
-1. 大连新增15例无症状
-1. 四川新增本土161+87
-1. 全员加速中回归
-1. 大妈捡手机索要600不成大哭
-1. Lisa获VMA最佳kpop
-1. 河北新增3+42
-1. 鳄雀鳝为何如此危险
-1. 柳青瑶起诉刘宇侵权
-1. 成都新增本土确诊134例
-1. BLACKPINK新曲舞台
-1. 用漫画记录重庆山火感动瞬间
-1. 范世錡海芋恋录音室版
+1. 篮网签下渡边雄太
 1. 大连地铁公交站排队数十米
-1. 北京中小学9月1日正式开学
-1. 2分钟透视美国真面目
-1. 河南新增本土14+84
-1. 吉赛尔回应zoo舞台争议
-1. 水下舞绝美演绎水的12种形态
+1. 台商因喜欢天津选择留下
+1. 柳青瑶起诉刘宇侵权
+1. 王鹤棣密逃路透
+1. 骨兰变成了东方青苍
 1. 自制榴莲冰皮月饼
-1. 深圳新增9例本土确诊
+1. 河南渑池回应实行静态演练
+1. 大妈捡手机索要600不成大哭
+1. 倪萍点赞董宇辉
+1. 大连新增15例无症状
+1. 范世錡海芋恋录音室版
+1. 陈某志等背后保护伞被查
+1. 鳄雀鳝为何如此危险
+1. 江苏新增本土1+6
+1. 四川新增本土161+87
+1. 腾讯会议回应
+1. BLACKPINK新曲舞台
+1. KPL向前冲团建
+1. 上海实施婚姻登记全市通办试点
 1. 王嘉尔Tablo加盟中国说唱
+1. 曝安东尼加盟曼联
+1. 用漫画记录重庆山火感动瞬间
+1. 成都新增本土确诊134例
 1. 31省区市新增301+1255
-1. 巴黎1比1摩纳哥
-1. 辽宁新增本土3+25
+1. 鬼吹灯于毅重现赵吏名场面
+1. 洒水车水枪扑救自燃轿车
+1. 吉赛尔回应zoo舞台争议
 
 ## 明星榜
 
@@ -76,9 +76,9 @@
 
 ## 音乐榜
 
-1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [History]() - 88rising & Rich Brian
-1. [迷人的危险_完整版汽水音乐听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0c7fee2880cd4d85857b1704ab478a44) - 吴九三
+1. [迷人的危险_完整版汽水音乐听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0c7fee2880cd4d85857b1704ab478a44) - 吴九三
 1. [Pink Venom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/74a9d3dbc6534953af02b0bafe661abd) - BLACKPINK
 1. [求佛 (rnb版)]() - 李恩泽
 1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ce8247b98cd4d9c9f6c054899259a87) - ycccc
@@ -92,7 +92,7 @@
 1. [孤勇者]() - 陈奕迅
 1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
 1. [江湖之间]() - 曹雨航+朝歌夜弦
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [小城夏天]() - LBI利比
 1. [须尽欢（降调版）]() - 郑浩
 1. [Tiktok Baby (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
@@ -100,17 +100,17 @@
 1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
 1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/405c4cbe02ed4ee6ab6e84be1907f54f) - Kevin Rater
-1. [下一个天亮-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
-1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
+1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [微风吹（剪辑版）]() - 李润祺
-1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
+1. [给你一瓶魔法药水](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [最远的你是我最近的爱 ]() - 金润吉
-1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [后来的你在哪 (剪辑版)]() - 树泽
 1. [去见想见的人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da6767dd5a7e42bb811e63f14b07c3ec) - Joysaaaa
-1. [Sunroof](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
-1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
-1. [如果的事（七夕版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
+1. [Sunroof](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
+1. [it’s ok!](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
+1. [如果的事（七夕版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
 1. [有我 (共青团剪辑版)]() - 周深
 1. [爱你](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [命运（电视剧《兰陵王》主题曲）]() - 家家
@@ -122,10 +122,10 @@
 1. [我和你]() - 皮卡丘多多
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [Understand]() - 金新菲
-1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [多遠都要在一起-剪辑版]() - G.E.M. 邓紫棋
-1. [So Far Away - Acoustic](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
-1. [隆里电丝（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
+1. [So Far Away - Acoustic](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/61ae1d10dc344d839cc414e60fbc1cd7) - Adam Christopher
+1. [隆里电丝（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
 
 ## 品牌榜
 
