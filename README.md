@@ -11,26 +11,27 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-09-21 15:42:29 +0800`
+`更新时间：2022-09-21 16:30:04 +0800`
 
 ## 抖音热榜
 
-1. 统一后台湾可实行不同的社会制度
-1. 博士外卖员：给浙大丢人了
-1. 中国消费电子规模全球居首
-1. iOS16电池百分比图标优化
-1. 失联17天甘宇获救画面曝光
-1. LWX凌晨发文骂CP粉
-1. 今晚油价或下调
+1. 统一后台湾可实行不同于大陆的社会制度
 1. 俄罗斯宣布进行部分动员
-1. 东部战区回应美加军舰过航台海
-1. 泸定地震失联17天的甘宇找到了
-1. 英伟达RTX 4090发布
+1. 中国消费电子规模全球居首
+1. 偷偷藏不住官宣
+1. 哥你好贾冰把暴发户演活了
+1. 今晚油价或下调
+1. 博士外卖员：给浙大丢人了
+1. LWX凌晨发文骂CP粉
+1. iOS16电池百分比图标优化
+1. 失联17天的甘宇找到了
+1. 俄暗示可能攻击星链卫星
 1. 九尾又换发色了
-1. 多校延长专硕学制至3年
+1. 消失的孩子时间线
 1. 张大大终于演上男二了
 1. 如何看待女研究生休学待产
-1. 俄称5937名俄军官兵牺牲
+1. 5937名俄军人战死
+1. 失联17天甘宇获救画面曝光
 1. 坠落陨石中发现地外水
 1. 泰迪被烈性犬撕咬致死
 1. 詹姆斯剃光头
@@ -38,33 +39,32 @@
 1. 国庆放假调休安排
 1. 在抖音关注阿尔茨海默病
 1. 男子酒后称后悔结婚
-1. 浙江舟山发现新物种
 1. 狐妖小红娘全员美女
+1. 国产电视剧片头今起统一标识
 1. 东北插班生把搞笑玩明白了
-1. 安徽一高架桥上车辆起火
-1. 消失的孩子时间线
-1. 偷偷藏不住官宣
-1. 千金丫环大结局
-1. 俄暗示可能攻击星链卫星
-1. 南依老公回应
-1. 校方回应学信网信息泄露
 1. 65岁婆婆坚持24年讨分手费
+1. 千金丫环大结局
 1. 新疆新增11例本土无症状
-1. 任多美这巴掌打对人了
-1. 乌克兰多地将举行入俄公投
+1. 英伟达RTX 4090发布
+1. 南依老公回应
 1. 司机拉干冰中毒身体抽搐
-1. 全球蚂蚁总数约2亿亿只
+1. 乌克兰多地将举行入俄公投
 1. 小猫咪睡姿销魂可爱
+1. 打火机与公主裙首支预告
+1. 河南新增本土1+8
+1. 任多美这巴掌打对人了
+1. 全球蚂蚁总数约2亿亿只
+1. 31省份新增本土123+485
 1. 2023款奥迪A4L配置曝光
 1. 女儿出书记录孙海洋寻子14年
-1. 秦霄贤是哈妮的后盾
-1. 罚罪杨祐宁演技
-1. 河南新增本土1+8
-1. 31省份新增本土123+485
 1. 黑龙江新增本土9+102
-1. 打火机与公主裙首支预告
+1. 秦霄贤是哈妮的后盾
+1. 校方回应学信网信息泄露
+1. 罚罪杨祐宁演技
 1. 北京连续5天本土无新增
 1. 莫斯科交易所将暂停英镑交易
+1. 河南嵩山龙门不敌上海海港
+1. 2022灵魂莲华皮肤公布
 
 ## 明星榜
 
@@ -80,10 +80,10 @@
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [小城夏天]() - LBI利比
 1. [借月](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d76e7ea23ac444178d5ce194ca141856) - 王天阳
-1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
+1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [帶我去找夜生活]() - 告五人
-1. [100（全曲汽水音乐听）-Tizzy T](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
-1. [Calling My Phone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
+1. [100（全曲汽水音乐听）-Tizzy T](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
+1. [Calling My Phone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [晚点告白]() - 葛雨晴
 1. [千里共婵娟（剪辑版）]() - 程响
@@ -107,22 +107,22 @@
 1. [NATASHA (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
 1. [粉色海洋]() - 周杰伦
 1. [微风吹（剪辑版）]() - 李润祺
-1. [NUNA2.0 (双人版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
+1. [NUNA2.0 (双人版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
 1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [西楼别序](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
-1. [人世间（电视剧《人世间》主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0ce87baf52a436c8e1d53bd2bc66d87) - 雷佳
+1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0ce87baf52a436c8e1d53bd2bc66d87) - 雷佳
 1. [平凡的一天]() - 毛不易
 1. [须尽欢（降调版）]() - 郑浩
 1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
 1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [邂逅一夏（女声版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0bd5bfb2e4d74c5591891fd14ff85a1b) - 余佳运/王OK(王澳珂)
-1. [โต๊ะริม - Melt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [โต๊ะริม - Melt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a9315380427a4088b0aaa11093a69b46) - DoubleBam & JIXGO & sarah salola
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [隆里电丝（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/71295eab838a43b2a4d5bb5f6bf8dbf7) - 盛宇D-SHINE/刘聪KEY.L
 1. [人间朝暮（Part1）]() - 袁小葳
 1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [星河水手 (片段1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5709aaf265c4127b9e561651a509a9a) - 刘思鉴
+1. [星河水手 (片段1)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5709aaf265c4127b9e561651a509a9a) - 刘思鉴
 1. [月亮底下看月亮 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/835eecfa9a274c1baa528c93ae62f4e1) - 陈雅森&石大侠 (石颖)
 1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
