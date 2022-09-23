@@ -11,25 +11,26 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-09-23 22:30:50 +0800`
+`更新时间：2022-09-23 23:22:43 +0800`
 
 ## 抖音热榜
 
 1. 牛了个牛游戏
-1. 灭活疫苗与肺结节风险无关
-1. 面向困难老人建设家庭养老床位
-1. 官方回应新疆拍到不明发光体
 1. 富士康回应拆除苹果生产线
+1. 面向困难老人建设家庭养老床位
+1. 黄晓明王鸥新剧复古风造型
+1. 灭活疫苗与肺结节风险无关
 1. 飘香九月遇见万亩金黄
-1. 美国核航母群抵韩
 1. 唐山打人案主犯获刑24年
-1. 今年第15号台风塔拉斯生成
-1. 电影平凡英雄定档国庆
+1. 美国核航母群抵韩
 1. 赠台大熊猫团团出现癫痫症状
+1. 今年第15号台风塔拉斯生成
+1. V5改名NIP
 1. 孙力军被判死缓
 1. 垫底辣孩哪吒造型
 1. iOS16.0.2正式版紧急发布
 1. 唐山案主犯法庭上痛哭流涕
+1. 误发收礼记录老师被停职
 1. 全网帮冬冬向37求婚
 1. 俄乌外长在联合国激烈交锋
 1. 周深看了都要愣两秒
@@ -39,32 +40,31 @@
 1. 央视揭秘羊了个羊诈骗陷阱
 1. 诸葛亮逝世1788周年
 1. 警方回应教师疑言语骚扰女学生
-1. 台风奥鹿生成
+1. 下课后同学仍和老师激情battle
 1. 内蒙古发现新种群
+1. 理想L8将于30日公布售价
 1. 爸爸掏钱给女儿全班买桌椅
-1. 女子面试被说太漂亮不可靠
-1. 虚颜开播
-1. V5改名NIP
-1. 中国女篮47分大胜波黑
-1. 史上最清晰海王星照片
 1. 浙江衢州8车追尾1死2伤
+1. 台风奥鹿生成
+1. 美不再限制进口中国钕磁体
+1. 虚颜开播
 1. 安卓灵动岛APP上架
 1. 对话泄洪英雄甘宇家属
-1. 重庆人国庆的快乐要来了
+1. 女子面试被说太漂亮不可靠
 1. 俄称掌握美生物实验室罪证
 1. 姆巴佩一条龙破门
 1. 河北的第一场雪
-1. 行星跳跃说唱派对开启
 1. 陈继志等28人获刑
-1. 成毅剧抛脸
-1. 美不再限制进口中国钕磁体
+1. 电影平凡英雄定档国庆
+1. 重庆人国庆的快乐要来了
 1. 四川新增本土43+30
-1. 理想L8将于30日公布售价
-1. 上海不再全面禁止路边摊
 1. 黑龙江新增本土15+221
+1. 中国女篮47分大胜波黑
+1. 成毅剧抛脸
 1. 今日秋分
 1. 湖北新增16例本土无症状
-1. 山东新增12例本土无症状
+1. 上海不再全面禁止路边摊
+1. 潮汕人有多爱吃朥
 
 ## 明星榜
 
@@ -77,37 +77,37 @@
 ## 音乐榜
 
 1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
+1. [羊了个羊 - BGM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [NUNA2.0 (双人版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
-1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
-1. [100（全曲汽水音乐听）-Tizzy T](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
+1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
+1. [100（全曲汽水音乐听）-Tizzy T](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
 1. [可能（治愈版）]() - 李怡然同学
 1. [帶我去找夜生活]() - 告五人
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [A Thousand Miles]() - Josh Vietti
 1. [输入法打可爱按第五]() - INTO1米卡
-1. [Upupu（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
-1. [Shut Down](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a8c181fa4e43451bb3665ea9b90cf2b9) - BLACKPINK
-1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [气氛组（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a9dda5dadab4747bcb593075453d460) - 徐真真2Real & 杨溢升
+1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
+1. [Shut Down](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a8c181fa4e43451bb3665ea9b90cf2b9) - BLACKPINK
+1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [气氛组（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a9dda5dadab4747bcb593075453d460) - 徐真真2Real & 杨溢升
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
 1. [我是如此相信]() - 周杰伦
 1. [In The Shadow Of The Sun]() - Professor Green
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [万物起舞 (剪辑版)]() - 梁倩雨
-1. [NATASHA (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
+1. [NATASHA (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
 1. [粉色海洋]() - 周杰伦
 1. [小城夏天]() - LBI利比
-1. [Timber](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e6300b884d2457cac554841378d8954) - Walk of Shame
+1. [Timber](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e6300b884d2457cac554841378d8954) - Walk of Shame
 1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [DISCO ](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/712d09d8e33b488797cdd707ce4cf070) - 金润吉
-1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [微风吹（剪辑版）]() - 李润祺
 1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
 1. [我的月亮（剪辑版）]() - 苏星婕
@@ -118,14 +118,14 @@
 1. [如风过耳 剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2fea2fc5edb54954a79e94c07d3900b4) - 少囧
 1. [孤勇者]() - 陈奕迅
 1. [阴天快乐 (主歌)]() - 彭宇昕
-1. [迷人的危险_完整版汽水音乐听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0c7fee2880cd4d85857b1704ab478a44) - 吴九三
-1. [Sunroof](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
-1. [诀爱 (电视剧《苍兰诀》燃爱主题曲)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9e4bf7b46341f9b61fa147bbc0b56e) - 詹雯婷Faye
+1. [迷人的危险_完整版汽水音乐听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0c7fee2880cd4d85857b1704ab478a44) - 吴九三
+1. [Sunroof](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/526d5d9bf04f44e088aa0630b417d101) - Nicky Youre & dazy
+1. [诀爱 (电视剧《苍兰诀》燃爱主题曲)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9e4bf7b46341f9b61fa147bbc0b56e) - 詹雯婷Faye
 1. [平凡的一天]() - 毛不易
-1. [Mystery of Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
+1. [Mystery of Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
 1. [借月](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d76e7ea23ac444178d5ce194ca141856) - 王天阳
 1. [西楼别序](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e23a96f493c2460886cb74669352f6d4) - 尹昔眠/小田音乐社
-1. [下一个天亮-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
+1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
 
 ## 品牌榜
 
