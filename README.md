@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-04 11:46:59 +0800`
+`更新时间：2022-10-04 13:01:30 +0800`
 
 ## 抖音热榜
 
+1. 特朗普向CNN索赔4.75亿美元
 1. 九月九忆重阳
-1. 狗狗进公园被拦收2元停车费
 1. 高清回顾问天舱转位全过程
-1. 双向敷衍的爱情
+1. 抖音退休生活图鉴
+1. 民警用可乐扑灭冒烟货车
 1. 年年逢重阳 岁岁皆平安
 1. 伊瓜因宣布赛季后退役
-1. 呼和浩特共78个高风险区
-1. 伊藤美诚爱看猪猪侠
-1. 民警用可乐扑灭冒烟货车
+1. 殷桃万里归途哭戏感染力
+1. 昆明本轮疫情传染源锁定
+1. 男孩上交4眼蓝血小怪物
 1. 31省区市新增本土250+626
-1. 专家：新冠病毒不存在真正物传人
 1. 四川新增本土21+26
-1. 特朗普向CNN索赔4.75亿美元
-1. 主线任务夺回秋雅
+1. 瑞典父子同获诺贝尔奖
+1. 黑豹2新预告
 1. 日方称朝鲜导弹飞过日本上空
 1. 王宝强金扫帚获奖感言
-1. 终于轮到庄羽追妻火葬场了
+1. 双向敷衍的爱情
 1. 景区现孙悟空高空翻筋斗云
 1. 美国1.5万移民抵纽约
-1. 黑豹2新预告
-1. 大国重器轰20长什么样
-1. 虚颜结局反转
-1. 胡同林一给关晓彤披衣服
 1. 河南迎入冬式降温
-1. 原神欢宴正酣时宝箱攻略
-1. 记者将陈梦问懵了
+1. 大国重器轰20长什么样
+1. 炽道金晨王安宇被窝打闹
+1. 张朝阳：杨振宁比霍金更伟大
+1. 胡同林一给关晓彤披衣服
+1. 主线任务夺回秋雅
+1. 伊藤美诚爱看猪猪侠
 1. 苹果高管谈灵动岛
-1. 云南新增本土14+27
+1. 威少清空社媒
 1. 大考潘小宣得抑郁症
 1. 女孩设计汉服带奶奶变装
 1. 香港报复式演出
-1. 王鹤棣跳舞还得有人辅助
+1. LOL2023季前赛装备改动
 1. 女子夜爬泰山如历劫
 1. 当韩国人吃中国零食
 1. 底线全员飙演技大赏
+1. 王鹤棣跳舞还得有人辅助
 1. 降温后的天津人
-1. 瑞典父子同获诺贝尔奖
 1. 假如00后当老师
-1. 小车礼让婚车把自己倒进沟里
-1. 威少清空社媒
-1. 殷桃万里归途哭戏感染力
-1. 内蒙古本土新增151+226
-1. 水煮滑肉的懒人做法
-1. 红大大眼影画法
+1. 两条北溪管道都已停止泄漏
+1. 欧文晒与女儿合照
+1. 原神欢宴正酣时宝箱攻略
+1. 终于轮到庄羽追妻火葬场了
+1. 记者将陈梦问懵了
 1. 陈都灵莲花楼杀青照
+1. 呼和浩特共78个高风险区
+1. 小车礼让婚车把自己倒进沟里
+1. 天津新增19例本土阳性
 1. 周博文让爸爸不要给人希望
-1. 昆明本轮疫情传染源锁定
-1. 于和伟男人的战争人设
-1. 日本停用阿斯利康新冠疫苗
-1. 北京新增本土1+1
+1. 内蒙古本土新增151+226
+1. 专家：新冠病毒不存在真正物传人
 
 ## 明星榜
 
@@ -76,18 +76,18 @@
 
 ## 音乐榜
 
-1. [羊了个羊 - BGM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
+1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
 1. [骗子]() - 文夫
 1. [玫瑰少年]() - 五月天
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
-1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [NUNA2.0 (双人版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
-1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
+1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
+1. [NUNA2.0 (双人版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
+1. [Upupu（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
 1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [A Thousand Miles]() - Josh Vietti
 1. [输入法打可爱按第五]() - INTO1米卡
 1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
@@ -95,13 +95,13 @@
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
 1. [只若初见 (剪辑版)]() - 张德伊玲
-1. [Reason To Stay](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6ca6375c2e9c4a91a058307f43192fac) - Olivia Dean
+1. [Reason To Stay](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6ca6375c2e9c4a91a058307f43192fac) - Olivia Dean
 1. [Mystery of Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
 1. [100（片段）- Tizzy T](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
 1. [微风吹（剪辑版）]() - 李润祺
 1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [粉色海洋]() - 周杰伦
-1. [晚风记得（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4414b4b4ab1b4a0284fe87061fc3e067) - 刘大拿
+1. [晚风记得（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4414b4b4ab1b4a0284fe87061fc3e067) - 刘大拿
 1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [可能 (剪辑版)]() - 李怡然同学
 1. [我是如此相信]() - 周杰伦
@@ -125,7 +125,7 @@
 1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [平凡的一天]() - 毛不易
 1. [云底人间_晴天姐妹_完整版已上线]() - 晴天姐妹
-1. [下一个天亮-颜人中](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
+1. [下一个天亮-颜人中](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/708711beff664743880de4d894dbe1fc) - 颜人中
 
 ## 品牌榜
 
