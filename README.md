@@ -11,20 +11,20 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-07 02:28:34 +0800`
+`更新时间：2022-10-07 03:26:05 +0800`
 
 ## 抖音热榜
 
 1. 马龙11比0
 1. 记者重走甘宇失联获救路线
 1. 跟着航天员挑战体能
-1. 特警暖心捂枪口与女孩合影
 1. 这拍照方式也太酷炫了
-1. 詹姆斯说文班亚马像外星人
+1. 大量海货涌现烟台海滩
+1. 两个人的小森林热度破万
 1. 婚宴临近众村民提刀来帮忙
 1. 看了50集假苍兰诀
-1. 两个人的小森林热度破万
 1. 人民网评万里归途
+1. 特警暖心捂枪口与女孩合影
 1. 梁朝伟也逃不过韩式比心
 1. 三悦有了新工作高馆长患癌
 1. 男生的床都这样吗
@@ -37,34 +37,34 @@
 1. 成熟男人开始反击了
 1. 美国副总统哈里斯遇车祸
 1. 华春莹发13张图宣传中国建造
-1. 英国首相演讲被打断
+1. 詹姆斯说文班亚马像外星人
 1. 赵文卓与角动量
 1. 泰国枪击案凶手射杀妻儿后自尽
-1. 刘德华赞万里归途很震撼
+1. 杨迪买第一套房是婚房
+1. 暧昧期果然令人上头
 1. 段宇成树下偷亲罗娜
-1. 万里归途细节
-1. 煎饼加料太多吃出下颌关节炎
+1. 泰国枪击案已致36死
 1. 男子回城拉30斤菜油漏一车
 1. 小米12T Pro开箱
-1. 大量海货涌现烟台海滩
+1. 莫迪体验印度半高铁
 1. 200名NBA球探观战文班亚马
 1. 哈登晃倒迪恩韦德
-1. 情侣住酒店遇单面窗隐私疑泄露
-1. 暧昧期果然令人上头
-1. 爱似水仙翻唱
-1. 莫迪体验印度半高铁
-1. 男子酒驾冲卡撞飞交警
-1. OPEC+宣布石油减产
+1. 煎饼加料太多吃出下颌关节炎
+1. 河南局部迎雨夹雪天气
 1. 米切尔骑士首秀
+1. 爱似水仙翻唱
+1. 男子酒驾冲卡撞飞交警
+1. 万里归途细节
+1. 刘德华赞万里归途很震撼
 1. 普京延迟部分人群动员义务
 1. 印度少年被电视机碎片扎中身亡
-1. 我们该如何看待食品添加剂
-1. 我的眼里都是你
-1. 杨迪买第一套房是婚房
-1. 萧无敌消失了
-1. 泰国枪击案已致36死
-1. 墨西哥一市政大厅遭毒贩血洗
+1. 英国首相演讲被打断
+1. 曝追梦向勇士道歉
+1. 教资报考人数10年翻66倍
 1. 卢凌风现身搭救苏无名
+1. 萧无敌消失了
+1. 墨西哥一市政大厅遭毒贩血洗
+1. 情侣住酒店遇单面窗隐私疑泄露
 
 ## 明星榜
 
@@ -76,21 +76,21 @@
 
 ## 音乐榜
 
-1. [羊了个羊 - BGM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
+1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
 1. [骗子]() - 文夫
 1. [玫瑰少年]() - 五月天
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
-1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [NUNA2.0 (双人版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
+1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
+1. [NUNA2.0 (双人版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
 1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
 1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [A Thousand Miles]() - Josh Vietti
 1. [输入法打可爱按第五]() - INTO1米卡
-1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
+1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
@@ -101,13 +101,13 @@
 1. [微风吹（剪辑版）]() - 李润祺
 1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [粉色海洋]() - 周杰伦
-1. [晚风记得（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4414b4b4ab1b4a0284fe87061fc3e067) - 刘大拿
+1. [晚风记得（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4414b4b4ab1b4a0284fe87061fc3e067) - 刘大拿
 1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [可能 (剪辑版)]() - 李怡然同学
 1. [我是如此相信]() - 周杰伦
 1. [须尽欢（降调版）]() - 郑浩
 1. [等风也等卿 (剪辑版)]() - 兔裹煎蛋卷
-1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [气氛组（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0a9dda5dadab4747bcb593075453d460) - 徐真真2Real & 杨溢升
 1. [我心中有些事 (汽水音乐首发)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9a6cb8e3614740dab61e278a64140215) - 弹壳
 1. [万物起舞 (剪辑版)]() - 梁倩雨
