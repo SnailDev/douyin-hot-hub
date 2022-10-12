@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-12 15:28:32 +0800`
+`更新时间：2022-10-12 16:26:54 +0800`
 
 ## 抖音热榜
 
-1. 12岁小学生身高1.9米
 1. 日本火箭发射失败
+1. 李宇春自曝患强直性脊柱炎
 1. 天宫课堂今日再开讲
 1. 全球买家抛售美债
-1. 仲音：躺平不可取躺赢不可能
-1. 专家：人民币大幅贬值可能性低
+1. 我在抖音上北大
+1. 26岁的她开车样子太帅了
 1. 内娱集体夺回秋雅
 1. 游戏王漫画作者因救人溺亡
-1. 超硬核自报家门
 1. 大考大结局
-1. 两个人的小森林大结局
-1. 男子酒后骑自行车被交警拦下
-1. 黄霄雲浴室飙高音
+1. 专家：人民币大幅贬值可能性低
+1. 小伙沉迷游戏20年没回家
 1. 剥柚子的正确方法
+1. 航天学霸1年9个月拿博士学位
+1. 黄霄雲浴室飙高音
 1. 俄称大桥恐袭策划者确定
 1. 31省区市新增本土374+1386
-1. 一等功臣喜报到家
+1. 当全家开启催产模式
 1. 男子团购排骨煮后呈鸡皮状
 1. 50万现金烧焦银行兑回24万
-1. 网剧听见我的声音开播
+1. 拜登相信自己能再击败特朗普
 1. 被幼儿园小孩打篮球帅到
-1. 上海：自我健康管理期可上班
-1. 当全家开启催产模式
-1. 26岁的她开车样子太帅了
-1. 男子蓝牙耳机喷出火星
-1. 萌娃刚吃一口米粉倒头就睡
-1. 王鹤棣将出演错撩
+1. 男子酒后骑自行车被交警拦下
+1. 两个人的小森林大结局
+1. 一等功臣喜报到家
+1. 仲音：躺平不可取躺赢不可能
+1. 超硬核自报家门
 1. 北约将进行核震慑演习
-1. 双人咏春拳的魅力
-1. 挑战任老师背音标速度
-1. 海贼王1063话最新情报
+1. 萌娃刚吃一口米粉倒头就睡
+1. 拜登谈G20是否与普京会面
 1. 德总理反对与中国脱钩
-1. 哈兰德2亿欧解约金将生效
+1. 双人咏春拳的魅力
+1. 海贼王1063话最新情报
 1. 景甜冯绍峰灼灼风流路透
 1. 第一次看到防窥的烟花
 1. 女子给乞讨老人5毛硬币被扔回
-1. 巴黎1比1本菲卡
-1. 当直男给女朋友买衣服时
-1. 直击火箭军导弹发射大场面
-1. 日本取消单日入境人数上限
-1. 河南新增本土13+45
+1. 曝勇士下周与普尔续约
+1. 欧洲人开启花式取暖
+1. 网剧听见我的声音开播
+1. 压箱底旧衣服穿搭挑战
 1. 山西新增本土78+57
 1. 多地检出BF.7变异株
 1. 微瑕是什么梗
+1. 男子蓝牙耳机喷出火星
+1. 许凯虞书欣仙剑六吊威亚路透
+1. 格林普尔和解
+1. 当直男给女朋友买衣服时
 1. 大考在洪水中高考的原型
-1. 底线保姆偷包案
-1. 压箱底旧衣服穿搭挑战
-1. 外交部：不赞成脱钩断链
-1. 阿联酋总统与普京进行会谈
-1. 小伙大学后沉迷游戏20年没回家
+1. 哈兰德2亿欧解约金将生效
+1. 新一批免购置税车型目录
+1. 温子仁监制新片梅根
 
 ## 明星榜
 
@@ -76,30 +76,30 @@
 
 ## 音乐榜
 
-1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
-1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
+1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [骗子]() - 文夫
 1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
 1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
-1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [小城夏天]() - LBI利比
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [Shots - Broiler Extended Club Remix]() - Imagine Dragons
 1. [歌唱祖国]() - <东方红>合唱队
 1. [Every Second](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c8b7e582feca4fe5ba73b1af1666fbfc) - Mina Okabe
-1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
-1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
+1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
 1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
-1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [KATAKOTO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [我爱你中国]() - 汪峰
 1. [我是如此相信]() - 周杰伦
-1. [星月落（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64f6a265eb564060b6567ad99582aaca) - 浮生梦
+1. [星月落（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64f6a265eb564060b6567ad99582aaca) - 浮生梦
 1. [微风吹（剪辑版）]() - 李润祺
 1. [只若初见 (剪辑版)]() - 张德伊玲
 1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
 1. [不回头的人 (剪辑版)]() - 苏星婕
-1. [Cookie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25c33d7d3a304d978b4b10c503bcc8fc) - NewJeans
+1. [Cookie](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25c33d7d3a304d978b4b10c503bcc8fc) - NewJeans
 1. [我还记得那天（剪辑版）]() - 沈以诚
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [快乐的扑满]() - 我杀猪了
@@ -107,7 +107,7 @@
 1. [Tiktok Baby (剪辑版2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [须尽欢（降调版）]() - 郑浩
 1. [玫瑰少年]() - 五月天
-1. [우리 얘기 좀 해](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
+1. [우리 얘기 좀 해](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
 1. [Calling My Phone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
 1. [粉色海洋]() - 周杰伦
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
@@ -119,12 +119,12 @@
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [驴旅人（主歌）]() - 宋宇宁
 1. [我不愿让你一个人]() - 五月天
-1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
+1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
 1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
-1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
+1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [누가 봐도 우린 (Be My Love)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
-1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
+1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [晚点告白]() - 葛雨晴
 
 ## 品牌榜
