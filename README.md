@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-13 07:24:13 +0800`
+`更新时间：2022-10-13 09:56:57 +0800`
 
 ## 抖音热榜
 
 1. 小学生1.9米被体育局选中
-1. 男子误转8千多元被退回
+1. 巴萨3比3国米
 1. 把大国工程画进千里江山图
-1. 这哪里是上课犯困
-1. 高校回应毛概老师颜值引关注
-1. 内娱得救靠大学生了
-1. 哥哥辅导妹妹写作业被气哭
-1. 曝勇士下周与普尔续约
+1. 热刺3比2法兰克福
 1. 飞机拜拜员实际叫机务
-1. 广东连高速公路都是精装修
+1. 内娱得救靠大学生了
+1. 曝勇士下周与普尔续约
+1. 女子用面粉洗头洗出面絮
+1. 哥哥辅导妹妹写作业被气哭
+1. 31省区市新增本土322+1154
 1. 伴娘拿麻将六万随礼看懵大爷
 1. 唐朝诡事录为什么受欢迎
-1. 两个人的小森林大结局
-1. 京东金融将停止转账服务
-1. 文在寅退休后成带货高手
+1. 上海新增本土3+44
+1. 辽宁新增本土32+19
+1. 洞洞鞋寄生综合征
 1. 23岁高龄猫咪被围观
 1. 酒后骑自行车违法吗
 1. 周迅无名造型曝光
-1. 二十大召开时间
-1. 渲染核末日风险后拜登又改口
-1. 意大利天然气价格暴涨超770%
-1. 我在抖音上北大
 1. 俄对欧输油管道出现泄漏
-1. RTX4090性能解禁
-1. 52岁保安在公园里画彩蛋
 1. 9个月宝宝吐奶吐出图钉
-1. 王鹤棣将出演错撩
+1. 男子误转8千多元被退回
+1. 我在抖音上北大
+1. 意大利天然气价格暴涨超770%
+1. RTX4090性能解禁
+1. 内蒙古新增本土53+276
+1. 新型新冠疫苗研发取得进展
 1. 哈登回应降薪续约
-1. 林书豪广州男篮首秀
-1. 海贼王1063话最新情报
+1. 今年冬季会是冷冬吗
+1. 萨拉赫7分钟帽子戏法
 1. 复联6推迟上映
 1. 内娱集体夺回秋雅
-1. 李宇春自曝患强直性脊柱炎
-1. 刘洋用2米长吸管喝果汁
-1. 大考大结局
-1. 煎饼摊主长相酷似周杰伦
-1. 摇滚狂花彭莱亲情线
-1. 网传泰安封城为不实信息
-1. 一等功臣喜报到家
-1. Meta发布全新VR头显
-1. 云南重拳打击整治养老诈骗
-1. 女子给乞讨老人5毛被扔回
-1. 听见我的声音青梅竹马变情侣
-1. 看水球在太空如何变懒
-1. 粉黛乱子草的浪漫氛围感
+1. 孙怡男人装十月封面
+1. 京东金融将停止转账服务
+1. 给4090装空调外机
 1. 广东队闭环抵达杭州赛区
-1. 国乒派王楚钦等4人出战亚洲杯
-1. 定位之父艾里斯辞世
+1. 52岁保安在公园里画彩蛋
+1. 广东连高速公路都是精装修
+1. 山西新增本土24+71
+1. 一等功臣喜报到家
+1. 马克龙穿上高领毛衣
+1. 摇滚狂花彭莱亲情线
+1. 宋茜诉网友侵权获赔3万
+1. 马斯克进军香水行业
+1. 这哪里是上课犯困
+1. 海贼王1063话最新情报
+1. 云南重拳打击整治养老诈骗
+1. 护士跪地救人后收到感谢信
 1. 俄称大桥恐袭策划者确定
 1. 游戏王漫画作者因救人溺亡
+1. 煎饼摊主长相酷似周杰伦
 
 ## 明星榜
 
@@ -76,21 +76,21 @@
 
 ## 音乐榜
 
-1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [骗子]() - 文夫
 1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
-1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
-1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
+1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [小城夏天]() - LBI利比
 1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [Shots - Broiler Extended Club Remix]() - Imagine Dragons
 1. [歌唱祖国]() - <东方红>合唱队
 1. [Every Second](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c8b7e582feca4fe5ba73b1af1666fbfc) - Mina Okabe
-1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
-1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
-1. [西厢寻他(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
-1. [KATAKOTO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
+1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
+1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
+1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [我爱你中国]() - 汪峰
 1. [我是如此相信]() - 周杰伦
@@ -107,21 +107,21 @@
 1. [Tiktok Baby (剪辑版2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [须尽欢（降调版）]() - 郑浩
 1. [玫瑰少年]() - 五月天
-1. [우리 얘기 좀 해](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
+1. [우리 얘기 좀 해](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
 1. [Calling My Phone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
 1. [粉色海洋]() - 周杰伦
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [那时以为]() - 苏星婕
 1. [沦陷与心动]() - 王忻辰+杨瑜婷
 1. [小河淌水1952]() - 法老/龚琳娜
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [太阳下山有月光]() - 歪歪超
 1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [驴旅人（主歌）]() - 宋宇宁
 1. [我不愿让你一个人]() - 五月天
 1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
-1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
+1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
+1. [或许（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [누가 봐도 우린 (Be My Love)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
 1. [hallo每一天（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
