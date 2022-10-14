@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-14 10:11:08 +0800`
+`更新时间：2022-10-14 12:51:13 +0800`
 
 ## 抖音热榜
 
-1. 官方：不能以静默代替管控
-1. 专家：中国人受新冠影响最小
+1. 9月CPI同比上涨2.8%
+1. 辣子豆腐烩菜懒人做法
 1. 梦天实验舱将于本月发射
-1. 曼联1比0奥莫尼亚
-1. 我好像发现了飞机遛遛员
-1. 拜登口误
-1. 亿万富翁：美联储正抽干股市
+1. 数1万粒米算奇葩作业吗
+1. 12组卫星图看中国十年巨变
+1. 杜兰特谈追梦拳打普尔
 1. 我的秘密室友开播
-1. EDG晋级S12八强
+1. 曼联1比0奥莫尼亚
 1. T1再次击败EDG
 1. 31省份新增本土249+1010
+1. 长沙三孩及以上家庭每孩补贴1万
 1. RNG八人确诊
-1. 京东副总裁已申请病休
+1. 苹果不送充电器被罚1.4亿
+1. 拜登口误
+1. 京杭大运河晨雾好似水墨画
 1. 特朗普将被传唤
 1. 上海新增本土2+47
 1. 摇滚狂花姥姥是搞笑担当吧
-1. T1战胜FNC
-1. 呼市调整核检结果展示流程
-1. EDG世界赛ELOG
+1. 二十大新闻发布会时间确定
+1. 北京新增本土16+8
+1. 韩宣布对朝实施单边制裁
+1. 白俄罗斯进入反恐行动状态
 1. 老师在空荡教室站着上网课
-1. 老板回应4碗粿条545元
-1. iPhone不送充电器被巴西罚款约1.4亿
-1. 三悦有了新工作配角演技
-1. 这是一种很新的母女关系
+1. EDG晋级S12八强
 1. 内蒙古新增本土56+181
 1. 苏州拟定向回购1万套房源
-1. 官方回应为何不能与病毒共存
-1. 脑瘫女孩看妈妈受伤满眼心疼
-1. 普京提议在土耳其建天然气枢纽
-1. 妈妈信偏方致宝宝毳毛硬如猪毛
-1. 荣耀X40 GT上手体验
-1. 这次张翰真的不油了
-1. 爸爸教女儿用鼻子吹蜡烛
-1. 南京一夜就美成了金陵
-1. 乌克兰基辅州遭俄武装攻击
-1. 孙海洋回应直播带货
-1. 吴尊友：新冠后遗症范围广
-1. 数1万粒米算奇葩作业吗
-1. 栓Q哥和大嘴主播梦幻联动
-1. 沈阳将调整疫情防控措施
-1. 当代人血液里有一半是咖啡
-1. 赵露思陈哲远身高差
-1. 外交部点赞意大利航天员
 1. 81岁奶奶轻松跳绳千个
-1. 4岁孤独症男孩的绝对音感
-1. 护花使者翻唱
+1. 7所大陆高校入榜全球前100
+1. 湛江女子晒老家朴实无华酒席
 1. 老师鼓励全班帮听障女孩练说话
-1. 无手小哥街头摆摊捏泥人
-1. 换乘恋爱2刷新我的择偶标准
+1. 这次张翰真的不油了
+1. 京东副总裁已申请病休
+1. 浙江发现一处高等级墓葬
+1. 爸爸教女儿用鼻子吹蜡烛
+1. 马斯克接受美国政府调查
+1. 不是教练车我一般开不顺手
+1. 詹姆斯转发中国夫妻趣味视频
+1. 美联储被指正在抽干股市
+1. 栓Q哥和大嘴主播梦幻联动
+1. 当代人血液里有一半是咖啡
+1. 三悦有了新工作配角演技
+1. 赵露思陈哲远身高差
+1. 季前赛灰熊轻取活塞
+1. 王鹤棣是来密逃干饭的吧
+1. 法国开始向德输送天然气
+1. 脑瘫女孩看妈妈受伤满眼心疼
+1. Lemon Tree手势舞
+1. 外交部点赞意大利航天员
+1. 法国呼吁美气卖便宜些
 1. 沙特拒美暂缓石油减产计划
 
 ## 明星榜
@@ -86,12 +86,12 @@
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [Shots - Broiler Extended Club Remix]() - Imagine Dragons
 1. [歌唱祖国]() - <东方红>合唱队
-1. [Every Second](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c8b7e582feca4fe5ba73b1af1666fbfc) - Mina Okabe
-1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
-1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
+1. [Every Second](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c8b7e582feca4fe5ba73b1af1666fbfc) - Mina Okabe
+1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
+1. [You're Beautiful](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
 1. [西厢寻他(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e6fffa033a174a2cb6425bfcc28b7d5d) - 唐伯虎Annie、伯爵Johnny
-1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
-1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [KATAKOTO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
+1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [我爱你中国]() - 汪峰
 1. [我是如此相信]() - 周杰伦
 1. [星月落（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64f6a265eb564060b6567ad99582aaca) - 浮生梦
@@ -101,14 +101,14 @@
 1. [不回头的人 (剪辑版)]() - 苏星婕
 1. [Cookie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25c33d7d3a304d978b4b10c503bcc8fc) - NewJeans
 1. [我还记得那天（剪辑版）]() - 沈以诚
-1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [快乐的扑满]() - 我杀猪了
-1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [Tiktok Baby (剪辑版2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
+1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
+1. [Tiktok Baby (剪辑版2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/409234e9be76489d9e51cf47453104f6) - 947.ASH
 1. [须尽欢（降调版）]() - 郑浩
 1. [玫瑰少年]() - 五月天
 1. [우리 얘기 좀 해](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
-1. [Calling My Phone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
+1. [Calling My Phone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
 1. [粉色海洋]() - 周杰伦
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [那时以为]() - 苏星婕
@@ -116,10 +116,10 @@
 1. [小河淌水1952]() - 法老/龚琳娜
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [太阳下山有月光]() - 歪歪超
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [驴旅人（主歌）]() - 宋宇宁
 1. [我不愿让你一个人]() - 五月天
-1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
+1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
 1. [Cool Kids](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
 1. [或许（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9f28eadc95fd446ea33d23555c7f02ed) - LBI利比
 1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
