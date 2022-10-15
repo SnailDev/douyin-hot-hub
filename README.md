@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-15 10:02:07 +0800`
+`更新时间：2022-10-15 12:40:44 +0800`
 
 ## 抖音热榜
 
-1. 走进运20生产车间
 1. 二十大将于16日10时开幕
+1. 中国航天员圆梦太空19周年
 1. 二十大新闻发布会时间确定
 1. 中国6G专利全球占比近半
+1. 利拉德：詹姆斯曾招募我
+1. 首套房贷利率破4%城市扩容
+1. 梅西伤愈复出
+1. 中国射击队获巴黎奥运首个席位
 1. 专家：家长别包办亲子作业
-1. 月球每年远离地球3.8厘米
-1. 快递将禁用不可降解塑料袋
-1. 哈利波特海格扮演者去世
-1. 331名中国官兵获联合国勋章
-1. 浙江一村庄建厂连续5年分红
-1. 大张伟焦迈奇改编鬼才
+1. FIFA盛赞U17女足门将刘晨
+1. 31省份新增本土291+900
+1. JDG翻盘DK成为小组第一
 1. 詹雯婷张远诀爱舞台
-1. 外交部回应美方芯片新禁令
-1. 男子心跳停1小时获救
-1. 施罗德手指受伤
+1. 哈利波特海格扮演者去世
+1. 追梦格林谈归队
 1. 梵高向日葵被泼番茄汤
-1. 女生收到奶奶牌时尚毛衣
-1. 我的秘密室友曹征人设
-1. 金瀚手臂肌肉线条
-1. 印尼总统视察雅万高铁
-1. 火锅料理师成为新职业工种
-1. JDG晋级八强
-1. 我们的歌4第四期
-1. 日本修改法律限制燃气用量
-1. 电热毯概念彩虹集团股价暴涨
-1. 回力回应运动鞋底拆出剪刀
-1. 马克龙称不会为乌动用核武
-1. 曹云金纠正学员数据错误
-1. 土豆吕严封神了
+1. 接下来两个月的长沙长这样
+1. 伊朗：北约扩张破坏亚洲安全
+1. 张彬彬3部剧被考古
+1. 月球每年远离地球3.8厘米
 1. 女子炸糍粑像放炮
-1. 头盔的使用寿命有多久
-1. 摇滚狂花姚晨哭戏
-1. 初中女生跳高1.56米
-1. 三悦母女和解
+1. 快递将禁用不可降解塑料袋
+1. 这蛋糕是钢筋混凝土做的吗
+1. 我的秘密室友曹征人设
+1. JDG晋级八强
+1. 3女子为晕倒老人搭出安全岛
+1. 俄11座机场限制措施延期
+1. 这套设备待命20年从未用过
+1. 曹云金纠正学员数据错误
+1. 万里归途全球首映礼海报
 1. 摇滚狂花彭莱情场得意
-1. 詹雯婷张远合唱我们的爱
-1. 特朗普回应遭传唤
-1. 是时候献出虞美人vlog了
-1. Faker总击杀升至历史第一
-1. 美国警察遭枪手伏击
-1. 美国高考平均分30年最低
-1. 被老奶奶的球技帅到了
-1. 老同学显摆大会真实了
-1. 倪妮卷宗封面
-1. 欧洲人买爆中国人过冬八件套
-1. 8颗稀有蓝钻将拍卖
-1. 山东新增本土无症状13例
-1. 虞书欣许凯仙剑六片场路透
-1. 大同新增6个高风险地区
-1. 广州地铁三号线人和站B口封闭
+1. 日本修改法律限制燃气用量
+1. 印尼总统视察雅万高铁
+1. 马克龙称不会为乌动用核武
+1. 摇滚狂花姚晨哭戏
+1. 土豆吕严封神了
+1. 女生收到奶奶牌时尚毛衣
+1. 我们的歌4第四期
+1. 三悦母女和解
+1. 331名中国官兵获联合国勋章
+1. 回力回应鞋底拆出剪刀
+1. 不是教练车我一般开不顺手
+1. 三维动画感受中国创新
+1. 苏有朋喜爱度再获第一
+1. 小朋友走丢只记得同学的名字
+1. 中国载人航天史上的9个首次
+1. 这波反向面试老板被整不会了
+1. 阚清子哭戏感染力
+1. 冬奥会之后绿电能源去了哪
+1. 外交部回应美方芯片新禁令
 
 ## 明星榜
 
@@ -78,10 +78,10 @@
 
 1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
-1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [小城夏天]() - LBI利比
 1. [Crystal Dolphin](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd19cd1df1964b5ebd39c976b7ce126d) - Engelwood
-1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
+1. [在草地上肆意奔跑(片段)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/53a701c9c2fa45a0b21bb0c91aa90880) - 傅如乔
 1. [须尽欢（降调版）]() - 郑浩
 1. [不回头的人 (剪辑版)]() - 苏星婕
 1. [只若初见 (剪辑版)]() - 张德伊玲
@@ -95,35 +95,35 @@
 1. [等风也等卿 (剪辑版)]() - 兔裹煎蛋卷
 1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [ 一笑倾城](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [恶作剧]() - 林依晨
 1. [Every Second](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c8b7e582feca4fe5ba73b1af1666fbfc) - Mina Okabe
-1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
+1. [追寻你（万物复苏版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [帶我去找夜生活]() - 告五人
 1. [Timber](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e6300b884d2457cac554841378d8954) - Walk of Shame
 1. [You're Beautiful](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/95be745d658f43fe9be3642ce0d729a2) - Peaceful Melody & soave lofi
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [See Tình (Speed Up Version)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
-1. [桃花诺](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a54b246720d9465b881245982cc2fb48) - 邓紫棋
-1. [羊了个羊 - BGM](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
+1. [See Tình (Speed Up Version)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d17f4144d6544f5482aa8a0601b602e0) - Hoàng Thùy Linh
+1. [桃花诺](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a54b246720d9465b881245982cc2fb48) - 邓紫棋
+1. [羊了个羊 - BGM](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c74e9f73da7e495fa6854c61c78a6765) - 小丫丫
 1. [可能（治愈版）]() - 李怡然同学
 1. [Calling My Phone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3126c3e48d8b4a0bb3254fc24a80029e) - Lil Tjay & 6LACK
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
-1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
+1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [面纱]() - 张艺兴
 1. [在等风]() - 贺子玲
 1. [粉色海洋]() - 周杰伦
 1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
 1. [不想回家 (剪辑版1)]() - G.E.M.邓紫棋
 1. [泡沫 (郑添媛版)]() - 郑添媛
-1. [100（片段）- Tizzy T](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
-1. [Upupu](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/100d73f889714d60b9d6979fb5a05e26) - 刘大拿
-1. [KATAKOTO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
-1. [Cookie](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25c33d7d3a304d978b4b10c503bcc8fc) - NewJeans
-1. [在树上唱歌（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a447721c8f964b66a678f719c43db2af) - 阿肆
-1. [Behind The Clouds - Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f37b9cdda205415ba0fc648141cc526b) - yaeow
+1. [100（片段）- Tizzy T](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
+1. [Upupu](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/100d73f889714d60b9d6979fb5a05e26) - 刘大拿
+1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bcb17646872445da696fd2975b9f587) - sloppy dim
+1. [Cookie](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/25c33d7d3a304d978b4b10c503bcc8fc) - NewJeans
+1. [在树上唱歌（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a447721c8f964b66a678f719c43db2af) - 阿肆
+1. [Behind The Clouds - Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f37b9cdda205415ba0fc648141cc526b) - yaeow
 1. [우리 얘기 좀 해](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/afc1629a9ee04271a707e43c2dd2fbd3) - Lillo (릴로)
 1. [누가 봐도 우린 (Be My Love)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/82c95bb0e16940f0b30a04f3fc741af7) - EXO-CBX(첸백시)
 
