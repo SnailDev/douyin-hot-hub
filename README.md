@@ -11,25 +11,24 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-10-29 05:17:40 +0800`
+`更新时间：2022-10-29 06:19:51 +0800`
 
 ## 抖音热榜
 
-1. 鹤岗被确定为中等城市
 1. 成都市监局突击检查T97咖啡
-1. 中国式现代化为世界提供新理念
 1. 各方回应是人还是斯人
-1. 见义勇为的南京胖哥领证结婚
-1. 俄首个3D打印村庄开工
-1. 王栎鑫又吐了
-1. 赵睿被垫脚
-1. JDG能拿下T1吗
-1. 社恐为逃避聚会能有多努力
+1. 中国式现代化为世界提供新理念
+1. 林孝埈将首次代表中国队参赛
+1. 江西又现桃花水母
+1. 刘德华和好声音学员合唱中国人
 1. 胡歌古装新造型
+1. 李克勤梁玉莹合唱飞花氛围感
+1. JDG能拿下T1吗
+1. 留学生发现老师学写汉字
+1. 王栎鑫又吐了
 1. 南京本轮毒株为BA.5.2分支
 1. 佩洛西丈夫在家中遇袭
 1. 义乌商家50天赶工10万个足球
-1. 林孝埈将首次代表中国队参赛
 1. 美方核讹诈吓不倒中国
 1. 樊振东2比3不敌奥恰洛夫
 1. 新冠长期后遗症影响逐渐显露
@@ -40,31 +39,32 @@
 1. 52人被通报学术不端
 1. 苹果发布iOS 15.7.1正式版
 1. 多方回应内工大转运密接学生
-1. 李克勤梁玉莹合唱飞花氛围感
-1. 库克：iPhone满意度达98%
+1. 见义勇为的南京胖哥领证结婚
 1. 女子自称天使吃饭不买单
+1. 库克：iPhone满意度达98%
+1. 社恐为逃避聚会能有多努力
 1. 特朗普方辟谣将重返推特
-1. 中国好声音总决赛巅峰之夜
-1. 卡塔尔取消入境核检要求
-1. 刘德华和好声音学员合唱中国人
-1. 江西又现桃花水母
-1. 马王堆汉墓丝织品上有成句文字
-1. 新iPad Pro评测
-1. 留学生发现老师学写汉字
 1. 如果潘玮柏有三百斤
+1. 卡塔尔取消入境核检要求
+1. 中国好声音总决赛巅峰之夜
+1. 鹤岗被确定为中等城市
+1. 赵睿被垫脚
 1. 71岁父亲为3岁女儿庆生
+1. 俄首个3D打印村庄开工
+1. 新iPad Pro评测
+1. 马王堆汉墓丝织品上有成句文字
 1. 广州海珠疫情传播指数降到3.2
-1. 普京：将面对二战后最危险十年
+1. 道教学院学生的日常
 1. 爷爷幼儿园接错娃
-1. 马斯克收购推特意味着什么
 1. 红米Note 12 Pro+评测
+1. 普京：将面对二战后最危险十年
 1. 普京评价英前首相特拉斯
 1. 罗娜段宇成互相成就的爱情
+1. 网剧遇见你之后开播
 1. 福布斯公布NBA各队估值
-1. 同曦轻取宁波队
-1. 美国第三季度GDP增长2.6%
-1. 道教学院学生的日常
+1. 马斯克收购推特意味着什么
 1. 木偶戏翻唱
+1. 美国第三季度GDP增长2.6%
 
 ## 明星榜
 
@@ -76,13 +76,13 @@
 
 ## 音乐榜
 
-1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
-1. [雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
-1. [勋章 Medals](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9b76f8a05eae433fb25f6e9524ee156d) - 鹿晗
+1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
+1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
+1. [勋章 Medals](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9b76f8a05eae433fb25f6e9524ee156d) - 鹿晗
 1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [KATAKOTO](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c2b2f5a0d95349eb9c9e0d7bef00bc9d) - sloppy dim
-1. [如果的事（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
+1. [如果的事（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/324a764a5a68407e99e6ead9f5a22e3d) - Terry Zhong 钟天利/杜宣达/小包Zerinn
 1. [星月落（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64f6a265eb564060b6567ad99582aaca) - 浮生梦
 1. [All Designer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d57ee52535cf48e58f2988ea5455424c) - HEDEGAARD & CANCUN?
 1. [Nxde](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIX3f18tZUgCZQQbRlIOGAnjZy3eDBR6BgZmqV) - (G)I-DLE
@@ -98,10 +98,10 @@
 1. [帶我去找夜生活]() - 告五人
 1. [A Thousand Miles]() - Josh Vietti
 1. [天下]() - 谢娜 & 张杰
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [故事还长]() - 云汐
 1. [Cool Kids](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb53961b549943f2b97f436a450f92d3) - Echosmith
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
 1. [어른 아이](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b46a0146aad64d38857966fc80128d7e) - SEVENTEEN
 1. [可能（治愈版）]() - 李怡然同学
 1. [恶作剧]() - 林依晨
@@ -113,14 +113,14 @@
 1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
 1. [Upupu（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f05adf8a32ec4a9290c3215caa938174) - 小皮皮爱习题
 1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/651f30a826dc43cbb6becf6b048f9541) - Chris James
-1. [难却 (吉他版) (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
+1. [难却 (吉他版) (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28b5f782f9944ca399e9078a30c9697a) - 祥嘞嘞
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [NUNA2.0 (双人版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
-1. [NATASHA (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
+1. [NUNA2.0 (双人版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb6083b682a343c29cd19acc67fac1e4) - 队长/叶琼琳
+1. [NATASHA (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
 1. [天气未报（安静版）]() - 余佳运
 1. [100（片段）- Tizzy T](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/497c57a463ec438fb1bd780d7cdd581f) - Tizzy T
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
 1. [秋](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/da45cfce5f7e42d79fb0090ab36523f4) - BCD Studio Oran
 1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [exile](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/77ec4f6b0999429186ada733032d8a0b) - Taylor Swift
