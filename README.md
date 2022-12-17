@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-12-17 21:17:29 +0800`
+`更新时间：2022-12-17 22:13:02 +0800`
 
 ## 抖音热榜
 
+1. 喉咙吞刀片有救了
 1. 发烧之后要不要用被子捂汗
-1. 管泽元暗示今晚季军赛会加时
 1. 尽最大努力保障群众就医用药
-1. 疫情期间5类人群膳食建议
-1. 李兰娟：最后的胜利就在眼前
+1. 克罗地亚vs摩洛哥
+1. 全国冻哭预警地图来了
 1. 内马尔回国开派对遭批
-1. 世界杯决赛现场将播放心墙
-1. 儿童感染新冠的护理和用药重点
-1. 吴尊友：新十条出台时机合适
-1. 卡西预测阿根廷2比1法国
+1. 山西一隧道4车追尾已7死
+1. 美国或将拥有51州
+1. 李兰娟：最后的胜利就在眼前
+1. 山东血库告急
+1. 黄牛倒卖美林一瓶2500元被抓
 1. 岳云鹏分享阳了的感受
 1. 货主回应生猪到货后掉秤5吨
 1. 村医把1000片药分成百份送人
-1. 克罗地亚vs摩洛哥
 1. 成都回应疑男女副区长不雅聊天
-1. 用宝鹃嗓唱铿锵玫瑰
-1. 白鹿送餐被烫到跳舞
-1. 财阀家的小儿子凶手是谁
+1. 苏州部分采样屋改成发热诊疗站
+1. 世界杯决赛现场将播放心墙
+1. 为什么咽口水像吞刀片
 1. 病了才知道免疫系统有多努力
 1. 抗原阳性7天后可献血
 1. 欧文绝杀猛龙
 1. 女子25元一支私卖抗原被立案
-1. 拒绝鼻塞小妙招
-1. 阳了以后家里东西怎么办
-1. 美国或将拥有51州
+1. 卡西预测阿根廷2比1法国
+1. 吴尊友：新十条出台时机合适
 1. 海南岛电影节开幕式红毯
-1. 义乌阿根廷三星球衣为侵权产品
-1. 范志毅黄健翔畅聊决赛那些事
-1. 儿媳阳性公婆从外地赶回照顾
+1. 药房连花清瘟进销差价率538%
+1. 财阀家的小儿子凶手是谁
+1. 儿童感染新冠的护理和用药重点
+1. 吴尊友：今冬疫情面临一峰三波
+1. 常州市民晒免费发的抗疫药
 1. 各地增援快递员陆续抵京
 1. 克罗地亚vs摩洛哥比分预测
-1. 药房连花清瘟进销差价率538%
-1. 盘点本届世界杯的真假预言家
-1. 吴尊友：今冬疫情面临一峰三波
+1. 义乌阿根廷三星球衣为侵权产品
 1. 为什么不建议抗原自行混检
-1. 世界杯预言家已上线
-1. 山西一隧道4车追尾已7死
-1. 梅西和阿奎罗又住一起了
-1. 阿凡达2好看吗
-1. 你们都给我变鸟
+1. 无限超越班演员遭遇压力面试
+1. 白鹿送餐被烫到跳舞
 1. 贵阳海关查获41盒活体幼虫
+1. 阳了以后家里东西怎么办
+1. 阿凡达2好看吗
+1. 儿媳阳性公婆从外地赶回照顾
+1. 浙江机关单位带头不查核酸
 1. 赵露思神隐红裙造型
-1. 张杰清唱逆战为摩洛哥加油
-1. 在家做红糖姜葱汤
-1. 中医教你按摩穴位缓解头痛
-1. 抗原试剂没必要大量囤货
-1. 为什么咽口水像吞刀片
-1. 世界最大独立圆柱体水族馆爆裂
-1. 全国冻哭预警地图来了
+1. 你们都给我变鸟
+1. 盘点本届世界杯的真假预言家
+1. 原来梅西生日是阿根廷节日
 1. 女生囤药一次没吃全过期
+1. 二次感染比例有多高
+1. 俄乌冲突最新进展解读
+1. 世界最大独立圆柱体水族馆爆裂
+1. 梅西和阿奎罗又住一起了
 
 ## 明星榜
 
@@ -76,25 +76,25 @@
 
 ## 音乐榜
 
-1. [Snoop Catt_汽水听全曲](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
-1. [我的眼里只有你 (《风吹半夏》电视剧插曲) (汽水音乐首发)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInfugraoClfyQDMRbzGayaDNkKOxASjRgFCeG) - INTO1-周柯宇
+1. [Snoop Catt_汽水听全曲](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
+1. [我的眼里只有你 (《风吹半夏》电视剧插曲) (汽水音乐首发)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInfugraoClfyQDMRbzGayaDNkKOxASjRgFCeG) - INTO1-周柯宇
 1. [化作烟火为你坠落]() - 袁小葳/阿辰
 1. [故事还长]() - 云汐
-1. [假装 (女版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osdfgI4Un9kwYCjnADbDFtIWuewfnGDaIQCzu9) - 池鱼
-1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
-1. [梦里花（纯白的茉莉花）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQwJQenaZtBuNoX4GTDQbrBCCMMgvGizkjb2ne) - 苏星婕
+1. [假装 (女版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osdfgI4Un9kwYCjnADbDFtIWuewfnGDaIQCzu9) - 池鱼
+1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
+1. [梦里花（纯白的茉莉花）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQwJQenaZtBuNoX4GTDQbrBCCMMgvGizkjb2ne) - 苏星婕
 1. [Poppy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0143af4c43b14068917d9bd7e05330b9) - STAYC
 1. [l  wanted  you (BGM女声版)]() - 13C
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [吟](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
-1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [Omocha no Cha Cha Cha](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ec86addd1fe4c7a87af5e8bb7a0eb4e) - Nonochan(Nonoka Murakata)
+1. [吟](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
+1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [Omocha no Cha Cha Cha](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ec86addd1fe4c7a87af5e8bb7a0eb4e) - Nonochan(Nonoka Murakata)
 1. [小城夏天]() - LBI利比
-1. [再见我的女孩 (副歌)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhsZHUWAR0KY1zJAwt6fhBoFsIuiGaSAyqxVW) - 烟(许佳豪)
+1. [再见我的女孩 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owhsZHUWAR0KY1zJAwt6fhBoFsIuiGaSAyqxVW) - 烟(许佳豪)
 1. [等着我回来 (副歌)]() - 戴羽彤
 1. [Peaches - Acoustic Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d053c5831ae5418b9fd8b59c2a6c6a1c) - Harryan Yoonsoan
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
-1. [狂恋（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
+1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
 1. [我搞不懂 (副歌)]() - 甘草片r
 1. [谁的生活不是鸡零狗碎 (吕口口版)]() - 吕口口
 1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
@@ -108,21 +108,21 @@
 1. [赐我]() - 一只白羊
 1. [小城画师]() - 李小贝
 1. [我们应该算爱过吧]() - 郑鱼
-1. [Shut up My Moms Calling](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d40301b58d8d47e990e3897e88a0fa89) - Hotel Ugly
-1. [Hurt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
+1. [Shut up My Moms Calling](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d40301b58d8d47e990e3897e88a0fa89) - Hotel Ugly
+1. [Hurt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
 1. [阿珍爱上了阿强]() - 五条人乐队
 1. [雾起海岸]() - 苏星婕
-1. [Billie Bossa Nova](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e606ccb8ac3448f1a60d034592d4f108) - Billie Eilish
+1. [Billie Bossa Nova](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e606ccb8ac3448f1a60d034592d4f108) - Billie Eilish
 1. [现在的我（还在一个人过）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cb0ab1bceed4d3d97c171b913397e49) - 刘大壮
 1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [Funkytown]() - Lipps Inc.
-1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
+1. [能不能 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
 1. [迟来的情话 (女声版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAozQ7adh26IUTfwxi0BX83tViCsAaWxOIAA1A) - Zkaaai
-1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
-1. [晚风心里吹（片段1）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
-1. [清醒（弹唱版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ffe8a51a8f24e9f9e4d539623c3f29b) - 姜铭杨
+1. [可愛くてごめん (feat. かぴ)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
+1. [晚风心里吹（片段1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/504672ab830c472fa6a5870195b458a9) - 阿梨粤
+1. [清醒（弹唱版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ffe8a51a8f24e9f9e4d539623c3f29b) - 姜铭杨
 1. [帶我去找夜生活]() - 告五人
-1. [NATASHA (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
+1. [NATASHA (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/00020502707449e8a2e22cdc400511ab) - NINEONE赵馨玥
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [BAD SAD AND MAD](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8U70nQQMpe8BeTbtgZv9QjCizZ3dCZZDoxBLk) - 비비 (BIBI)
 1. [你不是真正的快乐]() - 五月天
