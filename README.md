@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2022-12-24 19:12:27 +0800`
+`更新时间：2022-12-24 20:25:36 +0800`
 
 ## 抖音热榜
 
 1. 新冠患者怎么合理就医
 1. 巴媒：梅西35岁夺冠给内马尔灵感
 1. 首架C919本月26日起验证飞行
-1. 垫底辣孩看营销号掌握流量密码
-1. 转阴后咳嗽要多久才能恢复
+1. 我不期待平安夜
+1. 72年前志愿军为中国打下平安夜
 1. 2023年央视春晚彩排
-1. 浙江采购100万片对乙酰氨基酚片
 1. 曝C罗与门德斯不和
 1. 梅婷终于活成了冯远征
-1. 西游记太上老君扮演者郑榕逝世
-1. 女子称赠药延误被踹门辱骂
 1. 考研第一天
+1. 女子称赠药延误被踹门辱骂
+1. 世界杯结束后的卡塔尔
+1. 西游记太上老君扮演者郑榕逝世
 1. PDD全家都阳了就自己没事
+1. 林俊杰咖啡调调音乐会直播
+1. 32岁博士感染新冠去世
 1. 网传张子枫胡先煦三搭新电影
-1. 枪杀安倍嫌犯被正式起诉
+1. 女神酒店是懂美女的
+1. 垫底辣孩看营销号掌握流量密码
 1. 巴西政府已开始筹备贝利葬礼
-1. 哈兰德上班了
-1. 电影想见你结局是HE
-1. 高清镜头看布洛芬释放过程
 1. 李家超：香港内地逐步实现全面通关
+1. 枪杀安倍嫌犯被正式起诉
 1. 阳了先补充点营养吧
 1. 今天是平安夜
-1. 导演谢晋儿子去世
-1. 32岁博士感染新冠去世
 1. 著名粤语相声大师杨达辞世
+1. 导演谢晋儿子去世
+1. 多地将迎疫情高峰
+1. 浙江采购100万片退烧药
+1. 转阴后咳嗽要多久才能恢复
+1. 20万法国人请愿重踢世界杯决赛
+1. 电影想见你结局是HE
+1. 摩洛哥队将捐出2500万欧奖金
+1. 这退烧贴属实有点厉害了
+1. 高清镜头看布洛芬释放过程
 1. 瓷器厂圣诞大战
-1. 我不期待平安夜
-1. 郑州商场烟火气回来了
-1. 世界杯结束后的卡塔尔
-1. 篮网18分大胜雄鹿
-1. 上海徐汇推出阳性隔离关爱套餐
-1. 少年歌行游本昌一开口就泪目了
+1. 新疆井下坍塌事故18人被困
+1. 哈兰德上班了
+1. 国家卫健委：重症患者逐渐增多
+1. 江苏你是懂圣诞的
 1. 考研英语
 1. 千元一位的烤鸽子在吃什么
-1. 多地将迎疫情高峰
-1. 摩洛哥队将捐出2500万欧奖金
-1. 如果C罗是世界杯冠军
-1. 王府井教堂圣诞树超有氛围感
-1. 看看谁家小狗更可爱
-1. 女神酒店是懂美女的
-1. 杨超越是懂买彩票的
-1. 国家卫健委：重症患者逐渐增多
+1. 北京王府井圣诞树超有氛围感
 1. 二次感染会伤害免疫系统吗
-1. 贵州和广西相比
+1. 如果C罗是世界杯冠军
+1. 看看谁家小狗更可爱
 1. 各路方言版水果榨汁来上分
-1. 喉咙不舒服适合喝什么汤
+1. 回来的女儿中年组全是狠人
 1. 阳了后为什么会嗓子疼
-1. 江苏你是懂圣诞的
-1. 有办法快速转阴吗
-1. 东莞日增感染人数超25万
+1. 杨超越是懂买彩票的
+1. 少年歌行游本昌一开口就泪目了
+1. 贵州和广西相比
 
 ## 明星榜
 
@@ -88,12 +88,12 @@
 1. [l  wanted  you (BGM女声版)]() - 13C
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [他真的对你好吗（剪辑版1）]() - 付豪
-1. [Poppy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0143af4c43b14068917d9bd7e05330b9) - STAYC
+1. [Poppy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0143af4c43b14068917d9bd7e05330b9) - STAYC
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [谁的生活不是鸡零狗碎 (吕口口版)]() - 吕口口
-1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [小城夏天]() - LBI利比
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
 1. [Waka Waka- Kids United Nouvelle Génération](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [Ditto](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUOJAIA7eFrQLK5mrGeoeM0drg1mAx2dekXPHA) - NewJeans
@@ -104,28 +104,28 @@
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [Funkytown]() - Lipps Inc.
 1. [晚风心里吹 (剪辑版2)_张叔公_全网可听]() - 张叔公emo了
-1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
 1. [故事终章 (剪辑版)]() - 程响
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [我的眼里只有你 (《风吹半夏》电视剧插曲) (汽水音乐首发)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInfugraoClfyQDMRbzGayaDNkKOxASjRgFCeG) - INTO1-周柯宇
-1. [Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec1c933119a4722bc7d15cb815cc975) - Ozuna & GIMS & RedOne
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [我的眼里只有你 (《风吹半夏》电视剧插曲) (汽水音乐首发)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oInfugraoClfyQDMRbzGayaDNkKOxASjRgFCeG) - INTO1-周柯宇
+1. [Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dec1c933119a4722bc7d15cb815cc975) - Ozuna & GIMS & RedOne
 1. [孤勇者]() - 陈奕迅
 1. [Розовое Вино (Remix )](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b475ad8cee46a298ae4eef1f447d52) - 林怿
 1. [能不能 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fc4a6c45b4a34277ba4088e1d7fdff98) - 吴映香
 1. [化作烟火为你坠落]() - 袁小葳/阿辰
 1. [小神仙]() - 郭斯
 1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
-1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
-1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
+1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [sun and moon](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a7c699932f84c15a27fb33e7ce40d1d) - anees
 1. [不及她可爱 (片段)]() - 张德伊玲
 1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
-1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [Omocha no Cha Cha Cha](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ec86addd1fe4c7a87af5e8bb7a0eb4e) - Nonochan(Nonoka Murakata)
+1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [Omocha no Cha Cha Cha](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8ec86addd1fe4c7a87af5e8bb7a0eb4e) - Nonochan(Nonoka Murakata)
 1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
-1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
+1. [可愛くてごめん (feat. かぴ)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 
 ## 品牌榜
 
