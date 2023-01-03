@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-03 17:15:43 +0800`
+`更新时间：2023-01-03 18:16:45 +0800`
 
 ## 抖音热榜
 
 1. 阿根廷民众烧梅西雕像庆祝新年
-1. 梅西返回巴黎
+1. 克莱54分
 1. 阳康后需做全身体检吗
-1. 这是一种很新的聊天方式
+1. C罗合同中不含租借纽卡条款
 1. 电影纸人回魂是懂中式惊悚的
-1. 第一次用恶心来形容一个烟花
 1. 2023春节档已官宣五部电影
-1. 鹰眼扮演者意外受伤
-1. 不敢想象鸡年春节会变成啥样
 1. 去有风的地方开播
+1. 这是一种很新的聊天方式
+1. 赵露思神隐红衣破碎感路透
+1. 梅西返回巴黎
 1. 漂移之王肯布洛克因事故去世
-1. 演员杜熊文去世
-1. 妇联回应灰太狼的羊被家暴
+1. 第一次用恶心来形容一个烟花
 1. 警方通报河南鹿邑警车被破坏
 1. 乌方宣布对63名俄军死亡负责
+1. 妇联回应灰太狼的羊被家暴
+1. 鹰眼扮演者意外受伤
 1. 阳性和康复中禁止做医美
 1. 欧文单臂补扣
 1. 刘亦菲对阿姨这个称呼的执念
 1. 米切尔71分
-1. AED标识是什么意思
+1. 泉州警方通报油罐车爆炸事故
 1. 远方传来风笛是什么梗
 1. 小姐姐捡到手机自拍留证
 1. 河南鹿邑燃放烟花引发骚乱
-1. 泉州警方通报油罐车爆炸事故
-1. 当韩国女孩在中国过新年
-1. 绝对音准的错误用法
-1. 姆巴佩篮网主场观赛
+1. 乐视实行每周四天半工作制
+1. 曾轶可工作室回应维权
+1. 上网课学生被要求投屏聊天记录
+1. 张小斐交换人生穿秋裤花絮
 1. 台湾黑帮头目当街遭枪击身亡
 1. 女子煮鸡蛋发现蛋中蛋
 1. 张婉婷听到宋宁峰的话秒哭
 1. 老君山景区就游客滞留致歉
-1. 三亚18万每晚酒店一房难求
 1. 男子身高2.89米成世界最高
-1. 贝利母亲送别儿子
-1. 赵露思神隐红衣破碎感路透
+1. 不敢想象鸡年春节会变成啥样
+1. 三亚18万每晚酒店一房难求
 1. 虞书欣张凌赫云之羽紫衣路透
 1. 咳嗽本身不引起肺炎
 1. 浙江嘉兴发现无嘴鱼
 1. 成龙现身央视春晚联排
 1. 杨迪说真是倒了八辈子霉
-1. 曾轶可工作室回应维权
-1. 想见你李子维终于求婚成功
-1. 浙江近期感染病例数日增约百万
+1. 姆巴佩篮网主场观赛
 1. 篮网胜马刺豪取12连胜
+1. 浙江日增感染病例约百万
+1. 贝利母亲送别儿子
 1. 中医药防疫中的3个作用
-1. 叶时蓝遭遇网暴
-1. 王鹤棣浮图缘未播吻戏
-1. 中国奇谭妖界社畜实录
-1. 利雅得全城都是欢迎C罗海报
-1. 专家：不至于3个月一波疫情
+1. AED标识是什么意思
+1. 想见你李子维终于求婚成功
+1. 王鹤棣片场给陈钰琪扇风
+1. 2023央视春晚第二次联排
+1. 感染后哪种咳嗽不能硬扛
 
 ## 明星榜
 
@@ -83,11 +83,11 @@
 1. [想见你想见你想见你-想见你电视剧片尾曲]() - 电视原声带
 1. [梦里花（纯白的茉莉花）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQwJQenaZtBuNoX4GTDQbrBCCMMgvGizkjb2ne) - 苏星婕
 1. [l  wanted  you (BGM女声版)]() - 13C
-1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
+1. [雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [Ditto](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUOJAIA7eFrQLK5mrGeoeM0drg1mAx2dekXPHA) - NewJeans
-1. [Christmas List](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItOfjQhB1RBPzMUtYhdQOghwFiljIfPqbCZw) - Anson Seabra
-1. [Hurt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
-1. [祝你聖誕快樂](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7b158c937d6c4bf8ba6ada35b6446501) - Lynne Music Project
+1. [Christmas List](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQItOfjQhB1RBPzMUtYhdQOghwFiljIfPqbCZw) - Anson Seabra
+1. [Hurt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
+1. [祝你聖誕快樂](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7b158c937d6c4bf8ba6ada35b6446501) - Lynne Music Project
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [Funkytown]() - Lipps Inc.
@@ -95,34 +95,34 @@
 1. [阿珍爱上了阿强]() - 五条人乐队
 1. [赐我]() - 一只白羊
 1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
-1. [没什么能给你 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osbzQak2CIe4dBoD6eCPoooKASeUDHFyQCngGD) - 张艺兴
+1. [没什么能给你 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osbzQak2CIe4dBoD6eCPoooKASeUDHFyQCngGD) - 张艺兴
 1. [F*ck Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
 1. [Just Say Hello (甘草片版)]() - 甘草片r
-1. [Waka Waka- Kids United Nouvelle Génération](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
+1. [Waka Waka- Kids United Nouvelle Génération](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 1. [眼泪记得你]() - 孙盛希
 1. [预言-打扰一下乐团现场版 (晨曦live)]() - 打扰一下乐团
-1. [Love on the Weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c46c96e2e5894ed3b7872d8444dcde95) - Aria Ohlsson
+1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c46c96e2e5894ed3b7872d8444dcde95) - Aria Ohlsson
 1. [Empty Love(2)]() - xxxCr3
-1. [Tiktok Baby（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1631fea652ea4e9694c05e71bbe719d6) - 947.ASH
+1. [Tiktok Baby（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1631fea652ea4e9694c05e71bbe719d6) - 947.ASH
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [就忘了吧（DJ Ah版）]() - 1k
 1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [你像星空]() - 傅梦彤
-1. [it’s ok!](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [圣诞结XMAS (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQ9LIt7bzAmxfNVWQih0WGIa0AoUOcbwNSsSjB) - VansDaddy
-1. [Oh My (全曲汽水音乐听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0bCEA9QnBB8ZeYhSQGq1xC6w9TgfjL9ntZwDp) - 虞书欣
+1. [Oh My (全曲汽水音乐听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0bCEA9QnBB8ZeYhSQGq1xC6w9TgfjL9ntZwDp) - 虞书欣
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [黄昏晓 (Shake9.慢速版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
-1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
+1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
+1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
+1. [狂恋（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
 1. [小神仙]() - 郭斯
 1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [sun and moon](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a7c699932f84c15a27fb33e7ce40d1d) - anees
-1. [the way life goes slowed](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd5ae69525be4dbe81b0839ba9f0e03a) - zaney
-1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [the way life goes slowed](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd5ae69525be4dbe81b0839ba9f0e03a) - zaney
+1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 1. [给你给我]() - 毛不易
 1. [四季予你 (kioty. 0.8X版)_完整版就在汽水音乐]() - 程响
 1. [我记得]() - 赵雷
