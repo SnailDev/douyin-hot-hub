@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-09 16:20:43 +0800`
+`更新时间：2023-01-09 17:16:24 +0800`
 
 ## 抖音热榜
 
-1. 曝C罗所住套房每月25万镑
 1. 杜兰特伤退
+1. 顾南亭开启追妻模式
 1. 春运出行个人防护要点
 1. 央视春晚第三次联排
-1. 未成年人寒假仅14小时游戏时间
 1. 33岁男子酗酒20年骨头坏死
-1. 白敬亭跳WaDaDa
-1. 河南新冠病毒感染率近九成
-1. 王一博已有两部电影官宣定档
-1. 脑梗父亲摔倒儿子飞奔抱头
 1. 扬州通报网传干部生活作风问题
+1. 白敬亭跳WaDaDa
+1. 李现新剧台词内涵韩商言
+1. 未成年人寒假仅14小时游戏时间
+1. 王一博已有两部电影官宣定档
 1. 喜羊羊竟成反派了
+1. 周杰伦和刘欢都沉默了
 1. 张伟丽向泰森道歉
 1. 姑娘来京见男友却遭拉黑
 1. 买熟牛肉切开发现硬纸片
-1. 顾南亭开启追妻模式
-1. 退烧次日返岗 就医时接近白肺
+1. 哈里王子炮轰继母卡米拉
+1. 赵露思神隐白色纱裙路透
 1. 郑州四车发生连撞
 1. 被浮图缘预告虐麻了
-1. 我想离开浪浪山
+1. 银行副总裁飞机上对女乘客小便
 1. 曾黎给王鹤棣哭戏配音
-1. 韩国飞中国机票一票难求
+1. 油价春节前或下调
 1. 官方回应长清一中高考听力卡顿
-1. 娜扎直言在意恋爱对象的过往
-1. 这也许是最后一次梅罗对决
+1. 我想离开浪浪山
+1. 美国再制裁6人
 1. 河南春晚阵容官宣
-1. 地球没了黑夜人类会怎样
-1. 中国奇谭里的母爱
-1. 哈里王子炮轰继母卡米拉
-1. 女子拍到云朵化身的锦鲤
-1. 赵露思神隐白色纱裙路透
-1. 驾校回应大货车侧翻压扁教练车
-1. 奥尼尔准绝杀热火
-1. 刘亦菲去有风的地方怼脸戏
-1. 河南南阳新发现多处岩画
-1. 巴西国会被安全部队夺回
-1. 假面骑士blacksun变身
-1. 邓紫棋高音飙到了光年之外
-1. 舌苔刷居然还是去闭口神器
-1. C罗利雅得首秀时间确定
-1. 陈楚生越来越嚣张
-1. 陈钰琪回应浮图缘被叫楼姐
-1. 官员为给自己制造政绩强行填海
-1. 河北4000万补贴乳企确保不再倒奶
-1. 想好新年美甲做什么了吗
+1. 贪官收一箱水果打开是百万现金
+1. 印度北部重镇下沉
+1. 脑梗父亲摔倒儿子飞奔抱头
+1. 张庭TST公司成被执行人
+1. 这也许是最后一次梅罗对决
 1. 中国奇谭林林解析
-1. 新晋阴阳师沸羊羊
-1. 江洋大盗模拟器
-1. 姚迪确认将出国打球
-1. 张朝阳董宇辉明明切磋物理
+1. 驾校回应大货车侧翻压扁教练车
+1. 刘亦菲去有风的地方怼脸戏
+1. 巴西国会被安全部队夺回
+1. 以爱为营结婚路透
+1. 假面骑士blacksun变身
+1. 奥尼尔准绝杀热火
+1. 娜扎直言在意恋爱对象的过往
+1. 陈钰琪回应浮图缘被叫楼姐
+1. 潘玮柏把火龙果穿在身上
+1. 河南南阳新发现多处岩画
+1. 中国奇谭里的母爱
+1. GDP两万亿城市已增至7个
+1. 地球没了黑夜人类会怎样
+1. 韩国飞中国机票一票难求
+1. 想好新年美甲做什么了吗
+1. 女子拍到云朵化身的锦鲤
+1. 邓紫棋高音飙到了光年之外
+1. 曹德旺称活下去是硬道理
 
 ## 明星榜
 
@@ -79,42 +79,42 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [l  wanted  you (BGM女声版)]() - 13C
 1. [等着我回来 (副歌)]() - 戴羽彤
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [Wake (Live)]() - Hillsong Young & Free
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [想见你想见你想见你-想见你电视剧片尾曲]() - 电视原声带
 1. [我记得]() - 赵雷
-1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
-1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 1. [陪你度过漫长岁月]() - 陈奕迅
-1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
+1. [可愛くてごめん (feat. かぴ)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [小城夏天]() - LBI利比
 1. [小神仙]() - 郭斯
 1. [Copilot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ba416a25242417bbe038cc267d87c29) - Helene Fischer
 1. [帶我去找夜生活]() - 告五人
 1. [赐我]() - 一只白羊
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [吟](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
+1. [吟](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
 1. [Hurt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
 1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [眼泪记得你]() - 孙盛希
 1. [我搞不懂 (副歌)]() - 甘草片r
 1. [巡光 (主歌版)]() - 就是南方凯
-1. [时间胶囊 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca7e1f1fe01140779366963b482695fc) - 永彬Ryan.B /丛琳潼elf
-1. [it’s ok!](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
+1. [时间胶囊 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca7e1f1fe01140779366963b482695fc) - 永彬Ryan.B /丛琳潼elf
+1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [Snoop Catt_已全网上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
-1. [Heaven](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
+1. [Snoop Catt_已全网上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
+1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
 1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [落在生命里的光（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4886c8fe75e6469081b67da6e3d65cbe) - 林俊杰
-1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c46c96e2e5894ed3b7872d8444dcde95) - Aria Ohlsson
-1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
-1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
+1. [Love on the Weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c46c96e2e5894ed3b7872d8444dcde95) - Aria Ohlsson
+1. [狂恋（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
+1. [云边书坊 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 1. [the way life goes slowed](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd5ae69525be4dbe81b0839ba9f0e03a) - zaney
-1. [假装 (女版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osdfgI4Un9kwYCjnADbDFtIWuewfnGDaIQCzu9) - 池鱼
+1. [假装 (女版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osdfgI4Un9kwYCjnADbDFtIWuewfnGDaIQCzu9) - 池鱼
 1. [故事还长]() - 云汐
 1. [可能]() - 米三岁/尤里卡
 1. [Funkytown]() - Lipps Inc.
