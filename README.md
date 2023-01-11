@@ -11,28 +11,28 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-11 15:14:46 +0800`
+`更新时间：2023-01-11 16:21:00 +0800`
 
 ## 抖音热榜
 
-1. 便装短发新娘被误认为伴郎
-1. 一家四人三亚溺水遇难
-1. 央企打响能源保供攻坚战
 1. iPhone16Pro或取消灵动岛
-1. 队友被C罗弹跳力惊呆
-1. 男子服刑29年判无罪申请国家赔偿
 1. 人在死前可以自己预感到吗
-1. iPhone已累计售出23.2亿台
-1. 男子恋爱俩月才知女友已四十
-1. 三亚失联男孩已离世
-1. 日本发红色挂件标记中国旅客
-1. 反对针对中国歧视性入境限制
+1. 央企打响能源保供攻坚战
 1. 曝李铁供出中超重量级人物
-1. 人民网评中国奇谭
+1. 家长炮轰中国奇谭 网民回怼
+1. 便装短发新娘被误认为伴郎
+1. 唐嫣杨蓉获评国家二级演员
+1. iPhone已累计售出23.2亿台
+1. 曝巴黎报价梅西4000万欧
+1. 三亚失联男孩已离世
+1. 队友被C罗弹跳力惊呆
+1. 韩外交部回应中国停发签证
+1. 1888万彩礼
 1. 泽连斯基：终止4人乌国籍
-1. 灰太狼的羊发文回应
 1. 余景天就机场拥堵事件道歉
 1. 藤萝为枝
+1. 少年歌行唐莲意难平
+1. 小孩往下水道扔鞭炮炸飞井盖
 1. 程耳喊王一博去吃饭
 1. 人民日报评电视收费乱象
 1. 塞尔维亚男子热情邀请中国游客
@@ -40,31 +40,31 @@
 1. 取暖器刺客
 1. 杨紫琼金球奖影后
 1. 张文宏称不缺药不要舍不得用
-1. 唐嫣杨蓉获评国家二级演员
-1. 韩外交部回应中国停发签证
-1. 人民网评余景天粉丝制造拥堵
-1. 家长炮轰中国奇谭 网民回怼
-1. 夏日不宜入爱河开播
-1. 追星不是扰乱公共治安的借口
-1. 特斯拉中国三天获3万辆订单
-1. 女孩穿嫁衣上门娶新郎
-1. 1200万被转走储户担责八成
-1. 哈里王子宣传新书大曝王室猛料
-1. 曝以爱为营剧组拖欠群演薪资
-1. 去有风的地方谈奶茶刺客
-1. 地磁暴是什么
-1. 全抖音在玩一种很新的找红包
-1. 库里缺席11场后复出
-1. 父亲帮女儿扔前男友送的假花
-1. 男子偷大伯万元白酒父亲怒报警
-1. 向风而行名场面看个够
-1. 官方玩梗最为致命
+1. 印度客机丢下乘客直接起飞
 1. 太阳4天内发出两次X级耀斑
+1. 夏日不宜入爱河开播
+1. 日本发红色挂件标记中国旅客
+1. 暂停签发韩日公民来华口岸签证
 1. 张文宏预测第2波感染高峰时间
+1. 一家四人三亚溺水遇难
+1. 人民网评中国奇谭
+1. 1200万被转走储户担责八成
 1. 太阳战胜勇士
-1. 苍兰诀入围年度全端最佳剧集
+1. 专家：春节不建议探望老人
+1. 去有风的地方谈奶茶刺客
+1. 网友提名内娱的188男团
+1. 全抖音在玩一种很新的找红包
+1. 追星不是扰乱公共治安的借口
+1. 曝以爱为营剧组拖欠群演薪资
+1. 人民网评余景天粉丝制造拥堵
+1. 吸引猫咪过来的声音
+1. 官方玩梗最为致命
+1. 地磁暴是什么
 1. 苹果将开始自产iPhone屏幕
-1. 少年歌行唐莲意难平
+1. 男子偷大伯万元白酒父亲怒报警
+1. 在潮汕发现一片玻璃海
+1. 去年有近3000万人拿了驾照
+1. 炸带鱼的正确方法
 
 ## 明星榜
 
@@ -92,26 +92,26 @@
 1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [小城夏天]() - LBI利比
 1. [小神仙]() - 郭斯
-1. [Copilot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ba416a25242417bbe038cc267d87c29) - Helene Fischer
+1. [Copilot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9ba416a25242417bbe038cc267d87c29) - Helene Fischer
 1. [帶我去找夜生活]() - 告五人
 1. [赐我]() - 一只白羊
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [吟](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
+1. [吟](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
 1. [Hurt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
 1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [眼泪记得你]() - 孙盛希
 1. [我搞不懂 (副歌)]() - 甘草片r
 1. [巡光 (主歌版)]() - 就是南方凯
-1. [时间胶囊 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca7e1f1fe01140779366963b482695fc) - 永彬Ryan.B /丛琳潼elf
+1. [时间胶囊 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca7e1f1fe01140779366963b482695fc) - 永彬Ryan.B /丛琳潼elf
 1. [it’s ok!](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0fc4d0ee28444bd0ab76e8b7c0003f52) - corook
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [Snoop Catt_已全网上线](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
+1. [Snoop Catt_已全网上线](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4J4oaCBhWzg5nW6K2webQaTHfMU9PeOLWHAFD) - 7teen/雾明
 1. [Heaven](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeNfUaiKKP4umZfAh40h7AP623iAXfHG1F2HQ) - Ailee
-1. [Own Way (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
+1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [落在生命里的光（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4886c8fe75e6469081b67da6e3d65cbe) - 林俊杰
 1. [Love on the Weekend](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c46c96e2e5894ed3b7872d8444dcde95) - Aria Ohlsson
-1. [狂恋（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
+1. [狂恋（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5f15632926e41d191233d633bf09ca8) - GALI/万妮达Vinida
 1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 1. [the way life goes slowed](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd5ae69525be4dbe81b0839ba9f0e03a) - zaney
 1. [假装 (女版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osdfgI4Un9kwYCjnADbDFtIWuewfnGDaIQCzu9) - 池鱼
