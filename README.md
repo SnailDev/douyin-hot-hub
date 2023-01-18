@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-18 17:15:40 +0800`
+`更新时间：2023-01-18 18:17:30 +0800`
 
 ## 抖音热榜
 
 1. 妈妈买900斤橘子等女儿回家过年
-1. 外媒称普京将发表重要声明
+1. 黄晓明对家人报喜不报忧
 1. 首艘国产航母山东舰新年首练
-1. 奶奶喝奶茶吐珍珠似豌豆射手
-1. 重庆街头巨型兔子遭吐槽
-1. 谢谢狂飙告诉我什么是演技
-1. 三亚大东海鲨鱼咬人系谣言
+1. 女孩给舅舅硬核喂饭
 1. 特朗普首任妻子留给保姆百万遗产
-1. 伍六七第四季开播
-1. 周焯华获刑18年
+1. 交警发现300斤牛肉等失主1小时
+1. 网易咖啡厅推出暴雪绿茶
+1. 谢谢狂飙告诉我什么是演技
+1. 奶奶喝奶茶吐珍珠似豌豆射手
 1. 网易称暴雪的提议是蛮横的
+1. 周焯华获刑18年
 1. 台当局要下架螺蛳粉民众囤货
-1. 劳斯莱斯库里南婚车撞石墩
-1. 油漆店突发大火不停爆燃
+1. 三亚大东海鲨鱼咬人系谣言
+1. 女子被男子持刀锁喉店主徒手夺刀
+1. 苏有朋首次个人身份上春晚
 1. 山姆再回应蓝环章鱼事件
 1. 网易直播拆除园区魔兽斧头
 1. 网红球员发表羞辱女性言论被禁赛
 1. 儿子装乞丐偷偷回家看母亲
-1. 女子被男子持刀锁喉店主徒手夺刀
 1. 乌克兰内务部长坠机身亡
 1. 机场回应雕塑被指有损女性形象
-1. 网易咖啡厅推出暴雪绿茶
-1. 中国女子在韩整容中途身亡
 1. 爱情公寓对杨幂的评价
-1. 靳东甄子丹当选全国政协委员
-1. 易烊千玺为贴近角色养蛇
-1. 去有风的地方友情刀
+1. 油漆店突发大火不停爆燃
+1. 中国女子在韩整容中途身亡
+1. 靳东甄子丹担任全国政协委员
 1. 怀孕警嫂赴边境与丈夫团圆
-1. 交警发现300斤牛肉等失主1小时
-1. 过年神曲大貔貅
+1. 易烊千玺为贴近角色养蛇
 1. 西蒙斯篮网生涯首次三双
-1. 沈腾偷吃樱桃被发现
-1. 原神磬弦奏华夜
-1. 王鹤棣也想演步音楼
-1. 樊振东和皇马梦幻联动
+1. 台湾禁售麻辣花生
+1. 外媒称普京将发表重要声明
+1. 去有风的地方友情刀
+1. 伍六七第四季开播
+1. 原神艾尔海森
+1. 三体里的宇宙闪烁什么意思
+1. 宋轶首登春晚舞台
 1. 虞书欣北京春晚舞台花絮
 1. 2023总台春晚演员送祝福
-1. 刘德华一天要喝20多杯咖啡
+1. 少年歌行高燃反转
+1. 猛龙雄鹿冲突
+1. 重庆街头巨型兔子遭吐槽
+1. 2023央视春晚主创团队官宣
+1. 原神磬弦奏华夜
 1. 俄反垄断局对苹果罚12亿卢布
-1. 巴西宣布这40人被解职
-1. 男子为女友挡住掉落的铁栅栏
-1. 猫咪烤火中毒主人做心肺救活
-1. 狂飙张颂文说吓死宝宝了
-1. 刘亦菲新剧和谁都有cp感
-1. 库里：希望不是最后一次来白宫
-1. 广州疫情已进入流行尾期
+1. 过年神曲大貔貅
+1. 王鹤棣片场被陈钰琪闪到
+1. 樊振东和皇马梦幻联动
 1. 浪胃仙创始人涉职务侵占被捕
-1. 漫威大片重新引进内地
-1. 年夜饭必备凉菜
-1. 河南一企业年终奖堆成钱山
+1. 广州疫情已进入流行尾期
+1. 沈腾偷吃樱桃被发现
+1. 俄乌互称打击对方军事目标
 
 ## 明星榜
 
@@ -81,26 +81,26 @@
 1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [云与海（0.9降速版）]() - CR3.
 1. [星星住进你眼睛]() - 刘至远、Mimmi
-1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [故事还长]() - 云汐
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [小城夏天]() - LBI利比
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
-1. [Hurt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
+1. [Hurt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0ed681d065f9401f89256cb3cecc89e4) - NewJeans
 1. [赐我]() - 一只白羊
-1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
 1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [小神仙]() - 郭斯
-1. [三人游](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/04706d3beb5244829924d111970c35ef) - 方大同
+1. [三人游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/04706d3beb5244829924d111970c35ef) - 方大同
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [Wake(降速版)]() - Don7
 1. [我记得]() - 赵雷
 1. [Counting Stars (Feat. Beenzino)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8d08deefb11647fc9bf31582c6393eb7) - BE′O
-1. [在你的身边](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
+1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
 1. [平凡的一天]() - 毛不易
 1. [满目星河 (副歌)]() - 叶斯淳
 1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ed20fb3dda19418492eb676bfe287e15) - 李巍V仔
@@ -122,7 +122,7 @@
 1. [Shut up My Moms Calling](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d40301b58d8d47e990e3897e88a0fa89) - Hotel Ugly
 1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [Billie Bossa Nova](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE2oRf4FD2CHeLA0xSP2gHhTSCry3fzBP5ha65) - Billie Eilish
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [吟](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bbc3623c79074b47b978055f0f6251ad) - 刘美麟
 1. [这一年不好也不坏-副歌]() - 大川Dietry
 1. [不及她可爱 (片段)]() - 张德伊玲
