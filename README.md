@@ -11,30 +11,30 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-21 18:15:14 +0800`
+`更新时间：2023-01-21 19:12:30 +0800`
 
 ## 抖音热榜
 
 1. 大年三十文案
-1. 除夕问候语
+1. 探访2023年央视春晚
 1. 新时代我在中国
 1. 除夕夜看场浪漫烟花
 1. 北京大视听过大年
 1. 央视兔年春晚节目海报
+1. 希林娜依高黄绮珊春晚后台
 1. 王宝强春晚三个节目
 1. 高高兴兴过大年
-1. 饺子的花式包法
-1. 探访2023年央视春晚
+1. 浏阳的烟花从不让人失望
 1. 过年摸狗头万事不用愁
 1. 央视兔年春晚节目单
-1. 年三十等来杨迪新年单曲跨
 1. 过年的感觉有了
 1. 一起吃饭才是团圆年
+1. 重庆轨道交通延时运营120分钟
 1. 年年岁岁护你平安
 1. 最硬核的春节献礼
-1. 你们家的春联贴对了吗
-1. 被川渝年夜饭馋到咽口水
-1. 年夜饭文案
+1. 除夕问候语
+1. 烟花转身慢动作
+1. 过年放烟花的快乐又回来了
 1. 俄罗斯战地女记者遭迫击炮炸伤
 1. 刘德华新的一年新起点
 1. 沙溢为流浪地球2牺牲颜值
@@ -42,29 +42,28 @@
 1. 女生过年回家被奶奶剪掉美甲
 1. 王鹤棣说浴桶吻小孩别看
 1. 当狗子看主人杀鸡
-1. 女子回娘家24人睡一屋
-1. 烟花转身慢动作
-1. 南北满级年夜饭大比拼
+1. 一起感受重庆焰火表演的浪漫
+1. 春晚主持人王嘉宁推荐亮点节目
 1. 27岁女生回家遭疯狂催婚
 1. 年夜饭镜头先吃
 1. 辽宁卫视春节晚会
 1. 浮图缘大结局
-1. 女子为父母买房父亲参观时哽咽
 1. 兔年高质量祝福文案
-1. 2025年起将连续5年没有年三十
+1. 一张照片证明你回老家了
 1. 春晚没有贾玲张小斐
+1. 被川渝年夜饭馋到咽口水
 1. 保安为驱赶商贩点燃氢气球
+1. 饺子的花式包法
+1. 春晚四十年回顾
+1. 年三十等来杨迪新年单曲跨
+1. 你们家的春联贴对了吗
+1. 烟花拍摄技巧快收藏好
 1. 动物园虎兔交接仪式兔子被咬
 1. 当外国人看熊出没
-1. 浏阳的烟花从不让人失望
-1. 过年给宝宝扎心连心发型
-1. 哪首歌是你的过年BGM
-1. 蹦蹦跳跳过兔年
-1. 藏在古诗词里的新春祝福
 1. 假烟假酒假朋友
-1. 狂飙高启强眼神变化
-1. 仙桃成为湖北首个千亿县
-1. 如何让年夜饭有仪式感
+1. 王冰冰探班央视春晚
+1. 音乐一响过年氛围感拉满
+1. 藏在古诗词里的新春祝福
 
 ## 明星榜
 
@@ -77,19 +76,19 @@
 ## 音乐榜
 
 1. [传奇]() - 郭沁
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
+1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [故事还长]() - 云汐
 1. [祝福你 (新春时光机2023推广曲) (主片段)]() - 房东的猫/盘尼西林
-1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
+1. [F*ck Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
 1. [赐我]() - 一只白羊
-1. [Shut up My Moms Calling - (Sped Up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
+1. [Shut up My Moms Calling - (Sped Up)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
 1. [云与海（0.9降速版）]() - CR3.
 1. [雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [星星住进你眼睛]() - 刘至远、Mimmi
-1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [小城夏天]() - LBI利比
 1. [见面吧趁新年 (完整版全网可听)]() - 汪苏泷
 1. [晚风告白 (副歌)]() - 星野
@@ -97,8 +96,8 @@
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
 1. [一千零一个愿望 (许愿版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
 1. [Why Why Why]() - 王嘉尔
-1. [7710（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFWvFehCHdl315CwCN1fPeEfgJaMNO2AKh5nm) - 尹露浠
-1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [7710（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFWvFehCHdl315CwCN1fPeEfgJaMNO2AKh5nm) - 尹露浠
+1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [万事如伊，大吉大利]() - 牟雪
 1. [四季](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
 1. [爱人 (剪辑版)]() - 莉莉周她说
@@ -117,13 +116,13 @@
 1. [小城画师]() - 李小贝
 1. [粉色海洋]() - 周杰伦
 1. [我记得]() - 赵雷
-1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [黄昏晓 (Shake9.慢速版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
+1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
 1. [不及她可爱 (片段)]() - 张德伊玲
 1. [不回头的人 (剪辑版)]() - 苏星婕
-1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
+1. [ 落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
 1. [小神仙]() - 郭斯
 1. [Waka Waka- Kids United Nouvelle Génération](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 
