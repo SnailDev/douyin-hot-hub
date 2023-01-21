@@ -11,42 +11,45 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-21 21:18:33 +0800`
+`更新时间：2023-01-21 22:13:29 +0800`
 
 ## 抖音热榜
 
 1. 央视兔年春晚
 1. 岳云鹏春晚变烧鸡
-1. 岳云鹏孙越春晚变变变
 1. 新时代我在中国
+1. 邓超今年春晚还是没收住
 1. 除夕夜看场浪漫烟花
 1. 北京大视听过大年
 1. 群星合唱花开种花家
-1. 邓超今年春晚还是没收住
 1. 希林娜依高黄绮珊春晚后台
-1. 王宝强春晚三个节目
 1. 高高兴兴过大年
 1. 赵文卓转身腾空回马枪
 1. 绿水青山四仙女下凡
+1. 撒贝宁春晚说栓Q
 1. 被毛不易的你好陌生人治愈
+1. 岳云鹏孙越春晚变变变
 1. 没有大张伟张若昀热不了的场
 1. 汪苏泷说央视春晚稍后见
 1. 过年摸狗头万事不用愁
 1. 央视兔年春晚节目单
+1. 黄渤春晚跑步机是半永久吧
 1. 被百鸟归巢中式审美惊艳到
 1. 杀猪女屠夫月入3万买房买奔驰
 1. 过年的感觉有了
 1. 重庆轨道交通延时运营120分钟
 1. 年年岁岁护你平安
 1. 最硬核的春节献礼
-1. 除夕问候语
-1. 宋晓峰辽视春晚小品
-1. 过年放烟花的快乐又回来了
+1. 一起感受重庆焰火表演的浪漫
+1. 杨紫王宝强春晚舞台首合作
+1. 杂技中幡紧张到空气凝固
 1. 俄罗斯战地女记者遭迫击炮炸伤
 1. 刘德华新的一年新起点
-1. 周深和谭维维互相让C位
+1. 沙溢为流浪地球2牺牲颜值
+1. 徐志胜何广智首登春晚舞台
 1. 贾冰发抖音告别狂飙徐江
-1. 杂技中幡紧张到空气凝固
+1. 这支舞演活了江南清水梦
+1. 朱洁静露腹肌
 1. 27岁女生回家遭疯狂催婚
 1. 年夜饭镜头先吃
 1. 辽宁卫视春节晚会
@@ -54,17 +57,14 @@
 1. 满江红预售票房破2亿
 1. 兔年高质量祝福文案
 1. 浏阳的烟花从不让人失望
-1. 想拥有春晚的兔圆圆
-1. 张艺兴把小小大爱唱给回家的你
+1. 我和我的春晚双向奔赴
+1. 除夕问候语
 1. 大年三十文案
-1. 新闻联播给你拜年了
-1. 盘点过年要红包的正确方式
-1. 赵丽颖欧豪春晚后台同框
-1. 新年快乐表情包
-1. 当外国人看熊出没
-1. 女子回娘家24人睡一屋
-1. 利物浦vs切尔西
-1. 动物园虎兔交接仪式兔子被咬
+1. 内马尔和姆巴佩的兔年祝福
+1. 假烟假酒假朋友
+1. 想拥有春晚的兔圆圆
+1. 这个发色我能染一辈子
+1. 初见照相馆演我结婚前后
 
 ## 明星榜
 
@@ -78,14 +78,14 @@
 
 1. [传奇]() - 郭沁
 1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
 1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [故事还长]() - 云汐
 1. [祝福你 (新春时光机2023推广曲) (主片段)]() - 房东的猫/盘尼西林
-1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
+1. [F*ck Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
 1. [赐我]() - 一只白羊
-1. [Shut up My Moms Calling - (Sped Up)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
+1. [Shut up My Moms Calling - (Sped Up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
 1. [云与海（0.9降速版）]() - CR3.
 1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [星星住进你眼睛]() - 刘至远、Mimmi
@@ -103,7 +103,7 @@
 1. [四季](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
 1. [爱人 (剪辑版)]() - 莉莉周她说
 1. [半生雪]() - 是七叔呢
-1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [地球最可爱]() - 红格格
 1. [桃桃心动]() - 赵芷彤
 1. [千千万万]() - 深海鱼子酱
@@ -111,21 +111,21 @@
 1. [星河晚舟]() - 袁小葳
 1. [平凡的一天]() - 毛不易
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [小城画师]() - 李小贝
 1. [粉色海洋]() - 周杰伦
 1. [我记得]() - 赵雷
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
+1. [黄昏晓 (Shake9.慢速版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
 1. [不及她可爱 (片段)]() - 张德伊玲
 1. [不回头的人 (剪辑版)]() - 苏星婕
-1. [ 落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
+1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
 1. [小神仙]() - 郭斯
-1. [Waka Waka- Kids United Nouvelle Génération](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
+1. [Waka Waka- Kids United Nouvelle Génération](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 
 ## 品牌榜
 
