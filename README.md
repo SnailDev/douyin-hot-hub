@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-22 16:18:54 +0800`
+`更新时间：2023-01-22 17:14:40 +0800`
 
 ## 抖音热榜
 
 1. 中纪委评春晚小品《坑》
-1. 被电影满江红震撼到了
+1. 周深被门夹了
 1. 致敬坚守岗位的你
-1. 沈腾麦掉了
+1. 流浪地球2震撼体验
+1. 被电影满江红震撼到了
+1. 开心麻花团队解密小品《坑》
+1. 春晚群演小哥走红
+1. 沈腾马丽小品人均八百个心眼
 1. 杨紫王宝强春晚舞台首合作
-1. 马丽炸毛了
-1. 山东人过年走亲戚名场面
 1. 邓超今年春晚还是没收住
 1. 岳云鹏孙越春晚变变变
-1. 周深被门夹了
-1. 赵丽颖唐诗逸演绎东方美学
-1. 春晚群演小哥走红
+1. 山东人过年走亲戚名场面
 1. 兔年第一条抖音
-1. 马丽称鞋跟上台断掉是意外
-1. 天安门广场兔年首场升旗仪式
-1. 上热搜了
-1. 央视兔年春晚
+1. 马丽炸毛了
+1. 赵丽颖唐诗逸演绎东方美学
 1. 希林娜依高黄绮珊春晚唱哭了
-1. 流浪地球2好燃好炸
-1. 赵丽颖唱了42个颜色名
-1. 吴磊春晚最认真的观众
-1. 黄渤春晚跑步机是半永久吧
-1. 沈腾易烊千玺翻唱今夜无眠
+1. 上热搜了
 1. 大年初一文案
-1. 流浪地球2震撼体验
-1. 宋轶的脚趾头有点抢镜
-1. 坐过凌晨3点的重庆地铁吗
-1. 金靖闫佩伦春晚小品本色出演
-1. 赵文卓转身腾空回马枪
-1. 流浪地球中的硬核科学
-1. 许嵩超甜合拍舞台
-1. 初见照相馆演我结婚前后
-1. 杨迪大年初一直播唱跨
-1. 袁树雄讲述早安隆回创作故事
-1. 中国队夺得大冬会女子冰壶金牌
+1. 董宇辉回村放烟花
+1. 黄渤春晚跑步机是半永久吧
+1. 吴磊春晚最认真的观众
+1. 央视兔年春晚
 1. C罗卡点为中国球迷拜年
-1. 过年摸狗头万事不用愁
-1. 没有大张伟张若昀热不了的场
+1. 浏阳的烟花从不让人失望
+1. 金靖闫佩伦春晚小品本色出演
+1. 宋轶的脚趾头有点抢镜
+1. 赵文卓转身腾空回马枪
+1. 初见照相馆演我结婚前后
+1. 流浪地球中的硬核科学
+1. 可以永远相信周深的感染力
+1. 袁树雄讲述早安隆回创作故事
+1. 加特林烟花新的打开方式
+1. 杨迪大年初一直播唱跨
+1. 秦岚用短视频分享美好
+1. 中国队夺得大冬会女子冰壶金牌
+1. 电影无名上映
+1. 许嵩超甜合拍舞台
 1. 电影熊出没伴我熊芯上映
 1. 绿水青山四仙女下凡
-1. 单曲循环成龙的青春向太阳
-1. 可以永远相信周深的感染力
-1. 浏阳的烟花从不让人失望
-1. 徐志胜何广智首登春晚舞台
-1. 岳云鹏春晚变烧鸡
-1. 朱洁静露腹肌
 1. 电影抬头见喜好笑又治愈
-1. 孙涛小品里的包袱真有抖音视频
-1. 电影无名上映
+1. 单曲循环成龙的青春向太阳
 1. 看熊出没伴我熊芯好欢乐
+1. 赵丽颖唱了42个颜色名
+1. 朱洁静露腹肌
+1. 苏有朋汪苏泷王铮亮舞步好魔性
+1. 红豆遥遥冰耍朋友好甜
+1. 过年摸狗头万事不用愁
+1. 撒贝宁春晚说栓Q
+1. 孙涛小品里的包袱真有抖音视频
+1. 王冰冰探班春晚混进舞蹈队
 
 ## 明星榜
 
@@ -77,13 +77,13 @@
 ## 音乐榜
 
 1. [传奇]() - 郭沁
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
+1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [故事还长]() - 云汐
 1. [祝福你 (新春时光机2023推广曲) (主片段)]() - 房东的猫/盘尼西林
-1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
+1. [F*ck Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
 1. [赐我]() - 一只白羊
 1. [Shut up My Moms Calling - (Sped Up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
 1. [云与海（0.9降速版）]() - CR3.
@@ -95,15 +95,15 @@
 1. [晚风告白 (副歌)]() - 星野
 1. [眨眼睛（律动版）]() - 小蓝背心、夏提
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
-1. [一千零一个愿望 (许愿版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
+1. [一千零一个愿望 (许愿版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
 1. [Why Why Why]() - 王嘉尔
 1. [7710（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFWvFehCHdl315CwCN1fPeEfgJaMNO2AKh5nm) - 尹露浠
-1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [万事如伊，大吉大利]() - 牟雪
-1. [四季](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
+1. [四季](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
 1. [爱人 (剪辑版)]() - 莉莉周她说
 1. [半生雪]() - 是七叔呢
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [地球最可爱]() - 红格格
 1. [桃桃心动]() - 赵芷彤
 1. [千千万万]() - 深海鱼子酱
@@ -113,19 +113,19 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [小城画师]() - 李小贝
 1. [粉色海洋]() - 周杰伦
 1. [我记得]() - 赵雷
 1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
 1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
 1. [不及她可爱 (片段)]() - 张德伊玲
 1. [不回头的人 (剪辑版)]() - 苏星婕
 1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
 1. [小神仙]() - 郭斯
-1. [Waka Waka- Kids United Nouvelle Génération](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
+1. [Waka Waka- Kids United Nouvelle Génération](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 
 ## 品牌榜
 
