@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-23 19:14:00 +0800`
+`更新时间：2023-01-23 20:28:59 +0800`
 
 ## 抖音热榜
 
 1. 男子发压岁钱2百发出2千的气势
-1. 流浪地球2值不值得看
-1. 春节旅游回暖各地掀抢人潮
-1. 女子回娘家发现整个楼道被冰封
-1. 爷爷送13米长现金红包给孙女
-1. 老人买17个金手镯送子孙
-1. 砂糖橘还能这样炫
-1. 500元的烟花体验3秒的快乐
-1. 熊出没熊妈带娃好笑又真实
 1. 外甥女跷二郎腿给舅舅发红包
+1. 春节旅游回暖各地掀抢人潮
+1. 老人买17个金手镯送子孙
+1. 女子回娘家发现整个楼道被冰封
+1. 这是欧豪的弟弟吗
+1. 砂糖橘还能这样炫
+1. 漠河现零下53度极端低温
+1. 流浪地球2值不值得看
+1. 流浪地球2票房破8亿
+1. 熊出没熊妈带娃好笑又真实
+1. 天津卫视相声春晚
 1. 暴雪游戏停服倒计时
-1. 去有风的地方娜娜被网暴真相
-1. 虞书欣绝美舞台
 1. 邓丽君王心凌韩雪跨时空合唱
-1. 222个账号因炫耀服刑等被处置
 1. 沈腾马丽小品人均八百个心眼
 1. 男子喝醉被亲友抱出强行营业
+1. 222个账号因炫耀服刑等被处置
 1. 旋转秋千疑似缠绕多人脱落受伤
-1. 春晚全媒体触达110.11亿人次
-1. 无名细节都是一帧一帧的
-1. 流浪地球2开分
-1. 漠河现零下53度极端低温
+1. 爷爷送13米长现金红包给孙女
+1. 虞书欣绝美舞台
+1. 汕头迎春大型焰火晚会
+1. 袁树雄回应参加春晚
 1. 宋轶春晚后台送赵今麦小饼干
 1. 冯巩说关晓彤像昌平的草莓
-1. 勇士不敌篮网
-1. 袁树雄回应参加春晚
-1. 撒贝宁现场回应鞋跟高
+1. 500元的烟花体验3秒的快乐
+1. 无名细节都是一帧一帧的
 1. 女子下楼发现小区现巨型香
 1. 被交换人生里的亲情戳中了
-1. VR沉浸式观赏打铁花
+1. 春晚全媒体触达110.11亿人次
+1. 山东人过年走亲戚名场面
 1. 官方回应三门峡大坝多人被水冲走
-1. 深海看哭了
-1. 春节档票房破23亿
-1. 韩国拟投资67亿发展旅游
-1. 湖人战胜开拓者
-1. 苹果公司被曝部分裁员
-1. 谢之遥许红豆酒店制服吻
-1. 深海伏笔原来都是泪点
-1. 王一博东方卫视春晚版无名MV
+1. 去有风的地方超前大结局
+1. 过年必拍的烟花照
 1. 电影深海好看吗
-1. 3岁娃与大鹅打架锁喉制服
-1. 抬头见喜里老一辈的爱情有多真
-1. 外国女婿在乡村过年被烟花吵醒
-1. 正月初二传统风俗
+1. 韩国拟投资67亿发展旅游
+1. 勇士不敌篮网
 1. 巴啦啦小魔仙变身烟花
+1. 撒贝宁现场回应鞋跟高
 1. 回村找个朋友点点头拍拍手
-1. 狂飙高启强隔空弹钢琴好疯
+1. 全网都是郭帆催更人
+1. 拜年磕头把盆干瘪了
+1. 深海伏笔原来都是泪点
+1. 柳岩宋小宝演小品七年不痒
+1. 湖人战胜开拓者
 1. 俄宇航员向中国同行贺新春
-1. 东北恋哥2全员爆笑
-1. 北京台春晚
+1. 谢之遥许红豆酒店制服吻
+1. 苹果公司被曝部分裁员
+1. 抬头见喜里老一辈的爱情有多真
+1. 王一博东方卫视春晚版无名MV
+1. 正月初二传统风俗
 
 ## 明星榜
 
@@ -77,15 +77,15 @@
 ## 音乐榜
 
 1. [传奇]() - 郭沁
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
+1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [故事还长]() - 云汐
 1. [祝福你 (新春时光机2023推广曲) (主片段)]() - 房东的猫/盘尼西林
 1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
 1. [赐我]() - 一只白羊
-1. [Shut up My Moms Calling - (Sped Up)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
+1. [Shut up My Moms Calling - (Sped Up)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e82508e4a754574bd5b91135ffab1ee) - Hotel Ugly
 1. [云与海（0.9降速版）]() - CR3.
 1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [星星住进你眼睛]() - 刘至远、Mimmi
@@ -95,10 +95,10 @@
 1. [晚风告白 (副歌)]() - 星野
 1. [眨眼睛（律动版）]() - 小蓝背心、夏提
 1. [寻一个你 (电视剧《苍兰诀》温情主题曲)]() - 摩登兄弟刘宇宁
-1. [一千零一个愿望 (许愿版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
+1. [一千零一个愿望 (许愿版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
 1. [Why Why Why]() - 王嘉尔
 1. [7710（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFWvFehCHdl315CwCN1fPeEfgJaMNO2AKh5nm) - 尹露浠
-1. [谁会被吻（全网已上线）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
+1. [谁会被吻（全网已上线）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b4aa7945c88d491584f57caea87b054c) - Lil Jet
 1. [万事如伊，大吉大利]() - 牟雪
 1. [四季](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
 1. [爱人 (剪辑版)]() - 莉莉周她说
@@ -117,8 +117,8 @@
 1. [小城画师]() - 李小贝
 1. [粉色海洋]() - 周杰伦
 1. [我记得]() - 赵雷
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
 1. [不及她可爱 (片段)]() - 张德伊玲
