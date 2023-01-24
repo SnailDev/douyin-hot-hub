@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-24 10:39:01 +0800`
+`更新时间：2023-01-24 11:16:56 +0800`
 
 ## 抖音热榜
 
 1. 流浪地球2用CG复原吴孟达角色
-1. 湖人交易得到八村垒
-1. 我国研发经费投入突破3万亿
-1. 食堂阿姨吃民警做的年夜饭哭了
 1. 妈妈不小心拨到已故外公的电话
-1. 狂飙高启强是血性反派
+1. 全球地标建筑点亮中国红
+1. 媒人给姐姐说媒弟弟反抗
+1. 湖人交易得到八村垒
+1. 网红加特林烟花暴涨十倍
 1. 再见守望先锋
-1. 春晚因为沈腾启动应急预案
 1. 正月初三有哪些年俗
-1. 英国街头舞狮获大众喜爱
+1. 食堂阿姨吃民警做的年夜饭哭了
+1. 三体叶文洁遭背叛
 1. 狂飙安欣孟钰在一起了
 1. 苹果被强制执行1.44亿
+1. 流浪地球2票房破10亿
 1. 俄称乌将西方军援存放于核电站
-1. 狂飙高启强隔空弹钢琴好疯
-1. 红豆遥遥冰热恋期甜疯了
+1. 谢之遥许红豆酒店制服吻
 1. 姆巴佩独中五元成队史首人
-1. 网红加特林烟花暴涨十倍
+1. 没想到电影满江红这么好笑
 1. 网易致暴雪国服玩家告别信
+1. 英国街头舞狮获大众喜爱
 1. 去有风的地方超前大结局
-1. 魔兽世界已断开连接
+1. 网易发布暴雪游戏退款公告
 1. 有中国公民在加州枪击事件中遇难
 1. 导演付宁去世
 1. 王冰冰如何整顿职场
-1. 深海伏笔原来都是泪点
 1. 女子实名举报前国足球员婚内出轨
-1. 三体叶文洁遭背叛
+1. 这是欧豪的弟弟吗
 1. 狂飙紧张感飙升
 1. 谁能拒绝红系JK
 1. 满江红实时票房破9亿
-1. 网易发布暴雪游戏退款公告
+1. 拜年磕头把盆干瘪了
+1. 小伙8条内裤被偷现金1分没少
 1. 天津卫视相声春晚
 1. 春节档电影票房破30亿元
-1. 易烊千玺主演电影票房破150亿
-1. 交换人生值得一家人看
-1. 流浪地球2票房破8亿
+1. 深海伏笔原来都是泪点
+1. 回村找个朋友点点头拍拍手
+1. 狂飙高启强是血性反派
 1. 流浪地球2值不值得看
-1. 这是欧豪的弟弟吗
 1. 流浪地球2彩蛋
 1. 砂糖橘还能这样炫
-1. 虞书欣绝美舞台
-1. 漠河户外摊鸡蛋瞬间成冰
-1. 拜年磕头把盆干瘪了
-1. 谢之遥许红豆酒店制服吻
-1. 俄宇航员向中国同行贺新春
-1. 汕头迎春大型焰火晚会
-1. 没想到电影满江红这么好笑
-1. 岳云鹏孙越合作温暖的冰棍
-1. 抬头见喜里老一辈的爱情有多真
 1. 500元的烟花体验3秒的快乐
-1. 贾乃亮搭档小岳岳首次说相声
+1. 俄宇航员向中国同行贺新春
+1. 魔兽世界已断开连接
+1. 岳云鹏春晚手绢烧鸡折法
+1. 虞书欣绝美舞台
+1. 红豆遥遥冰热恋期甜疯了
+1. 汕头迎春大型焰火晚会
+1. 拉美两大国研究发起共同货币
+1. 狂飙高启强隔空弹钢琴好疯
+1. 交换人生值得一家人看
+1. 北京台春晚
 
 ## 明星榜
 
@@ -79,8 +79,8 @@
 1. [传奇]() - 郭沁
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
-1. [活着 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
+1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
+1. [寂寞沙洲冷 (女声治愈版全网可听)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/205bc0bd9fdd4a619be022a2b5c31365) - 刘大拿
 1. [故事还长]() - 云汐
 1. [祝福你 (新春时光机2023推广曲) (主片段)]() - 房东的猫/盘尼西林
 1. [F*ck Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQvPQKbdAeQ7Q2m31eAmhl8DeOWcINwAnfGGFh) - Lund
@@ -103,7 +103,7 @@
 1. [四季](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAhRn1sWIABN1ULFOxhw2UvFoAf2uG4zoTQR9K) - 陈奕迅
 1. [爱人 (剪辑版)]() - 莉莉周她说
 1. [半生雪]() - 是七叔呢
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
 1. [地球最可爱]() - 红格格
 1. [桃桃心动]() - 赵芷彤
 1. [千千万万]() - 深海鱼子酱
@@ -113,17 +113,17 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [小城画师]() - 李小贝
 1. [粉色海洋]() - 周杰伦
 1. [我记得]() - 赵雷
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
-1. [黄昏晓 (Shake9.慢速版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
+1. [黄昏晓 (Shake9.慢速版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd9dda94f3dd48d994b6cd859ab68326) - INTO1-周柯宇
 1. [不及她可爱 (片段)]() - 张德伊玲
 1. [不回头的人 (剪辑版)]() - 苏星婕
-1. [ 落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
+1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
 1. [小神仙]() - 郭斯
 1. [Waka Waka- Kids United Nouvelle Génération](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooytpbec5QnTlAECp0cgbpD2jmoeZnVBQ4MzdB) - Kids United Nouvelle Génération
 
