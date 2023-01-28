@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-01-28 15:13:55 +0800`
+`更新时间：2023-01-28 16:18:43 +0800`
 
 ## 抖音热榜
 
-1. 妈妈留儿子分手两年的前任照片
-1. 满江红沈腾台词爆发力
+1. 游客排队打秦桧
+1. 岳云鹏被0713盘到退场
 1. 火热数据见证中国活力
 1. 春节第二波感染高峰没来
-1. 14岁初中生保送清华本硕博连读
-1. 狂飙孟钰被分手李一桐发动态
 1. 杜富国升级当爸
-1. 游客排队打秦桧
-1. 这种奶茶杯千万不要碰
-1. 58元烩菜没肉爆料者遭辱骂
-1. 吴京被刘德华的京哥吓了一跳
-1. 专家称新冠病毒有点传不动了
+1. 张译四十一枝花
 1. 佩洛西丈夫在家遇袭视频首曝光
-1. 摊贩称甲鱼200岁要卖2万8
+1. 14岁初中生保送清华本硕博连读
+1. 吴京被刘德华的京哥吓了一跳
+1. 58元烩菜没肉爆料者遭辱骂
+1. 妈妈留儿子分手两年的前任照片
+1. 专家称新冠病毒有点传不动了
+1. 这种奶茶杯千万不要碰
+1. 印度8岁神童声称智商180
+1. 满江红最大受益方
 1. 男子不慎切断手指交警护送就医
-1. 库里向观众席扔牙套被罚2.5万美元
 1. 王子文新剧前夫是三十而已海王
-1. 熊出没是懂过年反转的
+1. 国内油价或将大幅上调
 1. 胡鑫宇家人春节收到线索搜寻未果
+1. 六公主在线直播流浪地球
 1. 华晨宇方回应应援棒抄袭
 1. 电影无名票房破5亿
-1. 北海市通报4菜1500元事件
-1. 张译四十一枝花
+1. 纽约时报给流浪地球2差评
 1. 流浪地球2周边商家呼吁理性消费
 1. 电影人生路不熟定档五一
-1. 央视评宰客事件
-1. 国内油价或将大幅上调
-1. 近4000辆中国造新车从上海启航
-1. 纽约时报给流浪地球2差评
-1. 刘洋升级为两颗星
-1. 满江红实时票房破27亿
-1. 济南一方舱变人才公寓
-1. 狂飙安欣高启强回不去了
-1. 秦霄贤哈妮克孜发糖
+1. 唐艺昕新剧坐月子情节好真实
+1. 狂飙孟钰被分手李一桐发动态
+1. 北海市通报4菜1500元事件
+1. 熊出没是懂过年反转的
 1. 狂飙高启强演我开会
-1. 大年初七祝福语
-1. 联合国预测2023中国经济
+1. 满江红实时票房破27亿
+1. 吴刚脸肿的原因
+1. 满江红沈腾台词爆发力
+1. 刘洋升级为两颗星
+1. 店主春节忘锁门8天未丢一物
+1. 库里向观众席扔牙套被罚2.5万美元
+1. 秦霄贤哈妮克孜发糖
 1. 看二见钟情我又相信爱情了
-1. 充电器一拔又是一年
-1. 狗子学爷爷翘二郎腿
-1. 狂飙高端局把CPU烧干了
-1. 东北小姐姐幽默提醒返程须知
+1. 济南一方舱变人才公寓
+1. 郭明錤：苹果暂停自研WiFi芯片
+1. 抠图发光挑战
+1. 大年初七祝福语
 1. 河南一景区背满江红免门票
-1. 辽宁：鼓励合理住房消费
-1. 对我而言危险的他密码细节
-1. 演唱者谈满江红摇滚版豫剧走红
-1. 如何看待中国乒乓撤档
-1. 华清宫景区喊话林姑娘
-1. 春节档有四个雷佳音
-1. 岳云鹏儿化音强迫症
+1. 强盛集团回应法人为孙红雷
+1. 充电器一拔又是一年
+1. 狂飙高端局把CPU烧干了
+1. 央视评宰客事件
+1. 联合国预测2023中国经济
+1. 狂飙高启盛原来是他
+1. 狗子学爷爷翘二郎腿
 
 ## 明星榜
 
@@ -98,28 +98,28 @@
 1. [只看着我](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/89ac23c27be64f9587e4f89b1d1315ce) - G-Dragon
 1. [就让这大雨全都落下 (0.8X)]() - 林梦
 1. [财神到（我要红包剪辑版）]() - 张艺兴
-1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
+1. [是你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [簇拥烈日的花（剪辑版2）]() - 迟里乌布
 1. [等着我回来 (副歌)]() - 戴羽彤
 1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [帶我去找夜生活]() - 告五人
 1. [一千零一个愿望 (许愿版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [一个好年 (好年版)]() - 摩登兄弟刘宇宁
 1. [新年元气曲 (副歌)]() - Luya
-1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
+1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [晚风告白 (副歌)]() - 星野
 1. [Sokka](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b9c3e305c0474c898ce221c7aa498547) - you
 1. [陪你度过漫长岁月]() - 陈奕迅
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [Creep](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a32c4737f714f9ab8a22f0ada774a56) - GAMPER & DADONI
-1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [Creep](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a32c4737f714f9ab8a22f0ada774a56) - GAMPER & DADONI
+1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [sun and moon](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a7c699932f84c15a27fb33e7ce40d1d) - anees
 1. [新年一岁除](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osbjDAZGtfnwZEQDvR8NjhfsBwCEQgBTiSTQIC) - Bell玲惠/chewie 甲甲甲！
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
+1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [赐我]() - 一只白羊
 1. [可愛くてごめん (feat. かぴ)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [地球最可爱]() - 红格格
