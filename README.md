@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-02-07 15:14:57 +0800`
+`更新时间：2023-02-07 16:20:08 +0800`
 
 ## 抖音热榜
 
 1. 中方决定向土叙提供援助
 1. 唐小强
-1. 全球维度看中国经济这三年
-1. 狂飙里的疯驴子居然才25岁
+1. 年度个税汇算有三个变化
+1. 女子存5万被要求提供收入证明
+1. 中方回应美拒还飞艇碎片
 1. 市监局回应女孩买到不雅钥匙扣
-1. 幼儿园园长撞脸毛不易
-1. 金门发表永久非军事区宣言
-1. 新闻联播片头动画制作者离世
+1. 狂飙里的疯驴子居然才25岁
+1. 谢腾飞被逼做亲子鉴定
 1. 强震已致土叙超4000人遇难
-1. 当我用ChatGPT采访ChatGPT
+1. 幼儿园园长撞脸毛不易
 1. 高启盛下线戏张颂文临时改台词
 1. 宋宁峰向张婉婷求婚了
 1. 女子曝在泰国旅游遭诈骗还被威胁
 1. 光遇复刻
 1. 美国89%大学生用ChatGPT做作业
-1. 风再起时大嫂杜鹃又美又狠
+1. 行车记录仪拍下土耳其地震瞬间
 1. 狂飙剧组全员百灵鸟
 1. 美称发现第2个中国气球
-1. 长鼻狗出现了人传人现象
+1. 当我用ChatGPT采访ChatGPT
 1. 央媒评让员工背诵董事长金句
-1. 网传艾薇儿将加盟浪姐4
-1. 汪涵劝王勉转行
-1. 狂飙导演有考虑拍摄番外篇
 1. 如何看待高龄父母要生二胎
+1. 新闻联播片头动画制作者离世
+1. 金门发表永久非军事区宣言
+1. 霍格沃茨之遗评分解禁
 1. 多期刊禁止ChatGPT列为合著者
 1. TFBOYS十周年演唱会确认规划中
 1. 肖战新剧骄阳伴我杀青
-1. 我们的日子李小冉李乃文演技
-1. 霍格沃茨之遗评分解禁
-1. 流浪地球2情感好细腻
-1. 众解说看Karsa为TheShy卡线
-1. 内马尔6获桑巴金球奖
-1. 林孝埈摸头杀安慰韩国选手
-1. 狂飙小五饰演者武静丽回应传言
-1. 摆摊还债大哥收到全家福落泪
-1. 满江红雷佳音的帽子是定制的
-1. 被贾冰的评论区笑疯了
-1. 高启兰演员隆妮是浙江妹子
-1. 偶遇路人神似高启强和老默
-1. 狂飙小说中不易发现的细节
-1. 高启兰禁欲妆
-1. 变身挑战禁止本人参赛
-1. 中国公羊救援队赶往土耳其
-1. 这是全网最幸福的社火小猴子吧
-1. 世界最大飞机被微软线上复活
-1. 篮网主场不敌快船
-1. 山西社火表演年代感满满
-1. 冬晓继承了朱珠的人间清醒
 1. 普尔21分12助攻
+1. 风再起时大嫂杜鹃又美又狠
+1. 我们的日子李小冉李乃文演技
+1. 流浪地球2情感好细腻
+1. 狂飙导演有考虑拍摄番外篇
+1. 中国公羊救援队赶往土耳其
+1. 狂飙小五饰演者武静丽回应传言
+1. 托马斯47分生涯新高
+1. 偶遇路人神似高启强和老默
+1. 被贾冰的评论区笑疯了
+1. 长鼻狗出现了人传人现象
+1. 狂飙是央八近九年来收视第一
+1. 世界最大飞机被微软线上复活
+1. 高启兰禁欲妆
+1. 摆摊还债大哥收到全家福落泪
+1. 高启兰演员隆妮是浙江妹子
+1. 爱如火各种舞都来上分了
+1. 这是全网最幸福的社火小猴子吧
+1. 直播记录土耳其7.8级余震
+1. 变身挑战禁止本人参赛
+1. 林孝埈摸头杀安慰韩国选手
 1. 独行侠老板派私人飞机接欧文
+1. 狂飙小说中不易发现的细节
 
 ## 明星榜
 
@@ -79,26 +79,26 @@
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [我记得]() - 赵雷
 1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
-1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
 1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [归途有风 (女版)]() - 小阿七
 1. [时光慢慢 (副歌)]() - 天空乐队
 1. [小城夏天]() - LBI利比
 1. [星星住进你眼睛]() - 刘至远、Mimmi
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [是妈妈是女儿-60s]() - 黄绮珊/希林娜依·高
-1. [一千零一个愿望 (许愿版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
+1. [一千零一个愿望 (许愿版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/27c8c0be87fe426e9003a1fc7436f57c) - （G)I-DLE MINNIE
 1. [晚风告白 (副歌)]() - 星野
 1. [小神仙]() - 郭斯
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
 1. [云与海（0.9降速版）]() - CR3.
 1. [ 落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIbUIAAxAwoUxxs6Nh4itIpB4VqzvfA0BoFODW) - 尹昔眠
 1. [活着 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooNamL8fuhnPZhRFOcfAbtD0GfQuzHPDgz50QC) - 金润吉
-1. [满天星辰不及你(剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
+1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [追光而来（Part1）]() - 卢卢快闭嘴
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [你就是远方 (副歌)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFDDa3HgHsGVzooFe42C5EOkPe9YBQo2w4flA) - 就是南方凯
+1. [你就是远方 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFDDa3HgHsGVzooFe42C5EOkPe9YBQo2w4flA) - 就是南方凯
 1. [帶我去找夜生活]() - 告五人
 1. [粉色海洋]() - 周杰伦
 1. [大貔貅 (剪辑版)]() - ONER/宋木子
@@ -113,19 +113,19 @@
 1. [星闪闪月弯弯 (电影《熊出没·伴我“熊芯”》主题曲) 剪辑版]() - 郁可唯
 1. [Letting Go]() - 蔡健雅
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
-1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
+1. [麦浪 (吃可爱多吗版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [巡光 (主歌版)]() - 就是南方凯
-1. [You Don't Know Me - Edit](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og3tw2xRzUiyv2BGBbfDomsVOANOxzAIhHwMW2) - Jax Jones & RAYE
+1. [You Don't Know Me - Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og3tw2xRzUiyv2BGBbfDomsVOANOxzAIhHwMW2) - Jax Jones & RAYE
 1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
-1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [gamble](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/521cf65fa6174a3cac2873b8f20f8192) - Alys & Fcj
-1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
-1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
+1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [我愛你-上海蟹-](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [合拍(剪辑版)]() - 许嵩
 1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [Own Way (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
-1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 
 ## 品牌榜
 
