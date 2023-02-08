@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-02-08 20:30:00 +0800`
+`更新时间：2023-02-08 21:24:02 +0800`
 
 ## 抖音热榜
 
-1. 台湾永远不可能成为一个国家
-1. 藏13万现金的纸箱被当废品卖掉
-1. 小生意看活力
+1. 梅西揭晓世界杯决赛唇语
+1. 杨颖与BLACKPINK合影
+1. 神十五乘组将择日出舱
 1. 言承旭的小孩是夏花
+1. 马航MH17坠机案调查暂停
 1. 詹姆斯NBA历史得分王
-1. 男孩摸执勤警察的枪不忘敬礼
 1. 杨幂黑色吊带高马尾造型
 1. 自杀式无人机在莫斯科外爆炸
-1. 高启强安欣被特效玩坏了
+1. 台湾永远不可能成为一个国家
 1. 中方回应拜登涉华言论
 1. 强震已致土叙上万人遇难
-1. 公司内斗掩埋377箱会计资料
-1. 婴儿被埋废墟29小时后获救
-1. 网友昆明街头偶遇刘畊宏
-1. 少女疑被迫吸毒涉案人员被抓获
-1. 拜登夫人与副总统丈夫亲吻引热议
-1. 家属回应少女遭强迫吸毒致死
 1. 贾冰说自己也不想演坏人
+1. 少女疑被迫吸毒涉案人员被抓获
+1. 唐小强曾在中国多次见义勇为
+1. 男孩摸执勤警察的枪不忘敬礼
+1. 婴儿被埋废墟29小时后获救
+1. 高启强安欣被特效玩坏了
+1. 日本樱岛昭和火山口再喷发
 1. 宝鸡一女生为稀有黄金血血型
 1. 国企回应公示名单备注主任之女
-1. 狂飙导演谈安欣高启强原型
-1. 湖北恩施：非必要不去泰国等八国
-1. ChatGPT遭美国多市学校封杀
 1. 新冠病毒去哪了它会消失吗
-1. 杨颖与BLACKPINK合影
+1. ChatGPT遭美国多市学校封杀
 1. Zoom将裁员1300人
-1. 日本沙滩现大量沙丁鱼
 1. 王鹤棣终于戴耳钉了
-1. 唐小强曾在中国多次见义勇为
-1. 上海两名90后女生赴土耳其救灾
-1. 曝暴雪已签约新国服游戏代理商
-1. 澳一架波音737飞机坠毁致2伤
-1. 华为申请星耀手机商标
-1. 亲爱的乘客你好开播
-1. 7岁女孩废墟中保护弟弟17小时
+1. 狂飙导演谈安欣高启强原型
+1. 藏13万现金的纸箱被当废品卖掉
 1. 被炮仗炸伤男孩母亲称警方介入
+1. 告别狂飙迎来更好发展机会
+1. 拜登夫人与副总统丈夫亲吻引热议
+1. 日本沙滩现大量沙丁鱼
 1. 河南多地大风中雪来袭
-1. 韩国申遗闹乌龙
-1. 邢菲新剧婆媳冲突真实感
-1. 日本樱岛昭和火山口再喷发
-1. 王骁疑似离开嘉行传媒
-1. 狂飙原著小说原来这么飙
-1. 步步为陷开播
-1. 警惕诺如病毒感染
-1. 土耳其门将地震中遇难
-1. 终于看懂ChatGPT到底是啥
-1. 中戏教授谈狂飙的成功之道
-1. 女子高铁上喊叫被乘警带走
+1. 曝暴雪已签约新国服游戏代理商
 1. 偶遇路人神似高启强和老默
-1. 当事人辟谣滑冰后脑勺着地去世
+1. 上海两名90后女生赴土耳其救灾
+1. 女士的品格是懂反转的
+1. 华为申请星耀手机商标
+1. 满江红 中国影史票房第八
+1. 王骁疑似离开嘉行传媒
+1. 澳一架波音737飞机坠毁致2伤
+1. 韩国申遗闹乌龙
+1. 公司内斗掩埋377箱会计资料
+1. 狂飙原著小说原来这么飙
+1. 日本寺院所藏人鱼木乃伊为人造物
+1. 7岁女孩废墟中保护弟弟17小时
+1. 土耳其门将地震中遇难
+1. 步步为陷开播
+1. 亲爱的乘客你好开播
+1. 中戏教授谈狂飙的成功之道
+1. 警惕诺如病毒感染
+1. 女子高铁上喊叫被乘警带走
 
 ## 明星榜
 
@@ -78,10 +78,10 @@
 
 1. [我曾遇到一束光 (氛围版)]() - 叶斯淳
 1. [我记得]() - 赵雷
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
-1. [看得最远的地方（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
-1. [开心往前飞（开心超人联盟主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
-1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [看得最远的地方（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e3cdc91401846d0a5a08ac34c7105ad) - 毛不易
+1. [开心往前飞（开心超人联盟主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
+1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [归途有风 (女版)]() - 小阿七
 1. [时光慢慢 (副歌)]() - 天空乐队
 1. [小城夏天]() - LBI利比
@@ -98,15 +98,15 @@
 1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
 1. [追光而来（Part1）]() - 卢卢快闭嘴
 1. [阿珍爱上了阿强]() - 五条人乐队
-1. [你就是远方 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFDDa3HgHsGVzooFe42C5EOkPe9YBQo2w4flA) - 就是南方凯
+1. [你就是远方 (副歌)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooFDDa3HgHsGVzooFe42C5EOkPe9YBQo2w4flA) - 就是南方凯
 1. [帶我去找夜生活]() - 告五人
 1. [粉色海洋]() - 周杰伦
 1. [大貔貅 (剪辑版)]() - ONER/宋木子
 1. [传奇]() - 郭沁
 1. [给你给我]() - 毛不易
 1. [Funkytown]() - Lipps Inc.
-1. [风吹过八千里](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
-1. [Hush](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d19a15603a3449779ea32b7f2280b080) - The Marías
+1. [风吹过八千里](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a1a6ff5c96de4f13890fedc3fd6d4c76) - 苏星婕
+1. [Hush](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d19a15603a3449779ea32b7f2280b080) - The Marías
 1. [Popipo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
 1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [赌你 (剪辑版)]() - 苏星婕
@@ -116,13 +116,13 @@
 1. [麦浪 (吃可爱多吗版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fb2bf2aaa2854aaa8ec0fcfabbee4bd8) - yihuik苡慧
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [You Don't Know Me - Edit](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og3tw2xRzUiyv2BGBbfDomsVOANOxzAIhHwMW2) - Jax Jones & RAYE
-1. [Head In The Clouds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
-1. [人间烟火（长段落）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
+1. [Head In The Clouds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocSfDBmOnoV52y4eF28Hg3zXxCbhGeDQDHAma5) - Hayd
+1. [人间烟火（长段落）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eeb7f9f284d74db097f8341ace44bfa2) - 程响
 1. [gamble](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/521cf65fa6174a3cac2873b8f20f8192) - Alys & Fcj
-1. [达尔文（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
+1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [合拍(剪辑版)]() - 许嵩
-1. [可愛くてごめん (feat. かぴ)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
+1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [Own Way (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
 1. [云边书坊 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
