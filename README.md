@@ -11,25 +11,30 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2023-02-18 20:27:43 +0800`
+`更新时间：2023-02-18 21:20:17 +0800`
 
 ## 抖音热榜
 
-1. 男子撞脸高启强
-1. 江苏都装备太空战舰了
-1. 地面团队是航天员的坚强后盾
 1. 张兰和董明珠见面了
-1. 16岁姐姐见刚出生的弟弟
+1. 塔利班称女性避孕是西方阴谋
+1. 4K修复杨利伟首飞太空珍贵影像
+1. 中方呼吁俄乌止战和谈
+1. 猜猜小杨哥受了几次暴击
 1. 美一母亲抱5岁儿子跳下瀑布悬崖
 1. 潘长江张杰再现狂飙名场面
-1. 中方呼吁俄乌止战和谈
+1. 满江红易烊千玺最后一个镜头
 1. 桂林网红爷爷黄全德去世
+1. 三亚搁浅侏儒抹香鲸死因查明
+1. 男子撞脸高启强
+1. 虞书欣多巴胺女孩穿搭
 1. 多人称戴苹果手表手腕凹了
 1. 警方回应男子泼妻子硫酸仅拘10天
+1. 80后女局长被双开背后细节
 1. 宝宝不慎摔倒拉下爸爸裤子
 1. 女子回应被丈夫泼硫酸
 1. 苏乞儿道歉
 1. 女子称情人节领证次日被家暴
+1. 北大宿舍聊天 上野千鹤子
 1. 警方回应狂飙拍摄地拍照收费
 1. 张杰把被霸凌的经历写进歌里
 1. 狂飙续集狂兰
@@ -37,34 +42,29 @@
 1. 模范出租车2回归
 1. 1岁多娃61斤疑患库欣综合征
 1. 向太让向华强再现龙五笑
-1. 绝不让涉毒艺人变相复出
-1. 苹果上新348元省电保护膜
 1. 前切尔西球员在地震中遇难
-1. 校服穿出了潮服的气质
 1. 夏花言承旭缺氧吻
-1. 7岁女孩每天独自走6公里上下学
-1. 妈妈卡通滤镜下秒切夹子音
 1. 潘长江不知道唐嫣已婚
-1. 抒情版爱如火
-1. 满江红易烊千玺最后一个镜头
+1. 苹果上新348元省电保护膜
+1. 绝不让涉毒艺人变相复出
 1. 市监局称狂飙取景地收费系个人行为
-1. C罗上演大师级助攻
-1. 我才不会喜欢你开播
-1. 当ChatGPT用鲁迅的语气说话
-1. 张译一场戏台词背了半个月
+1. 7岁女孩每天独自走6公里上下学
+1. 校服穿出了潮服的气质
+1. 二十九这是要开始反转了嘛
+1. 妈妈卡通滤镜下秒切夹子音
 1. 女孩飞起一脚精准将鞋踢进锅里
-1. 张新成原声台词功底
 1. 突然发现自己是高启强邻居
-1. 阿尔瓦拉多获全明星新秀赛MVP
-1. 陈星旭陈牧驰是二搭
-1. 这下全家都安排上了卡通脸
+1. 孙子花1年为爷奶盖新房
+1. 光渊演员的反转演技
+1. 无限超越班好甜
 1. 狂飙之湖州分飙
+1. C罗上演大师级助攻
+1. YSKM369谁被上课
 1. 和平精英主播对抗赛
-1. 狂飙拍摄地有人竖牌收费
-1. 橄榄球员拿下全明星名人赛MVP
-1. 当我教爸爸玩植物大战僵尸
-1. 民调显示76%俄民众信任普京
-1. 3000块环游中国计划
+1. 张译一场戏台词背了半个月
+1. 阿尔瓦拉多获全明星新秀赛MVP
+1. 当ChatGPT用鲁迅的语气说话
+1. 宁至谦阮流筝地下恋贴贴
 
 ## 明星榜
 
@@ -77,19 +77,19 @@
 ## 音乐榜
 
 1. [苦咖啡·唯一 (那奇片段-汽水音乐可听)]() - 那奇沃夫/KKECHO
-1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
-1. [Popipo](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
+1. [爱的蠢动 (总是执着等待爱情的到来)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osB9AW8xohlGrsNUX9GNAfK4bzdzSxIPVq7gIw) - 胡期皓
+1. [Popipo](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/768f2c2597214222b217c7596635a9c2) - Hatsune Miku
 1. [You & Me]() - Fingazz ft.H-Slang & Choco
 1. [我记得]() - 赵雷
-1. [BABYDOLL (Speed)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
+1. [BABYDOLL (Speed)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f86004ee955c490ab8477e6ba7ca5859) - Ari Abdul
 1. [晚风告白 (副歌)]() - 星野
 1. [会长大的幸福（女生版）-片段]() - 橘子妹
-1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
 1. [故事还长]() - 云汐
 1. [小神仙]() - 郭斯
 1. [热恋情节 (剪辑版)]() - 吴子健REmi,Kiya
 1. [就让这大雨全都落下 (剪辑版1)]() - 容祖儿
-1. [SLIDE](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oswqdhFZxAFErZ3BBzAZJYvvfMdIoUtsvWHA4K) - ØZI
+1. [SLIDE](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oswqdhFZxAFErZ3BBzAZJYvvfMdIoUtsvWHA4K) - ØZI
 1. [囍帖街 - edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/daefbe1f770a403d867ebce5419518f5) - 谢安琪
 1. [粉色海洋]() - 周杰伦
 1. [月亮之上（原版)]() - 凤凰传奇
@@ -100,7 +100,7 @@
 1. [达尔文（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQuPQQmEgnCeZsgKQ78VBZjNVtegzBGpoSbQPD) - 林俊杰
 1. [帶我去找夜生活]() - 告五人
 1. [故事终章 (剪辑版)]() - 程响
-1. [我愛你-上海蟹-](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
+1. [我愛你-上海蟹-](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7cc6d91d8fb54e6194eabea288d60d9f) - カニ研究会
 1. [大貔貅 (剪辑版)]() - ONER/宋木子
 1. [心动降临]() - 星野
 1. [传奇]() - 郭沁
@@ -113,7 +113,7 @@
 1. [巡光 (主歌版)]() - 就是南方凯
 1. [可愛くてごめん (feat. かぴ)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1c1f8de917ea41efadd7fa3561b576af) - HoneyWorks
 1. [Own Way (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ochA57DoQBgjUeYbuKeQHKrtIiU5HtCInB5ZXd) - ZHANGYE
-1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
+1. [Hot](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
 1. [山茶花读不懂白玫瑰_剪辑版1](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osZvbBubCCKUXDTjlkQeDUQ2IBebQ3DakgnRt4) - lil笑笑
 1. [Why Why Why]() - 王嘉尔
 1. [不及她可爱 (片段)]() - 张德伊玲
@@ -121,10 +121,10 @@
 1. [那一刻心动（片段）]() - 任子墨/刘瑞琦
 1. [You Don't Know Me - Edit](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og3tw2xRzUiyv2BGBbfDomsVOANOxzAIhHwMW2) - Jax Jones & RAYE
 1. [小城夏天]() - LBI利比
-1. [小雨 (副歌2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
+1. [小雨 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8xZGGk7bFCVMDnfaaLcaUoAP8zCB3eZegDQD8) - 黄龄
 1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fbe80e953d994d4793d482105a4fbbf8) - Henry Young
-1. [花_剪辑版1_汽水音乐可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
-1. [雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
+1. [花_剪辑版1_汽水音乐可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Nt6DHngcuBxceebmjZBICdIxaiy2UvjowHtQ) - 鞠婧祎
+1. [雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1daf425e3c6d4bd5941a2a6b42e227cb) - Matt吕彦良
 1. [云边书坊 (副歌2)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE1iIocZDzBQ8zhlqvfPAsxKRW4wiAhtU7tWth) - 旺仔小乔
 
 ## 品牌榜
